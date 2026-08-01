@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1888501586944770545",
+    "created_at": "2025-02-10T04:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T05:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888811857751977999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1224274235561926659",
+          "start": 0,
+          "username": "AmamizuRei0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888811857751977999",
+    "in_reply_to_user_id": "1224274235561926659",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888512384253513800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@AmamizuRei0 👍🏻👍🏻穿我衣服跳舞很漂亮没想到我衣服给你穿这么合身"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1888501586944770545",
+        "created_at": "2025-02-10T04:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T05:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888811857751977999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1224274235561926659",
+              "start": 0,
+              "username": "AmamizuRei0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888811857751977999",
+        "in_reply_to_user_id": "1224274235561926659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888512384253513800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@AmamizuRei0 👍🏻👍🏻穿我衣服跳舞很漂亮没想到我衣服给你穿这么合身"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224274235561926659",
+        "conversation_id": "1888501586944770545",
+        "created_at": "2025-02-09T08:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T09:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888512384253513800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888512384253513800",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888501586944770545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@hX61zi4Jk332357 我饿了，v我50个橘子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6653,
+          "following_count": 34,
+          "like_count": 379,
+          "listed_count": 14,
+          "media_count": 131,
+          "tweet_count": 632
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-03T10:11:59.000Z",
+        "description": "顶着橘子假装自己是橘猫的黑猫 | 实际上是一只经常会饿的野猪精 | 男的 | 4i | 超级brat",
+        "id": "1224274235561926659",
+        "location": "橘子树上",
+        "name": "橘子猫天水🍊",
+        "pinned_tweet_id": "1799291223657881758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720746628070744064/hDWjf5uj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3563,
+          "following_count": 1209,
+          "like_count": 129791,
+          "listed_count": 12,
+          "media_count": 1090,
+          "tweet_count": 17876
+        },
+        "username": "AmamizuRei0",
+        "verified": false
+      }
+    ]
+  }
+}

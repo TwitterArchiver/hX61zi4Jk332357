@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1887926053890572313",
+    "created_at": "2025-02-07T18:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T19:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887926053890572313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sadhororr/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/sadhororr/status/1887496632654045420",
+          "start": 3,
+          "url": "https://t.co/2nK1Aphc4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887926053890572313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887496632654045420",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "我想 https://t.co/2nK1Aphc4F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1887926053890572313",
+        "created_at": "2025-02-07T18:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T19:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887926053890572313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sadhororr/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/sadhororr/status/1887496632654045420",
+              "start": 3,
+              "url": "https://t.co/2nK1Aphc4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887926053890572313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887496632654045420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "我想 https://t.co/2nK1Aphc4F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1887496577788317697"
+          ]
+        },
+        "author_id": "1785111682731196416",
+        "conversation_id": "1887496632654045420",
+        "created_at": "2025-02-06T13:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T14:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887496632654045420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCYtYbZb3Q",
+              "end": 23,
+              "expanded_url": "https://x.com/sadhororr/status/1887496632654045420/video/1",
+              "media_key": "13_1887496577788317697",
+              "start": 0,
+              "url": "https://t.co/uCYtYbZb3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887496632654045420",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2106,
+          "impression_count": 348224,
+          "like_count": 15265,
+          "quote_count": 126,
+          "reply_count": 42,
+          "retweet_count": 3316
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uCYtYbZb3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6648,
+          "following_count": 34,
+          "like_count": 373,
+          "listed_count": 14,
+          "media_count": 127,
+          "tweet_count": 607
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T00:59:38.000Z",
+        "description": "midnight sadness.",
+        "id": "1785111682731196416",
+        "name": "sadhororr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882359062240657408/3eKpBr0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15186,
+          "following_count": 9,
+          "like_count": 112,
+          "listed_count": 29,
+          "media_count": 55,
+          "tweet_count": 56
+        },
+        "username": "sadhororr",
+        "verified": true
+      }
+    ]
+  }
+}

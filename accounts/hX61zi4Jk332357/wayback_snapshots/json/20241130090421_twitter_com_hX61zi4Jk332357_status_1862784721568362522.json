@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862167817572794370"
+      ],
+      "media_source_tweet_id": [
+        "1862167824048980146"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1862784721568362522",
+    "created_at": "2024-11-30T09:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T10:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862784721568362522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1840808366324793349",
+          "start": 3,
+          "username": "tyaotyu_ru4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yO0thhaiVz",
+          "end": 49,
+          "expanded_url": "https://x.com/tyaotyu_ru4/status/1862167824048980146/photo/1",
+          "media_key": "3_1862167817572794370",
+          "start": 26,
+          "url": "https://t.co/yO0thhaiVz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862784721568362522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862167824048980146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tyaotyu_ru4: うんまーいって顔 https://t.co/yO0thhaiVz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1862167817572794370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gde_w46XQAIodh3.jpg",
+        "width": 1627
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862167817572794370"
+          ],
+          "media_source_tweet_id": [
+            "1862167824048980146"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1862784721568362522",
+        "created_at": "2024-11-30T09:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T10:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862784721568362522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1840808366324793349",
+              "start": 3,
+              "username": "tyaotyu_ru4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yO0thhaiVz",
+              "end": 49,
+              "expanded_url": "https://x.com/tyaotyu_ru4/status/1862167824048980146/photo/1",
+              "media_key": "3_1862167817572794370",
+              "start": 26,
+              "url": "https://t.co/yO0thhaiVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862784721568362522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862167824048980146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tyaotyu_ru4: うんまーいって顔 https://t.co/yO0thhaiVz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862167817572794370"
+          ]
+        },
+        "author_id": "1840808366324793349",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1862167824048980146",
+        "created_at": "2024-11-28T16:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T17:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862167824048980146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yO0thhaiVz",
+              "end": 32,
+              "expanded_url": "https://x.com/tyaotyu_ru4/status/1862167824048980146/photo/1",
+              "media_key": "3_1862167817572794370",
+              "start": 9,
+              "url": "https://t.co/yO0thhaiVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862167824048980146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 401,
+          "impression_count": 160230,
+          "like_count": 6214,
+          "quote_count": 13,
+          "reply_count": 10,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "うんまーいって顔 https://t.co/yO0thhaiVz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831216069949698049/uq0rKUd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 14,
+          "like_count": 75,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 115
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T17:38:30.000Z",
+        "description": "15さい 存在しない 平和主義 251 @yx00971",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "yx00971"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/46qdetau19602y…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/46qdetau19602yg?t=jCGbLZ&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/D6aIO0M9kf"
+              }
+            ]
+          }
+        },
+        "id": "1840808366324793349",
+        "location": "12/16",
+        "name": "晴さん",
+        "pinned_tweet_id": "1861264332707053834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861465084050186242/hUjVNKko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 89,
+          "like_count": 5450,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 1467
+        },
+        "url": "https://t.co/D6aIO0M9kf",
+        "username": "tyaotyu_ru4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1876299173290795282",
+    "created_at": "2025-01-06T16:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T17:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876305203856863572"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1876305203856863572",
+    "in_reply_to_user_id": "1817120099528265728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876299173290795282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "好的看来大家都支持我切手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1876299173290795282",
+        "created_at": "2025-01-06T16:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T17:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876305203856863572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876305203856863572",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876299173290795282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "好的看来大家都支持我切手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1876299173290795282",
+        "created_at": "2025-01-06T16:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T17:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876299173290795282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876299173290795282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "这条下面谁安慰我一句我就不切手了谢谢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872565485847638016/qdNAtQUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5920,
+          "following_count": 24,
+          "like_count": 217,
+          "listed_count": 13,
+          "media_count": 86,
+          "tweet_count": 327
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

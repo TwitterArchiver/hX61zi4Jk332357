@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055616431363174400",
+        "3_2055616431358976000"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2055616445791567938",
+    "created_at": "2026-05-16T11:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055616445791567938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oIzvkKCkbJ",
+          "end": 27,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/2055616445791567938/photo/1",
+          "media_key": "3_2055616431363174400",
+          "start": 4,
+          "url": "https://t.co/oIzvkKCkbJ"
+        },
+        {
+          "display_url": "pic.x.com/oIzvkKCkbJ",
+          "end": 27,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/2055616445791567938/photo/1",
+          "media_key": "3_2055616431358976000",
+          "start": 4,
+          "url": "https://t.co/oIzvkKCkbJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055616445791567938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "古伊奈 https://t.co/oIzvkKCkbJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1627,
+        "media_key": "3_2055616431363174400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcEQNHbsAAKQH1.jpg",
+        "width": 1911
+      },
+      {
+        "height": 1627,
+        "media_key": "3_2055616431358976000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcEQNGboAAQ6KE.jpg",
+        "width": 1888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055616431363174400",
+            "3_2055616431358976000"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2055616445791567938",
+        "created_at": "2026-05-16T11:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055616445791567938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oIzvkKCkbJ",
+              "end": 27,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/2055616445791567938/photo/1",
+              "media_key": "3_2055616431363174400",
+              "start": 4,
+              "url": "https://t.co/oIzvkKCkbJ"
+            },
+            {
+              "display_url": "pic.x.com/oIzvkKCkbJ",
+              "end": 27,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/2055616445791567938/photo/1",
+              "media_key": "3_2055616431358976000",
+              "start": 4,
+              "url": "https://t.co/oIzvkKCkbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055616445791567938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "古伊奈 https://t.co/oIzvkKCkbJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9291,
+          "following_count": 92,
+          "like_count": 2519,
+          "listed_count": 21,
+          "media_count": 483,
+          "tweet_count": 2303
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

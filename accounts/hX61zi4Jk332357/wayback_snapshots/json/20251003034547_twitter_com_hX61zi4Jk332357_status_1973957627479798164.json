@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973399371749400576"
+      ],
+      "media_source_tweet_id": [
+        "1973399389403062673"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1973957627479798164",
+    "created_at": "2025-10-03T03:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T04:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973957627479798164"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 12,
+          "tag": "AveMujica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "770520209413124096",
+          "start": 3,
+          "username": "ryow_6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XcBeuZrGCy",
+          "end": 49,
+          "expanded_url": "https://x.com/ryow_6/status/1973399389403062673/photo/1",
+          "media_key": "3_1973399371749400576",
+          "start": 26,
+          "url": "https://t.co/XcBeuZrGCy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973957627479798164",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 144
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973399389403062673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ryow_6: #AveMujica\nXV https://t.co/XcBeuZrGCy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1973957627479798164].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1973957627479798164",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1973957627479798164"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973399371749400576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2LsRekaIAAqg0s.jpg",
+        "width": 1362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973399371749400576"
+          ]
+        },
+        "author_id": "770520209413124096",
+        "conversation_id": "1973399389403062673",
+        "created_at": "2025-10-01T14:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T15:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973399389403062673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XcBeuZrGCy",
+              "end": 37,
+              "expanded_url": "https://x.com/ryow_6/status/1973399389403062673/photo/1",
+              "media_key": "3_1973399371749400576",
+              "start": 14,
+              "url": "https://t.co/XcBeuZrGCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973399389403062673",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 10955,
+          "like_count": 819,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 144
+        },
+        "reply_settings": "following",
+        "text": "#AveMujica\nXV https://t.co/XcBeuZrGCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1968252048396419216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8010,
+          "following_count": 70,
+          "like_count": 1634,
+          "listed_count": 20,
+          "media_count": 351,
+          "tweet_count": 1818
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-30T07:15:08.000Z",
+        "description": "中文（繁简）日本語·ENG🆗\nfuck AI😤\n⚠️No reproduction without\npermission.⚠️\n无来源注明“分享”我的画的一辈子发不了财",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/7842363399",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/7842363399",
+                "start": 0,
+                "url": "https://t.co/wRs3jwgYBx"
+              }
+            ]
+          }
+        },
+        "id": "770520209413124096",
+        "location": "山田的衣柜",
+        "name": "Ryow_斑纹仓鼠🐹",
+        "pinned_tweet_id": "1961341330220879966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795900838353006593/fbVnxeMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3698,
+          "following_count": 106,
+          "like_count": 428,
+          "listed_count": 23,
+          "media_count": 162,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/wRs3jwgYBx",
+        "username": "ryow_6",
+        "verified": false
+      }
+    ]
+  }
+}

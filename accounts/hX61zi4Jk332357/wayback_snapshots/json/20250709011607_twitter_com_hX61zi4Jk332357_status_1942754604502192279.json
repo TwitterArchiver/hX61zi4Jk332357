@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1942753715058008576",
+    "created_at": "2025-07-09T01:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T02:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942754604502192279"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1942754604502192279",
+    "in_reply_to_user_id": "1817120099528265728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942753715058008576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果心生来就是要碎的…那如果痛苦不安是爱我岂不是全日沐浴在爱中吗，原来不必携拥着痛苦就可以识别出是爱吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1942753715058008576",
+        "created_at": "2025-07-09T01:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T02:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942754604502192279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942754604502192279",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942753715058008576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果心生来就是要碎的…那如果痛苦不安是爱我岂不是全日沐浴在爱中吗，原来不必携拥着痛苦就可以识别出是爱吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1942753715058008576",
+        "created_at": "2025-07-09T01:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T02:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942753715058008576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942753715058008576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还以为把痛苦等同于爱这种只会在meme里看见…结果才察觉我完全无法体验到没有痛苦也可以接受爱的感受…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8229,
+          "following_count": 59,
+          "like_count": 1175,
+          "listed_count": 19,
+          "media_count": 262,
+          "tweet_count": 1464
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

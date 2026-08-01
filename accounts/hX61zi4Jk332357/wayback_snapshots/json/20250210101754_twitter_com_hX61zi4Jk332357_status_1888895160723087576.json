@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1888894068685733954",
+    "created_at": "2025-02-10T10:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T11:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888895160723087576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1650126478213001216",
+          "start": 0,
+          "username": "Yun__V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888895160723087576",
+    "in_reply_to_user_id": "1650126478213001216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888894922461532405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Yun__V 你永远都会是第一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1888894068685733954",
+        "created_at": "2025-02-10T10:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T11:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888895160723087576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888895160723087576",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888894922461532405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Yun__V 你永远都会是第一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1888894068685733954",
+        "created_at": "2025-02-10T10:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T11:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888894922461532405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888894922461532405",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888894068685733954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@hX61zi4Jk332357 还以为你只发给我了呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6655,
+          "following_count": 35,
+          "like_count": 382,
+          "listed_count": 14,
+          "media_count": 132,
+          "tweet_count": 642
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10566,
+          "following_count": 216,
+          "like_count": 4139,
+          "listed_count": 23,
+          "media_count": 549,
+          "tweet_count": 4612
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

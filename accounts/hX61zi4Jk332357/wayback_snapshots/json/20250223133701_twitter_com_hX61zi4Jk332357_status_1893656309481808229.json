@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1893617451683713035",
+    "created_at": "2025-02-23T13:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T14:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893656309481808229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1632843731446407168",
+          "start": 0,
+          "username": "_dddontcareme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893656309481808229",
+    "in_reply_to_user_id": "1632843731446407168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893617451683713035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@_dddontcareme 再一次 虐待我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893617432742256641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkd7BbMW4AEg_1I.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1893617432742232064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkd7BbMWgAALYyO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1893617451683713035",
+        "created_at": "2025-02-23T13:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T14:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893656309481808229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1632843731446407168",
+              "start": 0,
+              "username": "_dddontcareme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893656309481808229",
+        "in_reply_to_user_id": "1632843731446407168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893617451683713035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@_dddontcareme 再一次 虐待我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893617432742256641",
+            "3_1893617432742232064"
+          ]
+        },
+        "author_id": "1632843731446407168",
+        "conversation_id": "1893617451683713035",
+        "created_at": "2025-02-23T11:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T12:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893617451683713035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cD90kAI9L4",
+              "end": 23,
+              "expanded_url": "https://x.com/_dddontcareme/status/1893617451683713035/photo/1",
+              "media_key": "3_1893617432742256641",
+              "start": 0,
+              "url": "https://t.co/cD90kAI9L4"
+            },
+            {
+              "display_url": "pic.x.com/cD90kAI9L4",
+              "end": 23,
+              "expanded_url": "https://x.com/_dddontcareme/status/1893617451683713035/photo/1",
+              "media_key": "3_1893617432742232064",
+              "start": 0,
+              "url": "https://t.co/cD90kAI9L4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893617451683713035",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 585,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/cD90kAI9L4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6809,
+          "following_count": 37,
+          "like_count": 428,
+          "listed_count": 15,
+          "media_count": 144,
+          "tweet_count": 713
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T20:41:04.000Z",
+        "description": "為了您我甘心受困",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/k3iovo?r=namet…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/k3iovo?r=nametag",
+                "start": 0,
+                "url": "https://t.co/FROtNNAzW6"
+              }
+            ]
+          }
+        },
+        "id": "1632843731446407168",
+        "name": "ifsixwasnine",
+        "pinned_tweet_id": "1870134583037178024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778388422308335616/1h-NBxVX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 233,
+          "like_count": 13291,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 2783
+        },
+        "url": "https://t.co/FROtNNAzW6",
+        "username": "_dddontcareme",
+        "verified": false
+      }
+    ]
+  }
+}

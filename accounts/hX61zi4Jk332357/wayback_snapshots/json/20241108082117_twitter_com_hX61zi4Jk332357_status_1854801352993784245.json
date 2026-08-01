@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1854551986500469072",
+    "created_at": "2024-11-08T08:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T09:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854801352993784245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1661419755864211456",
+          "start": 0,
+          "username": "xueli333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854801352993784245",
+    "in_reply_to_user_id": "1661419755864211456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854791446534271357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xueli333 對不起我關了消息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1854551986500469072",
+        "created_at": "2024-11-08T08:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T09:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854801352993784245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1661419755864211456",
+              "start": 0,
+              "username": "xueli333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854801352993784245",
+        "in_reply_to_user_id": "1661419755864211456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854791446534271357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xueli333 對不起我關了消息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661419755864211456",
+        "conversation_id": "1854551986500469072",
+        "created_at": "2024-11-08T07:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T08:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854791446534271357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854791446534271357",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854551986500469072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 快关注我不然别怪我不客气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "失鹤池",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831216069949698049/uq0rKUd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 12,
+          "like_count": 65,
+          "listed_count": 3,
+          "tweet_count": 75
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T17:11:53.000Z",
+        "description": "🚪188/288口令红包 自用vpn⬇️推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=H3qMc8ZQ",
+                "start": 0,
+                "url": "https://t.co/ubha7bGHJu"
+              }
+            ]
+          }
+        },
+        "id": "1661419755864211456",
+        "location": "猫窝",
+        "name": "雪球",
+        "pinned_tweet_id": "1690884054919630848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842263530592227328/pzR45jia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10165,
+          "following_count": 208,
+          "like_count": 318,
+          "listed_count": 13,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/ubha7bGHJu",
+        "username": "xueli333",
+        "verified": false
+      }
+    ]
+  }
+}

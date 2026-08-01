@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1866019123211514077",
+    "created_at": "2024-12-09T07:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T08:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866019809122762939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829609141649952768",
+          "start": 0,
+          "username": "wbuchishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866019809122762939",
+    "in_reply_to_user_id": "1829609141649952768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866019123211514077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbuchishi 喜欢小蕾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1866019123211514077",
+        "created_at": "2024-12-09T07:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T08:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866019809122762939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829609141649952768",
+              "start": 0,
+              "username": "wbuchishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866019809122762939",
+        "in_reply_to_user_id": "1829609141649952768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866019123211514077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbuchishi 喜欢小蕾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866019114449502208",
+            "3_1866019114437013504",
+            "3_1866019114432794624"
+          ]
+        },
+        "author_id": "1829609141649952768",
+        "conversation_id": "1866019123211514077",
+        "created_at": "2024-12-09T07:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T08:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866019123211514077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/To6hgV6zsd",
+              "end": 35,
+              "expanded_url": "https://x.com/wbuchishi/status/1866019123211514077/photo/1",
+              "media_key": "3_1866019114449502208",
+              "start": 12,
+              "url": "https://t.co/To6hgV6zsd"
+            },
+            {
+              "display_url": "pic.x.com/To6hgV6zsd",
+              "end": 35,
+              "expanded_url": "https://x.com/wbuchishi/status/1866019123211514077/photo/1",
+              "media_key": "3_1866019114437013504",
+              "start": 12,
+              "url": "https://t.co/To6hgV6zsd"
+            },
+            {
+              "display_url": "pic.x.com/To6hgV6zsd",
+              "end": 35,
+              "expanded_url": "https://x.com/wbuchishi/status/1866019123211514077/photo/1",
+              "media_key": "3_1866019114432794624",
+              "start": 12,
+              "url": "https://t.co/To6hgV6zsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866019123211514077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢小蕾\\(^O^)/ https://t.co/To6hgV6zsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831216069949698049/uq0rKUd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 15,
+          "like_count": 99,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 150
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "isjwbwbajansnaj",
+        "id": "1829609141649952768",
+        "name": "绝望的人夫",
+        "pinned_tweet_id": "1857256637549199744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865277650060873728/1NzKdFK4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 66,
+          "like_count": 2104,
+          "listed_count": 5,
+          "media_count": 19,
+          "tweet_count": 1061
+        },
+        "username": "wbuchishi",
+        "verified": false
+      }
+    ]
+  }
+}

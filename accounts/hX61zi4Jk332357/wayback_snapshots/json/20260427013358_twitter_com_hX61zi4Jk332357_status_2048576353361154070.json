@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048176812157743104"
+      ],
+      "media_source_tweet_id": [
+        "2048176871775309943"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048576353361154070",
+    "created_at": "2026-04-27T01:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T02:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048576353361154070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011397954033385472",
+          "start": 3,
+          "username": "yureiyks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5lfe9iYulB",
+          "end": 37,
+          "expanded_url": "https://x.com/yureiyks/status/2048176871775309943/video/1",
+          "media_key": "13_2048176812157743104",
+          "start": 14,
+          "url": "https://t.co/5lfe9iYulB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048576353361154070",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 872
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048176871775309943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yureiyks: https://t.co/5lfe9iYulB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6500,
+        "height": 950,
+        "media_key": "13_2048176812157743104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048176812157743104/img/xx7cB3iHHAdhMCuZ.jpg",
+        "public_metrics": {
+          "view_count": 42439
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048176812157743104/vid/avc1/320x424/2wdktEs6ntrOyZhy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048176812157743104/vid/avc1/480x636/vvD8iFYSfMzB0StK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048176812157743104/vid/avc1/716x950/JgUFjtcwIYo_9KSQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048176812157743104/pl/2UI25RwhtTwCFh1h.m3u8"
+          }
+        ],
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048176812157743104"
+          ],
+          "media_source_tweet_id": [
+            "2048176871775309943"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048576353361154070",
+        "created_at": "2026-04-27T01:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048576353361154070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011397954033385472",
+              "start": 3,
+              "username": "yureiyks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lfe9iYulB",
+              "end": 37,
+              "expanded_url": "https://x.com/yureiyks/status/2048176871775309943/video/1",
+              "media_key": "13_2048176812157743104",
+              "start": 14,
+              "url": "https://t.co/5lfe9iYulB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048576353361154070",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 872
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048176871775309943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yureiyks: https://t.co/5lfe9iYulB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048176812157743104"
+          ]
+        },
+        "author_id": "2011397954033385472",
+        "conversation_id": "2048176871775309943",
+        "created_at": "2026-04-25T23:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T00:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048176871775309943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lfe9iYulB",
+              "end": 23,
+              "expanded_url": "https://x.com/yureiyks/status/2048176871775309943/video/1",
+              "media_key": "13_2048176812157743104",
+              "start": 0,
+              "url": "https://t.co/5lfe9iYulB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048176871775309943",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1349,
+          "impression_count": 126823,
+          "like_count": 9669,
+          "quote_count": 12,
+          "reply_count": 12,
+          "retweet_count": 872
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5lfe9iYulB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9121,
+          "following_count": 95,
+          "like_count": 2465,
+          "listed_count": 19,
+          "media_count": 478,
+          "tweet_count": 2272
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T11:20:35.000Z",
+        "description": "🐈‍⬛🐈‍⬛🐈‍⬛",
+        "id": "2011397954033385472",
+        "name": "Yūrei 幽霊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011400249890537472/SzuN0KCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38353,
+          "following_count": 501,
+          "like_count": 1258,
+          "listed_count": 56,
+          "media_count": 555,
+          "tweet_count": 1089
+        },
+        "username": "yureiyks",
+        "verified": true
+      }
+    ]
+  }
+}

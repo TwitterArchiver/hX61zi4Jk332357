@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1910165606856548352"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1910166202124841192",
+    "created_at": "2025-04-10T03:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T04:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910166202124841192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w8D26yWLTw",
+          "end": 27,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1910166202124841192/photo/1",
+          "media_key": "16_1910165606856548352",
+          "start": 4,
+          "url": "https://t.co/w8D26yWLTw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910166202124841192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "三只羊 https://t.co/w8D26yWLTw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1910165606856548352",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GoJFf7raYAAWhY0.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GoJFf7raYAAWhY0.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1910165606856548352"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1910166202124841192",
+        "created_at": "2025-04-10T03:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T04:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910166202124841192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w8D26yWLTw",
+              "end": 27,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1910166202124841192/photo/1",
+              "media_key": "16_1910165606856548352",
+              "start": 4,
+              "url": "https://t.co/w8D26yWLTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910166202124841192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "三只羊 https://t.co/w8D26yWLTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902896494052773890/hrQl_6Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7581,
+          "following_count": 42,
+          "like_count": 664,
+          "listed_count": 17,
+          "media_count": 175,
+          "tweet_count": 1016
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1992458442896990388",
+    "created_at": "2025-11-24T04:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T05:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992807648732082381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "51305946",
+          "start": 0,
+          "username": "104___c3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992807648732082381",
+    "in_reply_to_user_id": "51305946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992458442896990388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@104___c3 求放骂死过人一条生路"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1992458406293368832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aiXTDbcAAPJ9H.png",
+        "width": 551
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1992458442896990388",
+        "created_at": "2025-11-24T04:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992807648732082381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "51305946",
+              "start": 0,
+              "username": "104___c3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992807648732082381",
+        "in_reply_to_user_id": "51305946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992458442896990388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@104___c3 求放骂死过人一条生路"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992458406293368832"
+          ]
+        },
+        "author_id": "51305946",
+        "conversation_id": "1992458442896990388",
+        "created_at": "2025-11-23T05:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T06:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992458442896990388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ofy9vnCpnk",
+              "end": 29,
+              "expanded_url": "https://x.com/104___c3/status/1992458442896990388/photo/1",
+              "media_key": "3_1992458406293368832",
+              "start": 6,
+              "url": "https://t.co/Ofy9vnCpnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992458442896990388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 675,
+          "impression_count": 209219,
+          "like_count": 5436,
+          "quote_count": 0,
+          "reply_count": 102,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "初顔出しっ https://t.co/Ofy9vnCpnk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9944,
+          "following_count": 84,
+          "like_count": 1968,
+          "listed_count": 23,
+          "media_count": 390,
+          "tweet_count": 1997
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-27T01:38:54.000Z",
+        "description": "⸝⋆ow valo lol⸝⋆",
+        "id": "51305946",
+        "name": "まいまい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952585330315644928/zBfD6z8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14791,
+          "following_count": 183,
+          "like_count": 1193,
+          "listed_count": 9,
+          "media_count": 11,
+          "tweet_count": 260
+        },
+        "username": "104___c3",
+        "verified": false
+      }
+    ]
+  }
+}

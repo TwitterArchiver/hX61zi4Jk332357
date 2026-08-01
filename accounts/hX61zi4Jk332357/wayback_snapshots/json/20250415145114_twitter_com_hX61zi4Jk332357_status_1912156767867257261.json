@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1912102059614343392",
+    "created_at": "2025-04-15T14:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T15:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912156767867257261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898948516032217088",
+          "start": 0,
+          "username": "y8369534760940"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912156767867257261",
+    "in_reply_to_user_id": "1898948516032217088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912102059614343392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y8369534760940 和我联"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912102045185716224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GokmremXsAAAVTU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1912102059614343392",
+        "created_at": "2025-04-15T14:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T15:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912156767867257261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898948516032217088",
+              "start": 0,
+              "username": "y8369534760940"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912156767867257261",
+        "in_reply_to_user_id": "1898948516032217088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912102059614343392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y8369534760940 和我联"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912102045185716224"
+          ]
+        },
+        "author_id": "1898948516032217088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1912102059614343392",
+        "created_at": "2025-04-15T11:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T12:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912102059614343392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5Dt0NOlLb",
+              "end": 30,
+              "expanded_url": "https://x.com/y8369534760940/status/1912102059614343392/photo/1",
+              "media_key": "3_1912102045185716224",
+              "start": 7,
+              "url": "https://t.co/O5Dt0NOlLb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912102059614343392",
+        "lang": "hy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "վ'ᴗ' ի https://t.co/O5Dt0NOlLb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902896494052773890/hrQl_6Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7825,
+          "following_count": 46,
+          "like_count": 720,
+          "listed_count": 18,
+          "media_count": 182,
+          "tweet_count": 1066
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T04:06:31.000Z",
+        "description": "不清楚自己在干什么 不要在意。如冒犯到了 对不起",
+        "id": "1898948516032217088",
+        "location": "🚪88 不入门不闲聊",
+        "name": "止痛藥",
+        "pinned_tweet_id": "1905865763128213697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907081059420061696/xY_56i9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 58,
+          "like_count": 565,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 384
+        },
+        "username": "y8369534760940",
+        "verified": false
+      }
+    ]
+  }
+}

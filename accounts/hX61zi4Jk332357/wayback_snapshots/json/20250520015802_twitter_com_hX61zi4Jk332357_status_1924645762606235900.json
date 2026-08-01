@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1924473618819600410",
+    "created_at": "2025-05-20T01:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T02:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924645762606235900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1840373101022052352",
+          "start": 0,
+          "username": "crazy_historyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924645762606235900",
+    "in_reply_to_user_id": "1840373101022052352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924473618819600410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crazy_historyx 如此之萌…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 242787,
+        "height": 360,
+        "media_key": "7_1898358047875137536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1898358047875137536/pu/img/5b7xdjfnSObk2Hdk.jpg",
+        "public_metrics": {
+          "view_count": 18148
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898358047875137536/pu/vid/avc1/368x270/DUujVTIu91DPqHld.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898358047875137536/pu/vid/avc1/492x360/Ovw0hOLJz_GfnNWg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1898358047875137536/pu/pl/y0p_mRgfi0zCEirK.m3u8?tag=12"
+          }
+        ],
+        "width": 492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1924473618819600410",
+        "created_at": "2025-05-20T01:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T02:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924645762606235900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1840373101022052352",
+              "start": 0,
+              "username": "crazy_historyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924645762606235900",
+        "in_reply_to_user_id": "1840373101022052352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924473618819600410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crazy_historyx 如此之萌…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1898358047875137536"
+          ]
+        },
+        "author_id": "1840373101022052352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1924473618819600410",
+        "created_at": "2025-05-19T14:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T15:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924473618819600410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZjYZyRydwZ",
+              "end": 49,
+              "expanded_url": "https://x.com/crazy_historyx/status/1924473618819600410/video/1",
+              "media_key": "7_1898358047875137536",
+              "start": 26,
+              "url": "https://t.co/ZjYZyRydwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924473618819600410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 32963,
+          "like_count": 316,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "孩子过度依赖父母怎么办？那就给他看看这部老动画片！ https://t.co/ZjYZyRydwZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8316,
+          "following_count": 49,
+          "like_count": 943,
+          "listed_count": 20,
+          "media_count": 214,
+          "tweet_count": 1277
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T12:48:43.000Z",
+        "description": "环球纪事，领略古今疯狂故事，分享奇趣百科知识",
+        "id": "1840373101022052352",
+        "name": "环球纪录",
+        "pinned_tweet_id": "1840403157316444447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879426175812132864/ykDHztJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22240,
+          "following_count": 0,
+          "like_count": 3972,
+          "listed_count": 78,
+          "media_count": 2667,
+          "tweet_count": 2864
+        },
+        "username": "crazy_historyx",
+        "verified": false
+      }
+    ]
+  }
+}

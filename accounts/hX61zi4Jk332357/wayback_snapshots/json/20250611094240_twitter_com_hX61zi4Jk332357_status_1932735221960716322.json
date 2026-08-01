@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1932735221960716322",
+    "created_at": "2025-06-11T09:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T10:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932735221960716322"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932735221960716322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近刷好多新学校领袖我现在推特主页全是suzuka…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1932735221960716322",
+        "created_at": "2025-06-11T09:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T10:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932735221960716322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932735221960716322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近刷好多新学校领袖我现在推特主页全是suzuka…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932038965802213376/Zd2qXf3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8307,
+          "following_count": 57,
+          "like_count": 1063,
+          "listed_count": 21,
+          "media_count": 235,
+          "tweet_count": 1371
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

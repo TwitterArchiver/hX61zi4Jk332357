@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2025576240183435297",
+    "created_at": "2026-02-22T14:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T15:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025576240183435297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1817120099528265728",
+          "start": 3,
+          "username": "hX61zi4Jk332357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025576240183435297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021623296044011556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hX61zi4Jk332357: 其实看到痛苦的朋友会觉得自己不够痛苦看到开心的朋友会觉得自己不够开心…小心翼翼地生怕这些无法对齐的事物会伤害到对方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2025576240183435297",
+        "created_at": "2026-02-22T14:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025576240183435297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1817120099528265728",
+              "start": 3,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025576240183435297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021623296044011556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hX61zi4Jk332357: 其实看到痛苦的朋友会觉得自己不够痛苦看到开心的朋友会觉得自己不够开心…小心翼翼地生怕这些无法对齐的事物会伤害到对方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2021623296044011556",
+        "created_at": "2026-02-11T16:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021623296044011556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021623296044011556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1765,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "其实看到痛苦的朋友会觉得自己不够痛苦看到开心的朋友会觉得自己不够开心…小心翼翼地生怕这些无法对齐的事物会伤害到对方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9397,
+          "following_count": 95,
+          "like_count": 2325,
+          "listed_count": 20,
+          "media_count": 454,
+          "tweet_count": 2184
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

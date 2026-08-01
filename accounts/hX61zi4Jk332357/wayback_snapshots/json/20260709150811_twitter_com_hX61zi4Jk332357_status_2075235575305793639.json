@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075235560919289856"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2075140522537304082",
+    "created_at": "2026-07-09T15:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075235575305793639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1881922471630450688",
+          "start": 0,
+          "username": "lvseshan643"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BLdupwD9ZP",
+          "end": 38,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/2075235575305793639/photo/1",
+          "media_key": "3_2075235560919289856",
+          "start": 15,
+          "url": "https://t.co/BLdupwD9ZP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075235575305793639",
+    "in_reply_to_user_id": "1881922471630450688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075140522537304082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvseshan643 😌 https://t.co/BLdupwD9ZP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075235560919289856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMy3v2HaUAAHZdo.jpg",
+        "width": 1024
+      },
+      {
+        "height": 485,
+        "media_key": "3_2075140136996933632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxg9cTbkAAvJVM.jpg",
+        "width": 704
+      },
+      {
+        "height": 814,
+        "media_key": "3_2075140493256867840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxhSLeawAAIbzQ.jpg",
+        "width": 1182
+      },
+      {
+        "height": 722,
+        "media_key": "3_2075140137030455296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxg9cbbEAAyEI0.jpg",
+        "width": 1306
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075235560919289856"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2075140522537304082",
+        "created_at": "2026-07-09T15:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075235575305793639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1881922471630450688",
+              "start": 0,
+              "username": "lvseshan643"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLdupwD9ZP",
+              "end": 38,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/2075235575305793639/photo/1",
+              "media_key": "3_2075235560919289856",
+              "start": 15,
+              "url": "https://t.co/BLdupwD9ZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075235575305793639",
+        "in_reply_to_user_id": "1881922471630450688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075140522537304082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvseshan643 😌 https://t.co/BLdupwD9ZP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075140136996933632",
+            "3_2075140493256867840",
+            "3_2075140137030455296"
+          ]
+        },
+        "author_id": "1881922471630450688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075140522537304082",
+        "created_at": "2026-07-09T08:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075140522537304082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7sCK5mH3b7",
+              "end": 108,
+              "expanded_url": "https://x.com/lvseshan643/status/2075140522537304082/photo/1",
+              "media_key": "3_2075140136996933632",
+              "start": 85,
+              "url": "https://t.co/7sCK5mH3b7"
+            },
+            {
+              "display_url": "pic.x.com/7sCK5mH3b7",
+              "end": 108,
+              "expanded_url": "https://x.com/lvseshan643/status/2075140522537304082/photo/1",
+              "media_key": "3_2075140493256867840",
+              "start": 85,
+              "url": "https://t.co/7sCK5mH3b7"
+            },
+            {
+              "display_url": "pic.x.com/7sCK5mH3b7",
+              "end": 108,
+              "expanded_url": "https://x.com/lvseshan643/status/2075140522537304082/photo/1",
+              "media_key": "3_2075140137030455296",
+              "start": 85,
+              "url": "https://t.co/7sCK5mH3b7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075140522537304082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3856,
+          "like_count": 182,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "谁想画我的个人形象？如果你画了这个鳄鱼的话，可以给我评论你的原创角色，然后我会画像第一张图片那样的搞笑图片给你。活动应该仅限今天，只画动物角色。我喜欢像吉祥物一样的角色 https://t.co/7sCK5mH3b7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9871,
+          "following_count": 96,
+          "like_count": 2702,
+          "listed_count": 18,
+          "media_count": 500,
+          "tweet_count": 2375
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T04:31:08.000Z",
+        "description": "",
+        "id": "1881922471630450688",
+        "name": "绿色山2",
+        "pinned_tweet_id": "2032315727617970198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032459090992238592/CglKWg1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9176,
+          "following_count": 158,
+          "like_count": 6795,
+          "listed_count": 18,
+          "media_count": 200,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "lvseshan643",
+        "verified": false
+      }
+    ]
+  }
+}

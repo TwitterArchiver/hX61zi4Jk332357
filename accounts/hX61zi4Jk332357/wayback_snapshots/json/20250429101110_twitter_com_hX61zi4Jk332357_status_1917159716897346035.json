@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1917153015121039484",
+    "created_at": "2025-04-29T10:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T11:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917159716897346035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829609141649952768",
+          "start": 0,
+          "username": "wbuchishi"
+        },
+        {
+          "end": 24,
+          "id": "1808081236394758145",
+          "start": 11,
+          "username": "eclipse_1900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917159716897346035",
+    "in_reply_to_user_id": "1829609141649952768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917153015121039484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@wbuchishi @eclipse_1900 退订"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1917153015121039484",
+        "created_at": "2025-04-29T10:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T11:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917159716897346035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829609141649952768",
+              "start": 0,
+              "username": "wbuchishi"
+            },
+            {
+              "end": 24,
+              "id": "1808081236394758145",
+              "start": 11,
+              "username": "eclipse_1900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917159716897346035",
+        "in_reply_to_user_id": "1829609141649952768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917153015121039484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@wbuchishi @eclipse_1900 退订"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829609141649952768",
+        "conversation_id": "1917153015121039484",
+        "created_at": "2025-04-29T09:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T10:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917153015121039484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808081236394758145",
+              "start": 0,
+              "username": "eclipse_1900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917153015121039484",
+        "in_reply_to_user_id": "1808081236394758145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "@eclipse_1900 草尼玛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912718783745331200/T8ADO8XA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8237,
+          "following_count": 50,
+          "like_count": 801,
+          "listed_count": 18,
+          "media_count": 194,
+          "tweet_count": 1153
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "",
+        "id": "1829609141649952768",
+        "name": "绝望的人夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916794328157966336/nlwsYiRz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4801,
+          "following_count": 93,
+          "like_count": 5143,
+          "listed_count": 13,
+          "media_count": 32,
+          "tweet_count": 2512
+        },
+        "username": "wbuchishi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T10:12:30.000Z",
+        "description": "生雀吻.",
+        "id": "1808081236394758145",
+        "location": "🚪288無營養陪聊",
+        "name": "罵死過人",
+        "pinned_tweet_id": "1833779123170521186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916507101733814272/f5Ur_zJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50192,
+          "following_count": 81,
+          "like_count": 2376,
+          "listed_count": 111,
+          "media_count": 128,
+          "tweet_count": 1169
+        },
+        "username": "eclipse_1900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1965989644010701240",
+    "created_at": "2025-09-11T10:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T11:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966084458916040965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926989108049596419",
+          "start": 0,
+          "username": "hikkiloveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966084458916040965",
+    "in_reply_to_user_id": "1926989108049596419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965989644010701240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikkiloveu 像解锁了某种恋爱支线任务"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1965989644010701240",
+        "created_at": "2025-09-11T10:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T11:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966084458916040965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926989108049596419",
+              "start": 0,
+              "username": "hikkiloveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966084458916040965",
+        "in_reply_to_user_id": "1926989108049596419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965989644010701240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikkiloveu 像解锁了某种恋爱支线任务"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926989108049596419",
+        "conversation_id": "1965989644010701240",
+        "created_at": "2025-09-11T04:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T05:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965989644010701240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965989644010701240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉唉唉 初高中時期 聽過最暖心的一句話 居然是\n如果你是男孩子的話 我一定會和你談戀愛的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1925148201281360017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8124,
+          "following_count": 66,
+          "like_count": 1506,
+          "listed_count": 20,
+          "media_count": 326,
+          "tweet_count": 1711
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T13:09:51.000Z",
+        "description": "這裡綠子 /也可以叫我乔乔/170,46~49kg/雙相II型（快速循環）/討好型人格/偏執/恐慌/回避型/我會碎碎念/我喜歡所有小動物/渴望和女性建立友誼/沒有門檻不加直男不接活（我有男朋友）/最想見的人最愛的人最思念的人@utadahikaru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "utadahikaru"
+              }
+            ]
+          }
+        },
+        "id": "1926989108049596419",
+        "location": "？",
+        "name": "綠子",
+        "pinned_tweet_id": "1964488963512815899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966060783806394369/Mjoc5sZ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 48,
+          "like_count": 3102,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 518
+        },
+        "username": "hikkiloveu",
+        "verified": false
+      }
+    ]
+  }
+}

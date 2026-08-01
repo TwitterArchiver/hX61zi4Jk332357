@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2045129414267351542",
+    "created_at": "2026-04-19T08:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045789346167726277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "964556688044036098",
+          "start": 0,
+          "username": "1315216817yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045789346167726277",
+    "in_reply_to_user_id": "964556688044036098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045501472280830378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1315216817yy dm我看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2045129414267351542",
+        "created_at": "2026-04-19T08:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045789346167726277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "964556688044036098",
+              "start": 0,
+              "username": "1315216817yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045789346167726277",
+        "in_reply_to_user_id": "964556688044036098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045501472280830378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1315216817yy dm我看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "964556688044036098",
+        "conversation_id": "2045129414267351542",
+        "created_at": "2026-04-18T13:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045501472280830378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045501472280830378",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045129414267351542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 好萌，，，，，，抱歉在这里询问，但是老师接不接稿呢……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9007,
+          "following_count": 95,
+          "like_count": 2439,
+          "listed_count": 19,
+          "media_count": 474,
+          "tweet_count": 2262
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-16T17:46:49.000Z",
+        "description": "",
+        "id": "964556688044036098",
+        "name": "Nako",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985113294412070912/_6w93FVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 18,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "1315216817yy",
+        "verified": false
+      }
+    ]
+  }
+}

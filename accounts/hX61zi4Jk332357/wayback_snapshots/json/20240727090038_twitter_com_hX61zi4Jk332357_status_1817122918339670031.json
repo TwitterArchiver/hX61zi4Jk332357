@@ -1,0 +1,83 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1817122918339670031",
+    "created_at": "2024-07-27T09:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T10:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1817122918339670031"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1817122918339670031",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拜託了.不要再對我攝影了."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1817122918339670031",
+        "created_at": "2024-07-27T09:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T10:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817122918339670031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817122918339670031",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拜託了.不要再對我攝影了."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817121381601202177/WyIaY-Du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 1
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

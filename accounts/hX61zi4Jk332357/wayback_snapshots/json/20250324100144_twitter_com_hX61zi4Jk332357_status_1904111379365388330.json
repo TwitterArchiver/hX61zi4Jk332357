@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904111352547049472"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1904111379365388330",
+    "created_at": "2025-03-24T10:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T11:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904111379365388330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nFjd3Jk9co",
+          "end": 23,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1904111379365388330/photo/1",
+          "media_key": "3_1904111352547049472",
+          "start": 0,
+          "url": "https://t.co/nFjd3Jk9co"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904111379365388330",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "https://t.co/nFjd3Jk9co"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904111352547049472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmzDL81bAAApe8U.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904111352547049472"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1904111379365388330",
+        "created_at": "2025-03-24T10:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T11:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904111379365388330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFjd3Jk9co",
+              "end": 23,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1904111379365388330/photo/1",
+              "media_key": "3_1904111352547049472",
+              "start": 0,
+              "url": "https://t.co/nFjd3Jk9co"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904111379365388330",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/nFjd3Jk9co"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902896494052773890/hrQl_6Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7167,
+          "following_count": 40,
+          "like_count": 581,
+          "listed_count": 17,
+          "media_count": 157,
+          "tweet_count": 890
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

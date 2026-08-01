@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905599610888105984"
+      ],
+      "media_source_tweet_id": [
+        "1905599615887700069"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1905916400306364728",
+    "created_at": "2025-03-29T09:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T10:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905916400306364728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1500738412642713605",
+          "start": 3,
+          "username": "takenaka1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kw8UWDgHnV",
+          "end": 41,
+          "expanded_url": "https://x.com/takenaka1111/status/1905599615887700069/photo/1",
+          "media_key": "3_1905599610888105984",
+          "start": 18,
+          "url": "https://t.co/kw8UWDgHnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905916400306364728",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3792
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905599615887700069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takenaka1111: https://t.co/kw8UWDgHnV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1506,
+        "media_key": "3_1905599610888105984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnIMv_MbsAA1wEE.jpg",
+        "width": 1128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905599610888105984"
+          ],
+          "media_source_tweet_id": [
+            "1905599615887700069"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1905916400306364728",
+        "created_at": "2025-03-29T09:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T10:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905916400306364728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1500738412642713605",
+              "start": 3,
+              "username": "takenaka1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kw8UWDgHnV",
+              "end": 41,
+              "expanded_url": "https://x.com/takenaka1111/status/1905599615887700069/photo/1",
+              "media_key": "3_1905599610888105984",
+              "start": 18,
+              "url": "https://t.co/kw8UWDgHnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905916400306364728",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3792
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905599615887700069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takenaka1111: https://t.co/kw8UWDgHnV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905599610888105984"
+          ]
+        },
+        "author_id": "1500738412642713605",
+        "conversation_id": "1905599615887700069",
+        "created_at": "2025-03-28T12:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T13:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905599615887700069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kw8UWDgHnV",
+              "end": 23,
+              "expanded_url": "https://x.com/takenaka1111/status/1905599615887700069/photo/1",
+              "media_key": "3_1905599610888105984",
+              "start": 0,
+              "url": "https://t.co/kw8UWDgHnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905599615887700069",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1565,
+          "impression_count": 232148,
+          "like_count": 22666,
+          "quote_count": 21,
+          "reply_count": 4,
+          "retweet_count": 3792
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kw8UWDgHnV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "@Yun__V别恋前任了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902896494052773890/hrQl_6Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7135,
+          "following_count": 40,
+          "like_count": 598,
+          "listed_count": 17,
+          "media_count": 162,
+          "tweet_count": 923
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T07:43:01.000Z",
+        "description": "🚀すきなものかく！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@takenaka1111",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@takenaka1111",
+                "start": 0,
+                "url": "https://t.co/BwfGZsRSGr"
+              }
+            ]
+          }
+        },
+        "id": "1500738412642713605",
+        "location": "🔕",
+        "name": "たけなか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751557231362109440/8okPKKCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21441,
+          "following_count": 15,
+          "like_count": 4449,
+          "listed_count": 110,
+          "media_count": 121,
+          "tweet_count": 753
+        },
+        "url": "https://t.co/BwfGZsRSGr",
+        "username": "takenaka1111",
+        "verified": false
+      }
+    ]
+  }
+}

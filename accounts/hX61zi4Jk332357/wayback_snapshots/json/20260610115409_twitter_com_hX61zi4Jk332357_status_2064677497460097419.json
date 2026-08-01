@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064677435946463232"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2064677497460097419",
+    "created_at": "2026-06-10T11:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064677497460097419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xIfLJNzxCL",
+          "end": 28,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/2064677497460097419/video/1",
+          "media_key": "13_2064677435946463232",
+          "start": 5,
+          "url": "https://t.co/xIfLJNzxCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064677497460097419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "皮膚很差 https://t.co/xIfLJNzxCL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3166,
+        "height": 698,
+        "media_key": "13_2064677435946463232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064677435946463232/img/1STsz8pzGNdQ-Zs_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064677435946463232/vid/avc1/494x270/fdPCPkYTOHgcuNPV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064677435946463232/vid/avc1/660x360/ZVv5mq6p3lbBbLt-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064677435946463232/vid/avc1/1280x698/LuhEGsF3NsjlzGOf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064677435946463232/pl/r9JVv6dFYkikRcg1.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064677435946463232"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2064677497460097419",
+        "created_at": "2026-06-10T11:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064677497460097419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xIfLJNzxCL",
+              "end": 28,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/2064677497460097419/video/1",
+              "media_key": "13_2064677435946463232",
+              "start": 5,
+              "url": "https://t.co/xIfLJNzxCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064677497460097419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "皮膚很差 https://t.co/xIfLJNzxCL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9476,
+          "following_count": 99,
+          "like_count": 2590,
+          "listed_count": 21,
+          "media_count": 491,
+          "tweet_count": 2339
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

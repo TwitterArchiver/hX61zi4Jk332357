@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1867889213938798660",
+    "created_at": "2024-12-14T11:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T12:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867891558961565882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829609141649952768",
+          "start": 0,
+          "username": "wbuchishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867891558961565882",
+    "in_reply_to_user_id": "1829609141649952768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867889213938798660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbuchishi 关东煮为日本国粹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1867889213938798660",
+        "created_at": "2024-12-14T11:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T12:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867891558961565882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829609141649952768",
+              "start": 0,
+              "username": "wbuchishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867891558961565882",
+        "in_reply_to_user_id": "1829609141649952768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867889213938798660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbuchishi 关东煮为日本国粹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829609141649952768",
+        "conversation_id": "1867889213938798660",
+        "created_at": "2024-12-14T11:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T12:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867889213938798660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867889213938798660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关东煮的萝卜是我唯二喜欢吃萝卜 是好萝卜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867243305035251712/bPKzlnVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5352,
+          "following_count": 21,
+          "like_count": 162,
+          "listed_count": 11,
+          "media_count": 66,
+          "tweet_count": 210
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "害怕冬季",
+        "id": "1829609141649952768",
+        "location": "去死吧你",
+        "name": "绝望的人夫",
+        "pinned_tweet_id": "1857256637549199744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865277650060873728/1NzKdFK4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 79,
+          "like_count": 2368,
+          "listed_count": 5,
+          "media_count": 17,
+          "tweet_count": 1151
+        },
+        "username": "wbuchishi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2058901142197673985"
+      ],
+      "media_source_tweet_id": [
+        "2058901165140525215"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2059066480885739893",
+    "created_at": "2026-05-26T00:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T01:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059066480885739893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1976266476853059584",
+          "start": 3,
+          "username": "echoesofworld"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N87rX8KhVO",
+          "end": 58,
+          "expanded_url": "https://x.com/echoesofworld/status/2058901165140525215/video/1",
+          "media_key": "7_2058901142197673985",
+          "start": 35,
+          "url": "https://t.co/N87rX8KhVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059066480885739893",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 560
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058901165140525215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @echoesofworld: Kamakura, Japan https://t.co/N87rX8KhVO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6999,
+        "height": 720,
+        "media_key": "7_2058901142197673985",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058901142197673985/pu/img/qNcF5OtzIpFQA1pq.jpg",
+        "public_metrics": {
+          "view_count": 12329
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058901142197673985/pu/vid/avc1/360x270/UCSy_mYCpcdKlyog.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058901142197673985/pu/vid/avc1/480x360/8DZsaeLpaXJubOV6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058901142197673985/pu/vid/avc1/960x720/LVsQLNDBOCyK8Q6L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058901142197673985/pu/pl/TVH4V5lO6GxcOc4q.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058901142197673985"
+          ],
+          "media_source_tweet_id": [
+            "2058901165140525215"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2059066480885739893",
+        "created_at": "2026-05-26T00:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059066480885739893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1976266476853059584",
+              "start": 3,
+              "username": "echoesofworld"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N87rX8KhVO",
+              "end": 58,
+              "expanded_url": "https://x.com/echoesofworld/status/2058901165140525215/video/1",
+              "media_key": "7_2058901142197673985",
+              "start": 35,
+              "url": "https://t.co/N87rX8KhVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059066480885739893",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 560
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058901165140525215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @echoesofworld: Kamakura, Japan https://t.co/N87rX8KhVO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058901142197673985"
+          ]
+        },
+        "author_id": "1976266476853059584",
+        "conversation_id": "2058901165140525215",
+        "created_at": "2026-05-25T13:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058901165140525215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N87rX8KhVO",
+              "end": 39,
+              "expanded_url": "https://x.com/echoesofworld/status/2058901165140525215/video/1",
+              "media_key": "7_2058901142197673985",
+              "start": 16,
+              "url": "https://t.co/N87rX8KhVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058901165140525215",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 364,
+          "impression_count": 44613,
+          "like_count": 3469,
+          "quote_count": 17,
+          "reply_count": 7,
+          "retweet_count": 560
+        },
+        "reply_settings": "everyone",
+        "text": "Kamakura, Japan https://t.co/N87rX8KhVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9244,
+          "following_count": 96,
+          "like_count": 2563,
+          "listed_count": 21,
+          "media_count": 487,
+          "tweet_count": 2319
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T12:40:58.000Z",
+        "description": "a quiet map of the world 🌏",
+        "id": "1976266476853059584",
+        "name": "✶",
+        "pinned_tweet_id": "2021218507153604963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028248775039373312/6BAxD4F4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47956,
+          "following_count": 24,
+          "like_count": 6510,
+          "listed_count": 114,
+          "media_count": 976,
+          "tweet_count": 996
+        },
+        "username": "echoesofworld",
+        "verified": true
+      }
+    ]
+  }
+}

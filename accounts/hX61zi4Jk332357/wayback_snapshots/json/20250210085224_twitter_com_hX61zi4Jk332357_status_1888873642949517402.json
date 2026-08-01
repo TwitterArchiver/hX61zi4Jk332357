@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1888501586944770545",
+    "created_at": "2025-02-10T08:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T09:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888873642949517402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1822689979388321792",
+          "start": 0,
+          "username": "Shoyu_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888873642949517402",
+    "in_reply_to_user_id": "1822689979388321792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888506627424469417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Shoyu_2024 小栗子，我原本很想在深圳去找你玩但是我这几月太过自卑沮丧了我不再敢去见你但我的心还是极度愿意和你玩的很开心的，你很漂亮也很可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1888501586944770545",
+        "created_at": "2025-02-10T08:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T09:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888873642949517402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1822689979388321792",
+              "start": 0,
+              "username": "Shoyu_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888873642949517402",
+        "in_reply_to_user_id": "1822689979388321792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888506627424469417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Shoyu_2024 小栗子，我原本很想在深圳去找你玩但是我这几月太过自卑沮丧了我不再敢去见你但我的心还是极度愿意和你玩的很开心的，你很漂亮也很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822689979388321792",
+        "conversation_id": "1888501586944770545",
+        "created_at": "2025-02-09T08:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T09:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888506627424469417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888506627424469417",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888501586944770545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@hX61zi4Jk332357 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6657,
+          "following_count": 34,
+          "like_count": 380,
+          "listed_count": 14,
+          "media_count": 131,
+          "tweet_count": 637
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T17:42:22.000Z",
+        "description": "主人💞@bitchbaby8964\nLo que siento en el corazon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "bitchbaby8964"
+              }
+            ]
+          }
+        },
+        "id": "1822689979388321792",
+        "name": "PumpkinEater69",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883492349743091712/pe57SU7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 157,
+          "like_count": 13357,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 1994
+        },
+        "username": "Shoyu_2024",
+        "verified": false
+      }
+    ]
+  }
+}

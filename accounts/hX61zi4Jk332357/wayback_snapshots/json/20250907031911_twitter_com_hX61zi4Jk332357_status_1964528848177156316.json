@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1964382122241937711",
+    "created_at": "2025-09-07T03:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T04:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964528848177156316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1800510193790586880",
+          "start": 0,
+          "username": "gundanshaluan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964528848177156316",
+    "in_reply_to_user_id": "1800510193790586880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964382122241937711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gundanshaluan 死前几天都还在和我说话人好像很容易死、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1964382122241937711",
+        "created_at": "2025-09-07T03:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T04:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964528848177156316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1800510193790586880",
+              "start": 0,
+              "username": "gundanshaluan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964528848177156316",
+        "in_reply_to_user_id": "1800510193790586880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964382122241937711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gundanshaluan 死前几天都还在和我说话人好像很容易死、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800510193790586880",
+        "conversation_id": "1964382122241937711",
+        "created_at": "2025-09-06T17:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T18:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964382122241937711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964382122241937711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我边看小鳥的推文边哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1925148201281360017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8132,
+          "following_count": 65,
+          "like_count": 1469,
+          "listed_count": 20,
+          "media_count": 319,
+          "tweet_count": 1685
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T12:47:37.000Z",
+        "description": "神様それではひどいなり",
+        "id": "1800510193790586880",
+        "name": "李靜泽329",
+        "pinned_tweet_id": "1963687452750811492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962902751806996480/LnWqXW2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 112,
+          "like_count": 2094,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 733
+        },
+        "username": "gundanshaluan",
+        "verified": false
+      }
+    ]
+  }
+}

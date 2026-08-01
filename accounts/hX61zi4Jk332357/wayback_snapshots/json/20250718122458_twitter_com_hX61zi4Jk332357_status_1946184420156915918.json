@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1946184420156915918",
+    "created_at": "2025-07-18T12:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T13:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946184420156915918"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1946184420156915918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么人在哭的时候会像很冷很冷一样流鼻涕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1946184420156915918",
+        "created_at": "2025-07-18T12:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946184420156915918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946184420156915918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么人在哭的时候会像很冷很冷一样流鼻涕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8233,
+          "following_count": 59,
+          "like_count": 1218,
+          "listed_count": 19,
+          "media_count": 272,
+          "tweet_count": 1495
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

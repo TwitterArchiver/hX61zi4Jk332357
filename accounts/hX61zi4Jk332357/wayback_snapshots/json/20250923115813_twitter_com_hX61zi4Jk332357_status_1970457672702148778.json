@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970417570634407936"
+      ],
+      "media_source_tweet_id": [
+        "1970417593455657049"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1970457672702148778",
+    "created_at": "2025-09-23T11:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T12:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970457672702148778"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "ういさき"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1476900233745289220",
+          "start": 3,
+          "username": "Erober_03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UvBl0qTc2g",
+          "end": 62,
+          "expanded_url": "https://x.com/Erober_03/status/1970417593455657049/photo/1",
+          "media_key": "3_1970417570634407936",
+          "start": 39,
+          "url": "https://t.co/UvBl0qTc2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970457672702148778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970417593455657049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Erober_03: 刚把图细化了一下，参考的电影小姐。\n#ういさき https://t.co/UvBl0qTc2g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970417570634407936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1hUVzzaIAAT-vk.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970417570634407936"
+          ],
+          "media_source_tweet_id": [
+            "1970417593455657049"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1970457672702148778",
+        "created_at": "2025-09-23T11:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T12:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970457672702148778"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "ういさき"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1476900233745289220",
+              "start": 3,
+              "username": "Erober_03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UvBl0qTc2g",
+              "end": 62,
+              "expanded_url": "https://x.com/Erober_03/status/1970417593455657049/photo/1",
+              "media_key": "3_1970417570634407936",
+              "start": 39,
+              "url": "https://t.co/UvBl0qTc2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970457672702148778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970417593455657049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Erober_03: 刚把图细化了一下，参考的电影小姐。\n#ういさき https://t.co/UvBl0qTc2g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970417570634407936"
+          ]
+        },
+        "author_id": "1476900233745289220",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1970417593455657049",
+        "created_at": "2025-09-23T09:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T10:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970417593455657049"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "ういさき"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UvBl0qTc2g",
+              "end": 47,
+              "expanded_url": "https://x.com/Erober_03/status/1970417593455657049/photo/1",
+              "media_key": "3_1970417570634407936",
+              "start": 24,
+              "url": "https://t.co/UvBl0qTc2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970417593455657049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 2556,
+          "like_count": 297,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "刚把图细化了一下，参考的电影小姐。\n#ういさき https://t.co/UvBl0qTc2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1968967879799263583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8098,
+          "following_count": 68,
+          "like_count": 1581,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 1769
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T12:57:23.000Z",
+        "description": "Im from🇨🇳，中文/ English👌🏻，日本語 勉強中...禁止AI學習🚫，無斷轉載禁止！weibo：@Erober",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "Erober"
+              }
+            ]
+          }
+        },
+        "id": "1476900233745289220",
+        "location": "中华人民共和国",
+        "name": "Erober",
+        "pinned_tweet_id": "1873608106837725610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623625484549652481/5KXdhHCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12964,
+          "following_count": 288,
+          "like_count": 13476,
+          "listed_count": 49,
+          "media_count": 193,
+          "tweet_count": 271
+        },
+        "username": "Erober_03",
+        "verified": false
+      }
+    ]
+  }
+}

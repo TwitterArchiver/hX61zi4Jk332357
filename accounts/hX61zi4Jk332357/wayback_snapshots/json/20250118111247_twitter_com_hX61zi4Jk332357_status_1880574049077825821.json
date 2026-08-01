@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1880555787543818369",
+    "created_at": "2025-01-18T11:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T12:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880574049077825821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829609141649952768",
+          "start": 0,
+          "username": "wbuchishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880574049077825821",
+    "in_reply_to_user_id": "1829609141649952768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880561474831351822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@wbuchishi 怎么了你也是萝莉控吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1880555787543818369",
+        "created_at": "2025-01-18T11:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T12:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880574049077825821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829609141649952768",
+              "start": 0,
+              "username": "wbuchishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880574049077825821",
+        "in_reply_to_user_id": "1829609141649952768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880561474831351822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@wbuchishi 怎么了你也是萝莉控吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829609141649952768",
+        "conversation_id": "1880555787543818369",
+        "created_at": "2025-01-18T10:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T11:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880561474831351822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880561474831351822",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880555787543818369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@hX61zi4Jk332357 不经意露出备注"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879017865954967552/hlZE5YQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6292,
+          "following_count": 27,
+          "like_count": 279,
+          "listed_count": 14,
+          "media_count": 98,
+          "tweet_count": 396
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "我们都温柔点好吗",
+        "id": "1829609141649952768",
+        "name": "绝望的人夫",
+        "pinned_tweet_id": "1874170182849224830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878463723003850752/x3vsM40G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4073,
+          "following_count": 96,
+          "like_count": 3782,
+          "listed_count": 9,
+          "media_count": 29,
+          "tweet_count": 1738
+        },
+        "username": "wbuchishi",
+        "verified": false
+      }
+    ]
+  }
+}

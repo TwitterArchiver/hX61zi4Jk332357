@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1906664753331863701",
+    "created_at": "2025-04-02T11:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T12:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907388797509382555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829609141649952768",
+          "start": 0,
+          "username": "wbuchishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907388797509382555",
+    "in_reply_to_user_id": "1829609141649952768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906664753331863701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbuchishi 幸福上了我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1906664753331863701",
+        "created_at": "2025-04-02T11:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907388797509382555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829609141649952768",
+              "start": 0,
+              "username": "wbuchishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907388797509382555",
+        "in_reply_to_user_id": "1829609141649952768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906664753331863701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbuchishi 幸福上了我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829609141649952768",
+        "conversation_id": "1906664753331863701",
+        "created_at": "2025-03-31T11:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T12:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906664753331863701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906664753331863701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 615,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果谁让螺蛳粉火鸡面掉一滴眼泪，我不介意毁掉整个人类文明。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902896494052773890/hrQl_6Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7140,
+          "following_count": 41,
+          "like_count": 625,
+          "listed_count": 17,
+          "media_count": 165,
+          "tweet_count": 953
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "？=",
+        "id": "1829609141649952768",
+        "location": "🚪520",
+        "name": "幸福",
+        "pinned_tweet_id": "1876495132578709838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907367738009624576/oH1i2ZHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4772,
+          "following_count": 89,
+          "like_count": 4777,
+          "listed_count": 13,
+          "media_count": 30,
+          "tweet_count": 2225
+        },
+        "username": "wbuchishi",
+        "verified": false
+      }
+    ]
+  }
+}

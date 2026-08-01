@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1898684647829103090",
+    "created_at": "2025-03-09T10:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T11:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898684647829103090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nemurikamisama…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/nemurikamisama/status/1898341537039429745",
+          "start": 4,
+          "url": "https://t.co/s7rpXWWGcO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898684647829103090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898341537039429745",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是 https://t.co/s7rpXWWGcO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1898684647829103090",
+        "created_at": "2025-03-09T10:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T11:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898684647829103090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nemurikamisama…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/nemurikamisama/status/1898341537039429745",
+              "start": 4,
+              "url": "https://t.co/s7rpXWWGcO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898684647829103090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898341537039429745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是 https://t.co/s7rpXWWGcO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761106331896033283",
+        "conversation_id": "1898341537039429745",
+        "created_at": "2025-03-08T11:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T12:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898341537039429745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898341537039429745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3530,
+          "like_count": 62,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "亞硝酸鈉是個爛的不行的自殺方式\n我根本不知道這個死藥怎麼做到越來越在圈子裡大眾的 這個藥會讓你昏迷兩三次中間持續性惡心難受頭痛最後都是嘔吐性窒息死亡\n死亡還是一件挺輕鬆的事情沒必要最後是痛苦的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897543158390837248/A6uvGnhl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7141,
+          "following_count": 35,
+          "like_count": 506,
+          "listed_count": 17,
+          "media_count": 147,
+          "tweet_count": 805
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく\n性別是神\n發言如讓您感到不適我很榮幸\n@kanakosama0223 ☜女朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "kanakosama0223"
+              }
+            ]
+          }
+        },
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "海眠大人🪦⑨",
+        "pinned_tweet_id": "1878098084397478005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897551773826490368/AfthKBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10488,
+          "following_count": 27,
+          "like_count": 4999,
+          "listed_count": 13,
+          "media_count": 284,
+          "tweet_count": 2501
+        },
+        "username": "nemurikamisama",
+        "verified": false
+      }
+    ]
+  }
+}

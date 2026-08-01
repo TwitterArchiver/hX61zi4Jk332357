@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1873945972948308148",
+    "created_at": "2024-12-31T04:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T05:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873945972948308148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1297748138191491077",
+          "start": 3,
+          "username": "Azusa040921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873945972948308148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873797642846896151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Azusa040921: 去死啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1873945972948308148",
+        "created_at": "2024-12-31T04:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T05:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873945972948308148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1297748138191491077",
+              "start": 3,
+              "username": "Azusa040921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873945972948308148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873797642846896151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Azusa040921: 去死啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297748138191491077",
+        "conversation_id": "1873797642846896151",
+        "created_at": "2024-12-30T18:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T19:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873797642846896151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873797642846896151",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5787,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "去死啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872565485847638016/qdNAtQUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5899,
+          "following_count": 24,
+          "like_count": 189,
+          "listed_count": 12,
+          "media_count": 78,
+          "tweet_count": 279
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-24T04:10:57.000Z",
+        "description": "无懈可击",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shewo040921",
+                "end": 23,
+                "expanded_url": "https://lit.link/shewo040921",
+                "start": 0,
+                "url": "https://t.co/lz4v5xQ2LH"
+              }
+            ]
+          }
+        },
+        "id": "1297748138191491077",
+        "name": "蝸",
+        "pinned_tweet_id": "1806645642736881898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535631488607305728/aAFKCRjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171972,
+          "following_count": 36,
+          "like_count": 1028,
+          "listed_count": 434,
+          "media_count": 99,
+          "tweet_count": 893
+        },
+        "url": "https://t.co/lz4v5xQ2LH",
+        "username": "Azusa040921",
+        "verified": false
+      }
+    ]
+  }
+}

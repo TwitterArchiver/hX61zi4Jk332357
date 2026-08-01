@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1873946891920232532",
+    "created_at": "2024-12-31T04:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T05:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873946891920232532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1573722407625543683",
+          "start": 3,
+          "username": "Amarantos_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873946891920232532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873790044185739735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amarantos_00: 哇噻，宝宝们你们不要盗图好吗? 我求求你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1873946891920232532",
+        "created_at": "2024-12-31T04:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T05:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873946891920232532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573722407625543683",
+              "start": 3,
+              "username": "Amarantos_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873946891920232532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873790044185739735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amarantos_00: 哇噻，宝宝们你们不要盗图好吗? 我求求你们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573722407625543683",
+        "conversation_id": "1873790044185739735",
+        "created_at": "2024-12-30T17:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T18:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873790044185739735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873790044185739735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇噻，宝宝们你们不要盗图好吗? 我求求你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872565485847638016/qdNAtQUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5899,
+          "following_count": 24,
+          "like_count": 190,
+          "listed_count": 12,
+          "media_count": 78,
+          "tweet_count": 280
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T17:14:25.000Z",
+        "description": "心有清溪，意如明镜。🚪288纯绿不退",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/amaran…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/amarantos00.bsky.social",
+                "start": 0,
+                "url": "https://t.co/yuWtZzkUo7"
+              }
+            ]
+          }
+        },
+        "id": "1573722407625543683",
+        "location": "罗夏·罗斯切尔德的腿上",
+        "name": "花子Hanako",
+        "pinned_tweet_id": "1828521741297013076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818071893259276288/BimPtGlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 80,
+          "like_count": 23167,
+          "listed_count": 5,
+          "media_count": 1845,
+          "tweet_count": 12001
+        },
+        "url": "https://t.co/yuWtZzkUo7",
+        "username": "Amarantos_00",
+        "verified": false
+      }
+    ]
+  }
+}

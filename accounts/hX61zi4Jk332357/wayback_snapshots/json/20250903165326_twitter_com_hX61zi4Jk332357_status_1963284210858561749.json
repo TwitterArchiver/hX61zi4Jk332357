@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1963275616075370822",
+    "created_at": "2025-09-03T16:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T17:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963284210858561749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1349105430207803404",
+          "start": 0,
+          "username": "shimenaco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963284210858561749",
+    "in_reply_to_user_id": "1349105430207803404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963275616075370822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shimenaco 牛奶四星米其林厨…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963275600405356544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz70wbZaYAAvngZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1963275600380239873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz70wbTbIAE8ffu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1963275616075370822",
+        "created_at": "2025-09-03T16:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T17:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963284210858561749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1349105430207803404",
+              "start": 0,
+              "username": "shimenaco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963284210858561749",
+        "in_reply_to_user_id": "1349105430207803404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963275616075370822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shimenaco 牛奶四星米其林厨…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963275600405356544",
+            "3_1963275600380239873"
+          ]
+        },
+        "author_id": "1349105430207803404",
+        "conversation_id": "1963275616075370822",
+        "created_at": "2025-09-03T16:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T17:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963275616075370822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrFBcIwhrx",
+              "end": 43,
+              "expanded_url": "https://x.com/shimenaco/status/1963275616075370822/photo/1",
+              "media_key": "3_1963275600405356544",
+              "start": 20,
+              "url": "https://t.co/xrFBcIwhrx"
+            },
+            {
+              "display_url": "pic.x.com/xrFBcIwhrx",
+              "end": 43,
+              "expanded_url": "https://x.com/shimenaco/status/1963275616075370822/photo/1",
+              "media_key": "3_1963275600380239873",
+              "start": 20,
+              "url": "https://t.co/xrFBcIwhrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963275616075370822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 187,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你知道我做了什么，你也会感觉这很可爱的 https://t.co/xrFBcIwhrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1925148201281360017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8142,
+          "following_count": 65,
+          "like_count": 1460,
+          "listed_count": 20,
+          "media_count": 315,
+          "tweet_count": 1672
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-12T21:26:24.000Z",
+        "description": "just call me23/shim/贰十三\n■she/they\n■19\n■中/ENG (4give my broken eng)\n■只画自己喜欢的\n■pfp art by:色弱人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/shimenaco",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/shimenaco",
+                "start": 0,
+                "url": "https://t.co/7cZBcr6kZO"
+              }
+            ]
+          }
+        },
+        "id": "1349105430207803404",
+        "location": "Home",
+        "name": "Shimenaco",
+        "pinned_tweet_id": "1929956701249139019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929955847968350208/TpJS-pA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 149,
+          "like_count": 2945,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 818
+        },
+        "url": "https://t.co/7cZBcr6kZO",
+        "username": "shimenaco",
+        "verified": false
+      }
+    ]
+  }
+}

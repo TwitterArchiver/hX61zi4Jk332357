@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902575356537925634"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1902575367980011844",
+    "created_at": "2025-03-20T04:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T05:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902575367980011844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jIA7dxeb7a",
+          "end": 23,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1902575367980011844/photo/1",
+          "media_key": "3_1902575356537925634",
+          "start": 0,
+          "url": "https://t.co/jIA7dxeb7a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902575367980011844",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "https://t.co/jIA7dxeb7a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 467,
+        "media_key": "3_1902575356537925634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmdONNza8AI0JtY.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902575356537925634"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1902575367980011844",
+        "created_at": "2025-03-20T04:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T05:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902575367980011844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jIA7dxeb7a",
+              "end": 23,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1902575367980011844/photo/1",
+              "media_key": "3_1902575356537925634",
+              "start": 0,
+              "url": "https://t.co/jIA7dxeb7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902575367980011844",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/jIA7dxeb7a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897543158390837248/A6uvGnhl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7125,
+          "following_count": 36,
+          "like_count": 541,
+          "listed_count": 17,
+          "media_count": 152,
+          "tweet_count": 846
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

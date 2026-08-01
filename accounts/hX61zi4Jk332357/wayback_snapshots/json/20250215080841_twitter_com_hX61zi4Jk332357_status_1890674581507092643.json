@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890674567779430400"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1890674581507092643",
+    "created_at": "2025-02-15T08:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T09:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890674581507092643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3yoIljVzbP",
+          "end": 26,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1890674581507092643/photo/1",
+          "media_key": "3_1890674567779430400",
+          "start": 3,
+          "url": "https://t.co/3yoIljVzbP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890674581507092643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "贱货 https://t.co/3yoIljVzbP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 775,
+        "media_key": "3_1890674567779430400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj0GgI5bsAARADj.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890674567779430400"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1890674581507092643",
+        "created_at": "2025-02-15T08:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T09:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890674581507092643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3yoIljVzbP",
+              "end": 26,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1890674581507092643/photo/1",
+              "media_key": "3_1890674567779430400",
+              "start": 3,
+              "url": "https://t.co/3yoIljVzbP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890674581507092643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "贱货 https://t.co/3yoIljVzbP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6655,
+          "following_count": 35,
+          "like_count": 410,
+          "listed_count": 15,
+          "media_count": 134,
+          "tweet_count": 675
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

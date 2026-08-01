@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1914647576403648512"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1914647602395574314",
+    "created_at": "2025-04-22T11:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T12:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914647602395574314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rHmLyH0kWp",
+          "end": 36,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1914647602395574314/video/1",
+          "media_key": "7_1914647576403648512",
+          "start": 13,
+          "url": "https://t.co/rHmLyH0kWp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914647602395574314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "我好怀念我的头发我后悔了 https://t.co/rHmLyH0kWp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1966,
+        "height": 1178,
+        "media_key": "7_1914647576403648512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1914647576403648512/pu/img/J_MKMVDPSrzQujMm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914647576403648512/pu/vid/avc1/320x522/VXtHTwOywNedp8PX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914647576403648512/pu/vid/avc1/480x784/A28NqRnJeBfdIDhr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914647576403648512/pu/vid/avc1/720x1178/trSLTtbD2ixuXno_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1914647576403648512/pu/pl/IuevuQKya8ksFrsh.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1914647576403648512"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1914647602395574314",
+        "created_at": "2025-04-22T11:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T12:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914647602395574314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rHmLyH0kWp",
+              "end": 36,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1914647602395574314/video/1",
+              "media_key": "7_1914647576403648512",
+              "start": 13,
+              "url": "https://t.co/rHmLyH0kWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914647602395574314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我好怀念我的头发我后悔了 https://t.co/rHmLyH0kWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912718783745331200/T8ADO8XA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7812,
+          "following_count": 49,
+          "like_count": 755,
+          "listed_count": 18,
+          "media_count": 185,
+          "tweet_count": 1097
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

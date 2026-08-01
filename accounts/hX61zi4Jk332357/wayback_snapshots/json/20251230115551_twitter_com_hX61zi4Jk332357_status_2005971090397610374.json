@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005819729374789632"
+      ],
+      "media_source_tweet_id": [
+        "2005819733644566644"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2005971090397610374",
+    "created_at": "2025-12-30T11:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T12:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005971090397610374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1232477121244590080",
+          "start": 3,
+          "username": "_rikann_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sBQj2mKRoC",
+          "end": 37,
+          "expanded_url": "https://x.com/_rikann_/status/2005819733644566644/photo/1",
+          "media_key": "3_2005819729374789632",
+          "start": 14,
+          "url": "https://t.co/sBQj2mKRoC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005971090397610374",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 271
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005819733644566644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_rikann_: https://t.co/sBQj2mKRoC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 739,
+        "media_key": "3_2005819729374789632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9YaaqTawAATsWj.jpg",
+        "width": 632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005819729374789632"
+          ],
+          "media_source_tweet_id": [
+            "2005819733644566644"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2005971090397610374",
+        "created_at": "2025-12-30T11:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T12:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005971090397610374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1232477121244590080",
+              "start": 3,
+              "username": "_rikann_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBQj2mKRoC",
+              "end": 37,
+              "expanded_url": "https://x.com/_rikann_/status/2005819733644566644/photo/1",
+              "media_key": "3_2005819729374789632",
+              "start": 14,
+              "url": "https://t.co/sBQj2mKRoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005971090397610374",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005819733644566644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_rikann_: https://t.co/sBQj2mKRoC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005819729374789632"
+          ]
+        },
+        "author_id": "1232477121244590080",
+        "conversation_id": "2005819733644566644",
+        "created_at": "2025-12-30T01:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T02:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005819733644566644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBQj2mKRoC",
+              "end": 23,
+              "expanded_url": "https://x.com/_rikann_/status/2005819733644566644/photo/1",
+              "media_key": "3_2005819729374789632",
+              "start": 0,
+              "url": "https://t.co/sBQj2mKRoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005819733644566644",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 402,
+          "impression_count": 48054,
+          "like_count": 4444,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 271
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sBQj2mKRoC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9639,
+          "following_count": 85,
+          "like_count": 2113,
+          "listed_count": 20,
+          "media_count": 427,
+          "tweet_count": 2085
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-26T01:27:07.000Z",
+        "description": "mostly CMS｜無断転載、Al学習への使用禁止",
+        "id": "1232477121244590080",
+        "name": "Worm",
+        "pinned_tweet_id": "1825183789515243980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748311920674017280/25bAos5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21873,
+          "following_count": 1055,
+          "like_count": 1029,
+          "listed_count": 116,
+          "media_count": 46,
+          "tweet_count": 197
+        },
+        "username": "_rikann_",
+        "verified": false
+      }
+    ]
+  }
+}

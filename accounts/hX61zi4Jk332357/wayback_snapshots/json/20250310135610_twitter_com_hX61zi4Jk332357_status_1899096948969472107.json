@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1899092281480958463",
+    "created_at": "2025-03-10T13:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T14:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899096948969472107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787086493636521984",
+          "start": 0,
+          "username": "Lucifers6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899096948969472107",
+    "in_reply_to_user_id": "1787086493636521984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899092281480958463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucifers6x 我要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1899092268184924160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlruWyjacAAPMzF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1899092281480958463",
+        "created_at": "2025-03-10T13:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T14:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899096948969472107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787086493636521984",
+              "start": 0,
+              "username": "Lucifers6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899096948969472107",
+        "in_reply_to_user_id": "1787086493636521984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899092281480958463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucifers6x 我要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899092268184924160"
+          ]
+        },
+        "author_id": "1787086493636521984",
+        "conversation_id": "1899092281480958463",
+        "created_at": "2025-03-10T13:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T14:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899092281480958463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1k40BEmlC",
+              "end": 29,
+              "expanded_url": "https://x.com/Lucifers6x/status/1899092281480958463/photo/1",
+              "media_key": "3_1899092268184924160",
+              "start": 6,
+              "url": "https://t.co/I1k40BEmlC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899092281480958463",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女鬼女上位 https://t.co/I1k40BEmlC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897543158390837248/A6uvGnhl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7152,
+          "following_count": 35,
+          "like_count": 515,
+          "listed_count": 17,
+          "media_count": 147,
+          "tweet_count": 811
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T11:46:45.000Z",
+        "description": "｜这不公平的命指使我来的｜人生理想是干一休二十｜",
+        "id": "1787086493636521984",
+        "location": "🚪0.001元",
+        "name": "在你的脉搏上跳舞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859107489100558338/doBDb22E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 167,
+          "like_count": 2909,
+          "listed_count": 5,
+          "media_count": 210,
+          "tweet_count": 2857
+        },
+        "username": "Lucifers6x",
+        "verified": false
+      }
+    ]
+  }
+}

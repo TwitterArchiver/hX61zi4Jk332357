@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1984412635040010375",
+    "created_at": "2025-11-01T02:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T03:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984447711807189247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1900518576781692928",
+          "start": 0,
+          "username": "638_89641"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984447711807189247",
+    "in_reply_to_user_id": "1900518576781692928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984413037269565658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@638_89641 活了十几年还没通过新手教程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1984412635040010375",
+        "created_at": "2025-11-01T02:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T03:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984447711807189247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1900518576781692928",
+              "start": 0,
+              "username": "638_89641"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984447711807189247",
+        "in_reply_to_user_id": "1900518576781692928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984413037269565658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@638_89641 活了十几年还没通过新手教程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900518576781692928",
+        "conversation_id": "1984412635040010375",
+        "created_at": "2025-11-01T00:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T01:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984413037269565658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984413037269565658",
+        "in_reply_to_user_id": "1900518576781692928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984412635040010375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我经常渴望跟人一起玩的美好体验 但是我发现我根本不会玩耍 爸妈没教过啊老师没说过啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10054,
+          "following_count": 79,
+          "like_count": 1839,
+          "listed_count": 23,
+          "media_count": 370,
+          "tweet_count": 1919
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T12:05:24.000Z",
+        "description": "只是在自说自话。",
+        "id": "1900518576781692928",
+        "location": "東京",
+        "name": "式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849329373925380/wqSp3nqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 201,
+          "like_count": 4483,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1634
+        },
+        "username": "638_89641",
+        "verified": false
+      }
+    ]
+  }
+}

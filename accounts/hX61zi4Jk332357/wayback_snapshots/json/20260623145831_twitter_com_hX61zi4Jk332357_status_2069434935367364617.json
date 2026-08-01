@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068749312859992064"
+      ],
+      "media_source_tweet_id": [
+        "2068749321265422427"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2069434935367364617",
+    "created_at": "2026-06-23T14:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069434935367364617"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 40,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3693666630",
+          "start": 3,
+          "username": "0_71_Rain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g0Ouj0luBU",
+          "end": 70,
+          "expanded_url": "https://x.com/0_71_Rain/status/2068749321265422427/photo/1",
+          "media_key": "3_2068749312859992064",
+          "start": 47,
+          "url": "https://t.co/g0Ouj0luBU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069434935367364617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5231
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068749321265422427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0_71_Rain: 🐙：毎晩嗅がないとダメなんて、そんなに好きなの？\n#超かぐや姫 https://t.co/g0Ouj0luBU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1724,
+        "media_key": "3_2068749312859992064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWsihJacAAN4cd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068749312859992064"
+          ],
+          "media_source_tweet_id": [
+            "2068749321265422427"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2069434935367364617",
+        "created_at": "2026-06-23T14:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069434935367364617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3693666630",
+              "start": 3,
+              "username": "0_71_Rain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0Ouj0luBU",
+              "end": 70,
+              "expanded_url": "https://x.com/0_71_Rain/status/2068749321265422427/photo/1",
+              "media_key": "3_2068749312859992064",
+              "start": 47,
+              "url": "https://t.co/g0Ouj0luBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069434935367364617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5231
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068749321265422427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0_71_Rain: 🐙：毎晩嗅がないとダメなんて、そんなに好きなの？\n#超かぐや姫 https://t.co/g0Ouj0luBU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068749312859992064"
+          ]
+        },
+        "author_id": "3693666630",
+        "conversation_id": "2068749321265422427",
+        "created_at": "2026-06-21T17:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068749321265422427"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0Ouj0luBU",
+              "end": 55,
+              "expanded_url": "https://x.com/0_71_Rain/status/2068749321265422427/photo/1",
+              "media_key": "3_2068749312859992064",
+              "start": 32,
+              "url": "https://t.co/g0Ouj0luBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068749321265422427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19415,
+          "impression_count": 1314006,
+          "like_count": 97122,
+          "quote_count": 81,
+          "reply_count": 117,
+          "retweet_count": 5231
+        },
+        "reply_settings": "everyone",
+        "text": "🐙：毎晩嗅がないとダメなんて、そんなに好きなの？\n#超かぐや姫 https://t.co/g0Ouj0luBU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9559,
+          "following_count": 99,
+          "like_count": 2616,
+          "listed_count": 21,
+          "media_count": 495,
+          "tweet_count": 2353
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-26T15:08:11.000Z",
+        "description": "愛。 ◆✉️ hanaofhanashop@gmail.com ◆FanBox https://t.co/dsCHFzXTOM ◆Plurk: https://t.co/1hnwjlrStT ◆FB: 花小花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kokiku8.fanbox.cc",
+                "end": 63,
+                "expanded_url": "http://kokiku8.fanbox.cc",
+                "start": 40,
+                "url": "https://t.co/dsCHFzXTOM"
+              },
+              {
+                "display_url": "plurk.com/kikukiku599",
+                "end": 95,
+                "expanded_url": "https://plurk.com/kikukiku599",
+                "start": 72,
+                "url": "https://t.co/1hnwjlrStT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/13155227",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/13155227",
+                "start": 0,
+                "url": "https://t.co/xaA9R7a2X8"
+              }
+            ]
+          }
+        },
+        "id": "3693666630",
+        "location": "電腦前面",
+        "name": "小菊8🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804697792591622144/sxPrO385_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61648,
+          "following_count": 4924,
+          "like_count": 30273,
+          "listed_count": 316,
+          "media_count": 913,
+          "tweet_count": 8661
+        },
+        "url": "https://t.co/xaA9R7a2X8",
+        "username": "0_71_Rain",
+        "verified": false
+      }
+    ]
+  }
+}

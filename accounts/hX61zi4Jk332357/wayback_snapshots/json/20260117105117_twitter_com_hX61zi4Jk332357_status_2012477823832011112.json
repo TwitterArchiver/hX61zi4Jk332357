@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2012217765986258944"
+      ],
+      "media_source_tweet_id": [
+        "2012217857510187183"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2012477823832011112",
+    "created_at": "2026-01-17T10:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T11:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012477823832011112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1677518738214596608",
+          "start": 3,
+          "username": "Random_Moe_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SYFQxJTomq",
+          "end": 40,
+          "expanded_url": "https://x.com/Random_Moe_/status/2012217857510187183/video/1",
+          "media_key": "7_2012217765986258944",
+          "start": 17,
+          "url": "https://t.co/SYFQxJTomq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012477823832011112",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1049
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012217857510187183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Random_Moe_: https://t.co/SYFQxJTomq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44930,
+        "height": 720,
+        "media_key": "7_2012217765986258944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2012217765986258944/pu/img/3Pj3L_Mg04mC04Eu.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012217765986258944/pu/vid/avc1/480x270/0g35dEYvmPKJn-Ad.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012217765986258944/pu/vid/avc1/640x360/Hw-YfBTJQGXUIWwp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012217765986258944/pu/vid/avc1/1280x720/pKOiLDCD4OcpvRIm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2012217765986258944/pu/pl/X3lgVhkghJsuk8M7.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2012217765986258944"
+          ],
+          "media_source_tweet_id": [
+            "2012217857510187183"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012477823832011112",
+        "created_at": "2026-01-17T10:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012477823832011112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1677518738214596608",
+              "start": 3,
+              "username": "Random_Moe_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYFQxJTomq",
+              "end": 40,
+              "expanded_url": "https://x.com/Random_Moe_/status/2012217857510187183/video/1",
+              "media_key": "7_2012217765986258944",
+              "start": 17,
+              "url": "https://t.co/SYFQxJTomq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012477823832011112",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1049
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012217857510187183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Random_Moe_: https://t.co/SYFQxJTomq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2012217765986258944"
+          ]
+        },
+        "author_id": "1677518738214596608",
+        "conversation_id": "2012217857510187183",
+        "created_at": "2026-01-16T17:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T18:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012217857510187183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYFQxJTomq",
+              "end": 23,
+              "expanded_url": "https://x.com/Random_Moe_/status/2012217857510187183/video/1",
+              "media_key": "7_2012217765986258944",
+              "start": 0,
+              "url": "https://t.co/SYFQxJTomq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012217857510187183",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1056,
+          "impression_count": 66867,
+          "like_count": 5465,
+          "quote_count": 24,
+          "reply_count": 8,
+          "retweet_count": 1049
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SYFQxJTomq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9564,
+          "following_count": 91,
+          "like_count": 2178,
+          "listed_count": 20,
+          "media_count": 436,
+          "tweet_count": 2116
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T03:24:18.000Z",
+        "description": "Moe anime posting 🍡🎌⛩️ (+Vocaloid 🎤 +Touhou(magical girls✨🧹) + girls und panzer 🚜\n\nManiatic Weeb 💻🌐\n\nSPA 🇪🇸 ENG 🇬🇧 POR🇧🇷\n\nOpen DM\n\nwelcome tourists",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/kzGvNDYd58",
+                "end": 23,
+                "expanded_url": "https://discord.gg/kzGvNDYd58",
+                "start": 0,
+                "url": "https://t.co/RJKFYHTU3y"
+              }
+            ]
+          }
+        },
+        "id": "1677518738214596608",
+        "name": "Brainrot Moe",
+        "pinned_tweet_id": "2011703894645313715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940267517756186624/MKWbIWyw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24425,
+          "following_count": 143,
+          "like_count": 15811,
+          "listed_count": 27,
+          "media_count": 1224,
+          "tweet_count": 1841
+        },
+        "url": "https://t.co/RJKFYHTU3y",
+        "username": "Random_Moe_",
+        "verified": false
+      }
+    ]
+  }
+}

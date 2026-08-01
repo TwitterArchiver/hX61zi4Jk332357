@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1912797065597300813",
+    "created_at": "2025-04-17T10:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T11:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912818482477142101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1758498028552658944",
+          "start": 0,
+          "username": "lznnnnn245019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912818482477142101",
+    "in_reply_to_user_id": "1758498028552658944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912797065597300813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@lznnnnn245019 姐妹吃的什么药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1912797065597300813",
+        "created_at": "2025-04-17T10:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T11:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912818482477142101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1758498028552658944",
+              "start": 0,
+              "username": "lznnnnn245019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912818482477142101",
+        "in_reply_to_user_id": "1758498028552658944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912797065597300813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@lznnnnn245019 姐妹吃的什么药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758498028552658944",
+        "conversation_id": "1912797065597300813",
+        "created_at": "2025-04-17T09:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T10:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912797065597300813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912797065597300813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我是女的谢谢不是mtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912718783745331200/T8ADO8XA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7821,
+          "following_count": 47,
+          "like_count": 729,
+          "listed_count": 18,
+          "media_count": 183,
+          "tweet_count": 1075
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T14:26:22.000Z",
+        "description": "",
+        "id": "1758498028552658944",
+        "location": "🚪288",
+        "name": "𐌙𐌄𐌔, 𐌀𐌍𐌃?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890340771540398080/8WSf3pgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 136,
+          "like_count": 13789,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 3744
+        },
+        "username": "lznnnnn245019",
+        "verified": false
+      }
+    ]
+  }
+}

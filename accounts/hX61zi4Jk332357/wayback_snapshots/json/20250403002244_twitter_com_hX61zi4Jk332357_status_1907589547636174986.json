@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907589538228391937"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1907518512673018304",
+    "created_at": "2025-04-03T00:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T01:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907589547636174986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829609141649952768",
+          "start": 0,
+          "username": "wbuchishi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0AntAFbucC",
+          "end": 34,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1907589547636174986/photo/1",
+          "media_key": "3_1907589538228391937",
+          "start": 11,
+          "url": "https://t.co/0AntAFbucC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907589547636174986",
+    "in_reply_to_user_id": "1829609141649952768",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907518512673018304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@wbuchishi https://t.co/0AntAFbucC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "3_1907589538228391937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnkelANa0AE3zOe.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907589538228391937"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1907518512673018304",
+        "created_at": "2025-04-03T00:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T01:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907589547636174986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829609141649952768",
+              "start": 0,
+              "username": "wbuchishi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0AntAFbucC",
+              "end": 34,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1907589547636174986/photo/1",
+              "media_key": "3_1907589538228391937",
+              "start": 11,
+              "url": "https://t.co/0AntAFbucC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907589547636174986",
+        "in_reply_to_user_id": "1829609141649952768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907518512673018304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@wbuchishi https://t.co/0AntAFbucC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829609141649952768",
+        "conversation_id": "1907518512673018304",
+        "created_at": "2025-04-02T19:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T20:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907518512673018304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hx61zi4jk33235…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hx61zi4jk332357/status/1905218542699700502",
+              "start": 12,
+              "url": "https://t.co/PTZf5xUja5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907518512673018304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905218542699700502",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "她说这是我的痛头T_T https://t.co/PTZf5xUja5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902896494052773890/hrQl_6Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7138,
+          "following_count": 41,
+          "like_count": 628,
+          "listed_count": 17,
+          "media_count": 167,
+          "tweet_count": 957
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "？=",
+        "id": "1829609141649952768",
+        "name": "幸福",
+        "pinned_tweet_id": "1876495132578709838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907507668157370368/gng9JCcs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4767,
+          "following_count": 89,
+          "like_count": 4785,
+          "listed_count": 13,
+          "media_count": 32,
+          "tweet_count": 2245
+        },
+        "username": "wbuchishi",
+        "verified": false
+      }
+    ]
+  }
+}

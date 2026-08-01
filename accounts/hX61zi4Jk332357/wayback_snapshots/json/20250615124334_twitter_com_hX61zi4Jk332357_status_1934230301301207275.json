@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934230285878706176",
+        "3_1934230285090185216"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1934230301301207275",
+    "created_at": "2025-06-15T12:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T13:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934230301301207275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZXsZdAJ1lC",
+          "end": 53,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1934230301301207275/photo/1",
+          "media_key": "3_1934230285878706176",
+          "start": 30,
+          "url": "https://t.co/ZXsZdAJ1lC"
+        },
+        {
+          "display_url": "pic.x.com/ZXsZdAJ1lC",
+          "end": 53,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1934230301301207275/photo/1",
+          "media_key": "3_1934230285090185216",
+          "start": 30,
+          "url": "https://t.co/ZXsZdAJ1lC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934230301301207275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天量身定制的校服!今后会长得更高所以选了size大一点的 https://t.co/ZXsZdAJ1lC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934230285878706176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtfEMm-aQAA_8ae.jpg",
+        "width": 1299
+      },
+      {
+        "height": 1554,
+        "media_key": "3_1934230285090185216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtfEMkCaYAAIB6h.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934230285878706176",
+            "3_1934230285090185216"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1934230301301207275",
+        "created_at": "2025-06-15T12:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T13:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934230301301207275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXsZdAJ1lC",
+              "end": 53,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1934230301301207275/photo/1",
+              "media_key": "3_1934230285878706176",
+              "start": 30,
+              "url": "https://t.co/ZXsZdAJ1lC"
+            },
+            {
+              "display_url": "pic.x.com/ZXsZdAJ1lC",
+              "end": 53,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1934230301301207275/photo/1",
+              "media_key": "3_1934230285090185216",
+              "start": 30,
+              "url": "https://t.co/ZXsZdAJ1lC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934230301301207275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天量身定制的校服!今后会长得更高所以选了size大一点的 https://t.co/ZXsZdAJ1lC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8290,
+          "following_count": 58,
+          "like_count": 1087,
+          "listed_count": 21,
+          "media_count": 238,
+          "tweet_count": 1386
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

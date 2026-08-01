@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954573629263335427"
+      ],
+      "media_source_tweet_id": [
+        "1954573631154995319"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1955131988836483368",
+    "created_at": "2025-08-12T04:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T05:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955131988836483368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834751608271360000",
+          "start": 3,
+          "username": "dailyhcbot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NC97Vdzfmo",
+          "end": 72,
+          "expanded_url": "https://x.com/dailyhcbot/status/1954573631154995319/photo/1",
+          "media_key": "3_1954573629263335427",
+          "start": 49,
+          "url": "https://t.co/NC97Vdzfmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955131988836483368",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954573631154995319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dailyhcbot: We're both miserable, aren't we? https://t.co/NC97Vdzfmo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_1954573629263335427",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyAKXCuWUAM9AX3.jpg",
+        "width": 791
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954573629263335427"
+          ],
+          "media_source_tweet_id": [
+            "1954573631154995319"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1955131988836483368",
+        "created_at": "2025-08-12T04:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955131988836483368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834751608271360000",
+              "start": 3,
+              "username": "dailyhcbot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NC97Vdzfmo",
+              "end": 72,
+              "expanded_url": "https://x.com/dailyhcbot/status/1954573631154995319/photo/1",
+              "media_key": "3_1954573629263335427",
+              "start": 49,
+              "url": "https://t.co/NC97Vdzfmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955131988836483368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954573631154995319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dailyhcbot: We're both miserable, aren't we? https://t.co/NC97Vdzfmo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954573629263335427"
+          ]
+        },
+        "author_id": "1834751608271360000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954573631154995319",
+        "created_at": "2025-08-10T16:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T17:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954573631154995319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NC97Vdzfmo",
+              "end": 56,
+              "expanded_url": "https://x.com/dailyhcbot/status/1954573631154995319/photo/1",
+              "media_key": "3_1954573629263335427",
+              "start": 33,
+              "url": "https://t.co/NC97Vdzfmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954573631154995319",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 3113,
+          "like_count": 320,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "We're both miserable, aren't we? https://t.co/NC97Vdzfmo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1925148201281360017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8182,
+          "following_count": 64,
+          "like_count": 1323,
+          "listed_count": 20,
+          "media_count": 287,
+          "tweet_count": 1563
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T00:30:51.000Z",
+        "description": "Hi! This bot posts about Hello Charlotte daily, 12pm EST. BEWARE OF SPOILERS | All content belongs to @etherane | Made by Q84 (?) and C (@WhyWasReiTaken)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "etherane"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "WhyWasReiTaken"
+              }
+            ]
+          }
+        },
+        "id": "1834751608271360000",
+        "name": "Daily Hello Charlotte Bot",
+        "pinned_tweet_id": "1835832232327385253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834753766656012288/iwahOx6L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 6,
+          "like_count": 458,
+          "listed_count": 1,
+          "media_count": 338,
+          "tweet_count": 358
+        },
+        "username": "dailyhcbot",
+        "verified": false
+      }
+    ]
+  }
+}

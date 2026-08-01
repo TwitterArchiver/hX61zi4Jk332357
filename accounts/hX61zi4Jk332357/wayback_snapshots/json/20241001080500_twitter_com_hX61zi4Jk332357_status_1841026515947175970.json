@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1841026515947175970",
+    "created_at": "2024-10-01T08:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T09:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841026515947175970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meimei1935/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/meimei1935/status/1840833301923184872",
+          "start": 5,
+          "url": "https://t.co/mCmR2mjhg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841026515947175970",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840833301923184872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我最愛看 https://t.co/mCmR2mjhg1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1841026515947175970",
+        "created_at": "2024-10-01T08:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T09:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841026515947175970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meimei1935/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/meimei1935/status/1840833301923184872",
+              "start": 5,
+              "url": "https://t.co/mCmR2mjhg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841026515947175970",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840833301923184872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最愛看 https://t.co/mCmR2mjhg1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1840833089531985922",
+            "7_1840833089531957248"
+          ]
+        },
+        "author_id": "1280346745470439429",
+        "conversation_id": "1840833301923184872",
+        "created_at": "2024-09-30T19:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T20:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840833301923184872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mwv9rSCP5F",
+              "end": 102,
+              "expanded_url": "https://x.com/meimei1935/status/1840833301923184872/video/1",
+              "media_key": "7_1840833089531985922",
+              "start": 79,
+              "url": "https://t.co/Mwv9rSCP5F"
+            },
+            {
+              "display_url": "pic.x.com/Mwv9rSCP5F",
+              "end": 102,
+              "expanded_url": "https://x.com/meimei1935/status/1840833301923184872/video/1",
+              "media_key": "7_1840833089531957248",
+              "start": 79,
+              "url": "https://t.co/Mwv9rSCP5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840833301923184872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2585,
+          "impression_count": 1298313,
+          "like_count": 7389,
+          "quote_count": 73,
+          "reply_count": 557,
+          "retweet_count": 1051
+        },
+        "reply_settings": "everyone",
+        "text": "又一起霸凌事件。厕所里，男生电击拍照，女生看门暴打脱衣。太邪恶了！仇恨教育下，打自己人手段残忍歹毒，喊打喊杀外国人口炮加尿泡，这是一个怎样悲哀可耻的民族👹👿 https://t.co/Mwv9rSCP5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831216069949698049/uq0rKUd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 7,
+          "like_count": 20,
+          "listed_count": 0,
+          "tweet_count": 26
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-07T03:44:40.000Z",
+        "description": "眼因流多泪水而愈益清明； 心因饱经创痛而愈益温厚。",
+        "id": "1280346745470439429",
+        "location": "New York, USA",
+        "name": "菲菲4.0",
+        "pinned_tweet_id": "1655408224688906247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536540890843467778/p7wzwHn7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159773,
+          "following_count": 274,
+          "like_count": 212588,
+          "listed_count": 382,
+          "tweet_count": 59651
+        },
+        "username": "meimei1935",
+        "verified": false
+      }
+    ]
+  }
+}

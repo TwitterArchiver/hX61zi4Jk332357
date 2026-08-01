@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1999457722136429007",
+    "created_at": "2025-12-12T12:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T13:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999457722136429007"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "北京"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1999321889559490560",
+          "start": 3,
+          "username": "o0Nly0oo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/emNf",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/emNf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999457722136429007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999349546057707689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o0Nly0oo: 小次重生转世！(´；ω；｀)\n坐标 #北京｜已成年🐰\n过门看p2 可以解锁线下和其他服务哟(⁎⁍̴̛ᴗ⁍̴̛⁎)\n喜欢我请打钱让我过得更好吧…🥺💕\n\n寻找前世互关门槛哥 关注转发这条抽288*1 52*2 奶茶*5 https://t.co/emNf…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999457722136429007].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999457722136429007",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999457722136429007"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1999349538348498948",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78dz-cagAQD5GE.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1999349538344304643",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78dz-bagAMs0BB.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999349538348498948",
+            "3_1999349538344304643"
+          ]
+        },
+        "author_id": "1999321889559490560",
+        "conversation_id": "1999349546057707689",
+        "created_at": "2025-12-12T05:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999349546057707689"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "北京"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/emNfGTqUv1",
+              "end": 131,
+              "expanded_url": "https://x.com/o0Nly0oo/status/1999349546057707689/photo/1",
+              "media_key": "3_1999349538348498948",
+              "start": 108,
+              "url": "https://t.co/emNfGTqUv1"
+            },
+            {
+              "display_url": "pic.x.com/emNfGTqUv1",
+              "end": 131,
+              "expanded_url": "https://x.com/o0Nly0oo/status/1999349546057707689/photo/1",
+              "media_key": "3_1999349538344304643",
+              "start": 108,
+              "url": "https://t.co/emNfGTqUv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999349546057707689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1086,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "小次重生转世！(´；ω；｀)\n坐标 #北京｜已成年🐰\n过门看p2 可以解锁线下和其他服务哟(⁎⁍̴̛ᴗ⁍̴̛⁎)\n喜欢我请打钱让我过得更好吧…🥺💕\n\n寻找前世互关门槛哥 关注转发这条抽288*1 52*2 奶茶*5 https://t.co/emNfGTqUv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9802,
+          "following_count": 84,
+          "like_count": 2036,
+          "listed_count": 23,
+          "media_count": 411,
+          "tweet_count": 2048
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T03:34:30.000Z",
+        "description": "switch｜我想要的是一种叫作幸福的恒久的东西｜提问箱https://t.co/mzFhvspHVE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sayako2",
+                "end": 51,
+                "expanded_url": "https://ngl.link/sayako2",
+                "start": 28,
+                "url": "https://t.co/mzFhvspHVE"
+              }
+            ]
+          }
+        },
+        "id": "1999321889559490560",
+        "location": "nowhere",
+        "name": "絶対神",
+        "pinned_tweet_id": "1999349546057707689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999322201670189059/t4o2bR_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 39,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 12
+        },
+        "username": "o0Nly0oo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1884285059110428747",
+    "created_at": "2025-01-28T17:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T18:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884286629701099588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1800510193790586880",
+          "start": 0,
+          "username": "gundanshaluan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884286629701099588",
+    "in_reply_to_user_id": "1800510193790586880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884285059110428747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gundanshaluan 我也要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1884285059110428747",
+        "created_at": "2025-01-28T17:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T18:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884286629701099588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1800510193790586880",
+              "start": 0,
+              "username": "gundanshaluan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884286629701099588",
+        "in_reply_to_user_id": "1800510193790586880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884285059110428747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gundanshaluan 我也要啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884285036922548224",
+            "3_1884285056325410816"
+          ]
+        },
+        "author_id": "1800510193790586880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1884285059110428747",
+        "created_at": "2025-01-28T16:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T17:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884285059110428747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q8jatWuCsn",
+              "end": 29,
+              "expanded_url": "https://x.com/gundanshaluan/status/1884285059110428747/photo/1",
+              "media_key": "3_1884285036922548224",
+              "start": 6,
+              "url": "https://t.co/q8jatWuCsn"
+            },
+            {
+              "display_url": "pic.x.com/q8jatWuCsn",
+              "end": 29,
+              "expanded_url": "https://x.com/gundanshaluan/status/1884285059110428747/photo/1",
+              "media_key": "3_1884285056325410816",
+              "start": 6,
+              "url": "https://t.co/q8jatWuCsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884285059110428747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦不错哦 https://t.co/q8jatWuCsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6387,
+          "following_count": 32,
+          "like_count": 328,
+          "listed_count": 14,
+          "media_count": 111,
+          "tweet_count": 494
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T12:47:37.000Z",
+        "description": "我一直和你等待着世界毀滅",
+        "id": "1800510193790586880",
+        "name": "靜泽未那",
+        "pinned_tweet_id": "1872986608972251564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873429459120054272/Goqx1Vat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 72,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 396
+        },
+        "username": "gundanshaluan",
+        "verified": false
+      }
+    ]
+  }
+}

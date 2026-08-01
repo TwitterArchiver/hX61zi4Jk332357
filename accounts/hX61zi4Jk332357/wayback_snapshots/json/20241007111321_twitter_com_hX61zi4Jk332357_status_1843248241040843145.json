@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1842563894956752897"
+      ],
+      "media_source_tweet_id": [
+        "1842563903068549388"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1843248241040843145",
+    "created_at": "2024-10-07T11:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T12:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843248241040843145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1745013901136461824",
+          "start": 3,
+          "username": "eatinggokiburi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fGszYLjkPy",
+          "end": 43,
+          "expanded_url": "https://x.com/eatinggokiburi/status/1842563903068549388/photo/1",
+          "media_key": "3_1842563894956752897",
+          "start": 20,
+          "url": "https://t.co/fGszYLjkPy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843248241040843145",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842563903068549388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eatinggokiburi: https://t.co/fGszYLjkPy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1842563894956752897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZIaGaLbgAE8MDh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842563894956752897"
+          ],
+          "media_source_tweet_id": [
+            "1842563903068549388"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1843248241040843145",
+        "created_at": "2024-10-07T11:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T12:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843248241040843145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1745013901136461824",
+              "start": 3,
+              "username": "eatinggokiburi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fGszYLjkPy",
+              "end": 43,
+              "expanded_url": "https://x.com/eatinggokiburi/status/1842563903068549388/photo/1",
+              "media_key": "3_1842563894956752897",
+              "start": 20,
+              "url": "https://t.co/fGszYLjkPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843248241040843145",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842563903068549388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eatinggokiburi: https://t.co/fGszYLjkPy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842563894956752897"
+          ]
+        },
+        "author_id": "1745013901136461824",
+        "conversation_id": "1842563903068549388",
+        "created_at": "2024-10-05T13:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T14:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842563903068549388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fGszYLjkPy",
+              "end": 23,
+              "expanded_url": "https://x.com/eatinggokiburi/status/1842563903068549388/photo/1",
+              "media_key": "3_1842563894956752897",
+              "start": 0,
+              "url": "https://t.co/fGszYLjkPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842563903068549388",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 39187,
+          "like_count": 1979,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fGszYLjkPy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831216069949698049/uq0rKUd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 8,
+          "like_count": 28,
+          "listed_count": 0,
+          "tweet_count": 35
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T09:25:16.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/1963086187?c=3",
+                "end": 23,
+                "expanded_url": "http://pushoong.com/1963086187?c=3",
+                "start": 0,
+                "url": "https://t.co/w4X6TpT0CH"
+              }
+            ]
+          }
+        },
+        "id": "1745013901136461824",
+        "name": "myona",
+        "pinned_tweet_id": "1805112372773990806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745014963260055552/AGj_40vE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7796,
+          "following_count": 55,
+          "like_count": 1547,
+          "listed_count": 19,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/w4X6TpT0CH",
+        "username": "eatinggokiburi",
+        "verified": false
+      }
+    ]
+  }
+}

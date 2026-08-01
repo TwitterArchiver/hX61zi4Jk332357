@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1976981252386459798",
+    "created_at": "2025-10-11T13:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T14:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977007338335985897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841906713727008768",
+          "start": 0,
+          "username": "onlyshallow__24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977007338335985897",
+    "in_reply_to_user_id": "1841906713727008768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976981252386459798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onlyshallow__24 我求你了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1976981252386459798].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1976981252386459798",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1976981252386459798"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1976981252386459798",
+        "created_at": "2025-10-11T13:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977007338335985897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841906713727008768",
+              "start": 0,
+              "username": "onlyshallow__24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977007338335985897",
+        "in_reply_to_user_id": "1841906713727008768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976981252386459798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onlyshallow__24 我求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10177,
+          "following_count": 73,
+          "like_count": 1690,
+          "listed_count": 24,
+          "media_count": 359,
+          "tweet_count": 1857
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T18:22:46.000Z",
+        "description": "我是誰的精神體的另一面",
+        "id": "1841906713727008768",
+        "name": "06211819",
+        "pinned_tweet_id": "1916321074158936295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933703391089410048/OrTM6hJh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 16,
+          "like_count": 62,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 367
+        },
+        "username": "onlyshallow__24",
+        "verified": false
+      }
+    ]
+  }
+}

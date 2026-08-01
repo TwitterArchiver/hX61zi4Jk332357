@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1972638259118555507",
+    "created_at": "2025-10-01T05:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T06:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973254254975762842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1768328423498276864",
+          "start": 0,
+          "username": "aociig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973254254975762842",
+    "in_reply_to_user_id": "1768328423498276864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972638509245886581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aociig 一直用感觉皮肤软了更显血管色了….我一直哭啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1972638259118555507",
+        "created_at": "2025-10-01T05:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T06:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973254254975762842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1768328423498276864",
+              "start": 0,
+              "username": "aociig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973254254975762842",
+        "in_reply_to_user_id": "1768328423498276864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972638509245886581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aociig 一直用感觉皮肤软了更显血管色了….我一直哭啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768328423498276864",
+        "conversation_id": "1972638259118555507",
+        "created_at": "2025-09-29T12:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T13:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972638509245886581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972638509245886581",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972638259118555507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 建立修护屏障多用修护产品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1968967879799263583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8068,
+          "following_count": 70,
+          "like_count": 1630,
+          "listed_count": 20,
+          "media_count": 349,
+          "tweet_count": 1813
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T17:29:17.000Z",
+        "description": "「我的遗书」| 葵(あおい) |CN |雑多垢|リスカ|日本語/英語勉強中 | DM◎通話は仲良い人だけ｜不线下清水推",
+        "id": "1768328423498276864",
+        "location": "明日、死にますように｜纯绿🚪88",
+        "name": "草ノ陰",
+        "pinned_tweet_id": "1971252710126366874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971017712060203011/lpEULsqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 442,
+          "like_count": 8749,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 11215
+        },
+        "username": "aociig",
+        "verified": false
+      }
+    ]
+  }
+}

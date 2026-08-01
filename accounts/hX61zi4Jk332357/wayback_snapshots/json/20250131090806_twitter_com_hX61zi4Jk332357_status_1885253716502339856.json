@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1884782266020204959",
+    "created_at": "2025-01-31T09:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T10:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885253716502339856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1872403156455309315",
+          "start": 0,
+          "username": "StupidLobster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885253716502339856",
+    "in_reply_to_user_id": "1872403156455309315",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884782266020204959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StupidLobster This is my friend's work. She may be dead by now.Plz don’t repost it"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1884782266020204959",
+        "created_at": "2025-01-31T09:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T10:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885253716502339856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1872403156455309315",
+              "start": 0,
+              "username": "StupidLobster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885253716502339856",
+        "in_reply_to_user_id": "1872403156455309315",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884782266020204959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StupidLobster This is my friend's work. She may be dead by now.Plz don’t repost it"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884782136672100352"
+          ]
+        },
+        "author_id": "1872403156455309315",
+        "conversation_id": "1884782266020204959",
+        "created_at": "2025-01-30T01:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T02:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884782266020204959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T3PdIYV2Jp",
+              "end": 37,
+              "expanded_url": "https://x.com/StupidLobster/status/1884782266020204959/photo/1",
+              "media_key": "3_1884782136672100352",
+              "start": 14,
+              "url": "https://t.co/T3PdIYV2Jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884782266020204959",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 524,
+          "impression_count": 94397,
+          "like_count": 5365,
+          "quote_count": 34,
+          "reply_count": 10,
+          "retweet_count": 737
+        },
+        "reply_settings": "everyone",
+        "text": "Scarification https://t.co/T3PdIYV2Jp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6508,
+          "following_count": 34,
+          "like_count": 337,
+          "listed_count": 14,
+          "media_count": 115,
+          "tweet_count": 541
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T22:04:50.000Z",
+        "description": "Does it look like I have a DNI?\n!! MOST OF THE PHOTOS I POST ARE NOOTTTTT MINE !!",
+        "id": "1872403156455309315",
+        "location": "19 yrs old - SHTWT",
+        "name": "ᶻ 𝗓 𐰁",
+        "pinned_tweet_id": "1879605168536522858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880765399412686848/MQFet8qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 167,
+          "like_count": 1433,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 187
+        },
+        "username": "StupidLobster",
+        "verified": false
+      }
+    ]
+  }
+}

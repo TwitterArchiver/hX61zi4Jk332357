@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1936964652963188837",
+    "created_at": "2025-06-23T01:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T02:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936964652963188837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hx61zi4jk33235…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/hx61zi4jk332357/status/1929136349468090555",
+          "start": 28,
+          "url": "https://t.co/drFzL5Rf0o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936964652963188837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929136349468090555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想到我这张纸给她画了四五个这种低能笑话我就好想笑。。。 https://t.co/drFzL5Rf0o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929136286490865665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsWrO0easAE7Wu3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1936964652963188837",
+        "created_at": "2025-06-23T01:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T02:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936964652963188837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hx61zi4jk33235…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/hx61zi4jk332357/status/1929136349468090555",
+              "start": 28,
+              "url": "https://t.co/drFzL5Rf0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936964652963188837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929136349468090555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想到我这张纸给她画了四五个这种低能笑话我就好想笑。。。 https://t.co/drFzL5Rf0o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929136286490865665"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1929136349468090555",
+        "created_at": "2025-06-01T11:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T12:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929136349468090555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6y1c2Ppe8",
+              "end": 23,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1929136349468090555/photo/1",
+              "media_key": "3_1929136286490865665",
+              "start": 0,
+              "url": "https://t.co/E6y1c2Ppe8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929136349468090555",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1465,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E6y1c2Ppe8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8281,
+          "following_count": 59,
+          "like_count": 1130,
+          "listed_count": 20,
+          "media_count": 245,
+          "tweet_count": 1414
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

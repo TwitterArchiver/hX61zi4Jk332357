@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1894662168056140250",
+    "created_at": "2025-02-26T11:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T12:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894707543743844461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829609141649952768",
+          "start": 0,
+          "username": "wbuchishi"
+        },
+        {
+          "end": 21,
+          "id": "1180026205518610432",
+          "start": 11,
+          "username": "XiuJingDe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894707543743844461",
+    "in_reply_to_user_id": "1829609141649952768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894700115954471392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbuchishi @XiuJingDe 哪里有萌妹s哪里有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1894662168056140250",
+        "created_at": "2025-02-26T11:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T12:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894707543743844461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829609141649952768",
+              "start": 0,
+              "username": "wbuchishi"
+            },
+            {
+              "end": 21,
+              "id": "1180026205518610432",
+              "start": 11,
+              "username": "XiuJingDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894707543743844461",
+        "in_reply_to_user_id": "1829609141649952768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894700115954471392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbuchishi @XiuJingDe 哪里有萌妹s哪里有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829609141649952768",
+        "conversation_id": "1894662168056140250",
+        "created_at": "2025-02-26T10:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T11:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894700115954471392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1180026205518610432",
+              "start": 0,
+              "username": "XiuJingDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894700115954471392",
+        "in_reply_to_user_id": "1180026205518610432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894662168056140250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiuJingDe 萌妹s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "口欲期",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7186,
+          "following_count": 37,
+          "like_count": 457,
+          "listed_count": 17,
+          "media_count": 145,
+          "tweet_count": 753
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "看着我",
+        "id": "1829609141649952768",
+        "name": "绝望的人夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893892786232930305/rar5jE5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4338,
+          "following_count": 96,
+          "like_count": 4508,
+          "listed_count": 12,
+          "media_count": 39,
+          "tweet_count": 2078
+        },
+        "username": "wbuchishi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-04T07:45:52.000Z",
+        "description": "我们一定要变成这样吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=mTipXYKH",
+                "start": 0,
+                "url": "https://t.co/DEYf5Ds15O"
+              }
+            ]
+          }
+        },
+        "id": "1180026205518610432",
+        "location": "自用vpn↓",
+        "name": "修靖德",
+        "pinned_tweet_id": "1714981050299089268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696804794051264514/sv1iZcQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20916,
+          "following_count": 199,
+          "like_count": 22909,
+          "listed_count": 30,
+          "media_count": 1290,
+          "tweet_count": 25358
+        },
+        "url": "https://t.co/DEYf5Ds15O",
+        "username": "XiuJingDe",
+        "verified": false
+      }
+    ]
+  }
+}

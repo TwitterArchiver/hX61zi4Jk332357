@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1895219183488528599",
+    "created_at": "2025-02-28T01:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T02:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895290505036210486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1365444576530563080",
+          "start": 0,
+          "username": "retro_twt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895290505036210486",
+    "in_reply_to_user_id": "1365444576530563080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895219183488528599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@retro_twt 99版还是更好看的啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59400,
+        "height": 774,
+        "media_key": "7_1895219164870045697",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1895219164870045697/pu/img/eXm8K2ZBa3IrnG6T.jpg",
+        "public_metrics": {
+          "view_count": 39099
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895219164870045697/pu/vid/avc1/320x364/kUXlzqIzSs9wjXJu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895219164870045697/pu/vid/avc1/480x546/hrMHpYPOZWz0wZHI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895219164870045697/pu/vid/avc1/680x774/wQt6QJYDjxvgacQV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1895219164870045697/pu/pl/4x-ox1cZQ3ZT7E6p.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1895219183488528599",
+        "created_at": "2025-02-28T01:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T02:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895290505036210486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1365444576530563080",
+              "start": 0,
+              "username": "retro_twt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895290505036210486",
+        "in_reply_to_user_id": "1365444576530563080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895219183488528599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@retro_twt 99版还是更好看的啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1895219164870045697"
+          ]
+        },
+        "author_id": "1365444576530563080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043872889",
+              "name": "Hunter X Hunter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1268927285739941888",
+              "name": "Hunter × Hunter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1268927285739941888",
+              "name": "Hunter × Hunter"
+            }
+          }
+        ],
+        "conversation_id": "1895219183488528599",
+        "created_at": "2025-02-27T21:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T22:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895219183488528599"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Hunter x Hunter 1999",
+              "probability": 0.892,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TclXVxtEQZ",
+              "end": 52,
+              "expanded_url": "https://x.com/retro_twt/status/1895219183488528599/video/1",
+              "media_key": "7_1895219164870045697",
+              "start": 29,
+              "url": "https://t.co/TclXVxtEQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895219183488528599",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 458,
+          "impression_count": 98235,
+          "like_count": 3194,
+          "quote_count": 49,
+          "reply_count": 34,
+          "retweet_count": 294
+        },
+        "reply_settings": "everyone",
+        "text": "Hunter x Hunter 1999 vs 2011 https://t.co/TclXVxtEQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "@Yun__V 哦男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7177,
+          "following_count": 37,
+          "like_count": 470,
+          "listed_count": 17,
+          "media_count": 146,
+          "tweet_count": 774
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T23:32:26.000Z",
+        "description": "the golden age of anime",
+        "id": "1365444576530563080",
+        "name": "Retro Anime",
+        "pinned_tweet_id": "1895175240860221735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657231216142331905/wKeESPsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514912,
+          "following_count": 136,
+          "like_count": 4345,
+          "listed_count": 2557,
+          "media_count": 9219,
+          "tweet_count": 9640
+        },
+        "username": "retro_twt",
+        "verified": true
+      }
+    ]
+  }
+}

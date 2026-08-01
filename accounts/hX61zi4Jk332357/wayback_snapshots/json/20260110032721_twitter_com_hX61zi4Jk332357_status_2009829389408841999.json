@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2009686776940478465"
+      ],
+      "media_source_tweet_id": [
+        "2009686905320026430"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009829389408841999",
+    "created_at": "2026-01-10T03:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T04:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009829389408841999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1826946159983591424",
+          "start": 3,
+          "username": "KakeguruiRealm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZgC5NE9SN3",
+          "end": 62,
+          "expanded_url": "https://x.com/thomas_pet21509/status/2009686905320026430/video/1",
+          "media_key": "7_2009686776940478465",
+          "start": 39,
+          "url": "https://t.co/ZgC5NE9SN3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009829389408841999",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 239
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009687757149327702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KakeguruiRealm: They are so cute 💕 https://t.co/ZgC5NE9SN3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45441,
+        "height": 720,
+        "media_key": "7_2009686776940478465",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009686776940478465/pu/img/9CJSYzJHF0l3mHA_.jpg",
+        "public_metrics": {
+          "view_count": 36471
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009686776940478465/pu/vid/avc1/480x270/soLfnoRc4GS4A6yT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009686776940478465/pu/vid/avc1/640x360/lTbsnILuWj5JtTEW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009686776940478465/pu/vid/avc1/1280x720/CVqcnYN5Ub2MmF6z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009686776940478465/pu/pl/GXBIsyIC9FYbqJj7.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009686776940478465"
+          ],
+          "media_source_tweet_id": [
+            "2009686905320026430"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009829389408841999",
+        "created_at": "2026-01-10T03:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T04:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009829389408841999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1826946159983591424",
+              "start": 3,
+              "username": "KakeguruiRealm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZgC5NE9SN3",
+              "end": 62,
+              "expanded_url": "https://x.com/thomas_pet21509/status/2009686905320026430/video/1",
+              "media_key": "7_2009686776940478465",
+              "start": 39,
+              "url": "https://t.co/ZgC5NE9SN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009829389408841999",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 239
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009687757149327702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KakeguruiRealm: They are so cute 💕 https://t.co/ZgC5NE9SN3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009686776940478465"
+          ],
+          "media_source_tweet_id": [
+            "2009686905320026430"
+          ]
+        },
+        "author_id": "1826946159983591424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009687757149327702",
+        "created_at": "2026-01-09T18:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T19:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009687757149327702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZgC5NE9SN3",
+              "end": 42,
+              "expanded_url": "https://x.com/thomas_pet21509/status/2009686905320026430/video/1",
+              "media_key": "7_2009686776940478465",
+              "start": 19,
+              "url": "https://t.co/ZgC5NE9SN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009687757149327702",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 771,
+          "impression_count": 76527,
+          "like_count": 3853,
+          "quote_count": 23,
+          "reply_count": 7,
+          "retweet_count": 239
+        },
+        "reply_settings": "everyone",
+        "text": "They are so cute 💕 https://t.co/ZgC5NE9SN3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9591,
+          "following_count": 90,
+          "like_count": 2135,
+          "listed_count": 20,
+          "media_count": 433,
+          "tweet_count": 2104
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T11:34:57.000Z",
+        "description": "💗 For the girls who love girls — Yuri energy only 🌸\n🎰 A hint of Kakegurui chaos, a lot of love 💋",
+        "id": "1826946159983591424",
+        "name": "YuriDreams",
+        "pinned_tweet_id": "2009299827339706527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992144249995882496/Y2Fj-sMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3467,
+          "following_count": 84,
+          "like_count": 4185,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 1971
+        },
+        "username": "KakeguruiRealm",
+        "verified": false
+      }
+    ]
+  }
+}

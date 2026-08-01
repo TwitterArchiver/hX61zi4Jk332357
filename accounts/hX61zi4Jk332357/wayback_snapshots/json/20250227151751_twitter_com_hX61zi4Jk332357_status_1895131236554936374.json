@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894911592602488832"
+      ],
+      "media_source_tweet_id": [
+        "1894911613611704752"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1895131236554936374",
+    "created_at": "2025-02-27T15:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T16:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895131236554936374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781696612437200896",
+          "start": 3,
+          "username": "AMLOgamer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ek0iiDM6Pd",
+          "end": 38,
+          "expanded_url": "https://x.com/AMLOgamer/status/1894911613611704752/photo/1",
+          "media_key": "3_1894911592602488832",
+          "start": 15,
+          "url": "https://t.co/Ek0iiDM6Pd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895131236554936374",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 487
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894911613611704752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AMLOgamer: https://t.co/Ek0iiDM6Pd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2271,
+        "media_key": "3_1894911592602488832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkwUDcXXUAAa6gu.jpg",
+        "width": 2940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894911592602488832"
+          ],
+          "media_source_tweet_id": [
+            "1894911613611704752"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1895131236554936374",
+        "created_at": "2025-02-27T15:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T16:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895131236554936374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781696612437200896",
+              "start": 3,
+              "username": "AMLOgamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ek0iiDM6Pd",
+              "end": 38,
+              "expanded_url": "https://x.com/AMLOgamer/status/1894911613611704752/photo/1",
+              "media_key": "3_1894911592602488832",
+              "start": 15,
+              "url": "https://t.co/Ek0iiDM6Pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895131236554936374",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 487
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894911613611704752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AMLOgamer: https://t.co/Ek0iiDM6Pd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894911592602488832"
+          ]
+        },
+        "author_id": "1781696612437200896",
+        "conversation_id": "1894911613611704752",
+        "created_at": "2025-02-27T00:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T01:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894911613611704752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ek0iiDM6Pd",
+              "end": 23,
+              "expanded_url": "https://x.com/AMLOgamer/status/1894911613611704752/photo/1",
+              "media_key": "3_1894911592602488832",
+              "start": 0,
+              "url": "https://t.co/Ek0iiDM6Pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894911613611704752",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 343,
+          "impression_count": 36357,
+          "like_count": 3748,
+          "quote_count": 8,
+          "reply_count": 7,
+          "retweet_count": 487
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ek0iiDM6Pd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "@Yun__V 哦男朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7173,
+          "following_count": 37,
+          "like_count": 466,
+          "listed_count": 17,
+          "media_count": 146,
+          "tweet_count": 768
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T14:49:13.000Z",
+        "description": "artista épico premium+ pro usuario Claudia Sheinbaum $LIBRA ➡️https://t.co/zD3q9ZSOMt ➡️https://t.co/gYwlUc6WJY\n💗@rurutan_cos / @sillypuptoy",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 59,
+                "start": 53,
+                "tag": "LIBRA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "rurutan_cos"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "sillypuptoy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AMLOgamer",
+                "end": 85,
+                "expanded_url": "http://patreon.com/AMLOgamer",
+                "start": 62,
+                "url": "https://t.co/zD3q9ZSOMt"
+              },
+              {
+                "display_url": "ko-fi.com/amlogamer/shop",
+                "end": 111,
+                "expanded_url": "https://ko-fi.com/amlogamer/shop",
+                "start": 88,
+                "url": "https://t.co/gYwlUc6WJY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/AMLOgamer",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/AMLOgamer",
+                "start": 0,
+                "url": "https://t.co/Q6rXKqoQxP"
+              }
+            ]
+          }
+        },
+        "id": "1781696612437200896",
+        "location": "🇲🇽 México",
+        "name": "AMLOgamer🇲🇽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881090331489275904/3cC-viQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79415,
+          "following_count": 158,
+          "like_count": 5049,
+          "listed_count": 214,
+          "media_count": 213,
+          "tweet_count": 344
+        },
+        "url": "https://t.co/Q6rXKqoQxP",
+        "username": "AMLOgamer",
+        "verified": true
+      }
+    ]
+  }
+}

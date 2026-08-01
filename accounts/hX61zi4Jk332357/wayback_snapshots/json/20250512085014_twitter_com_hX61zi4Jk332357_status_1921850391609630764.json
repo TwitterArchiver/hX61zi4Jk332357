@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1921623467503304704"
+      ],
+      "media_source_tweet_id": [
+        "1921623516996063300"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1921850391609630764",
+    "created_at": "2025-05-12T08:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T09:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921850391609630764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1904676687041716224",
+          "start": 3,
+          "username": "ObsessedLeek"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TZZBNFUMYM",
+          "end": 41,
+          "expanded_url": "https://x.com/ObsessedLeek/status/1921623516996063300/video/1",
+          "media_key": "7_1921623467503304704",
+          "start": 18,
+          "url": "https://t.co/TZZBNFUMYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921850391609630764",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 222
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921623516996063300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ObsessedLeek: https://t.co/TZZBNFUMYM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42325,
+        "height": 696,
+        "media_key": "7_1921623467503304704",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1921623467503304704/pu/img/V_UX53ZQS199jnFJ.jpg",
+        "public_metrics": {
+          "view_count": 63272
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921623467503304704/pu/vid/avc1/496x270/Ct7n-npN0MNGILZs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921623467503304704/pu/vid/avc1/662x360/uni6j_2eEh_VatS6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921623467503304704/pu/vid/avc1/1280x696/50kaLIgV1diJwpXY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1921623467503304704/pu/pl/EGb0dvmEo-uD7tdR.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1921623467503304704"
+          ],
+          "media_source_tweet_id": [
+            "1921623516996063300"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1921850391609630764",
+        "created_at": "2025-05-12T08:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T09:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921850391609630764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1904676687041716224",
+              "start": 3,
+              "username": "ObsessedLeek"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZZBNFUMYM",
+              "end": 41,
+              "expanded_url": "https://x.com/ObsessedLeek/status/1921623516996063300/video/1",
+              "media_key": "7_1921623467503304704",
+              "start": 18,
+              "url": "https://t.co/TZZBNFUMYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921850391609630764",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 222
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921623516996063300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ObsessedLeek: https://t.co/TZZBNFUMYM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1921623467503304704"
+          ]
+        },
+        "author_id": "1904676687041716224",
+        "conversation_id": "1921623516996063300",
+        "created_at": "2025-05-11T17:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T18:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921623516996063300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZZBNFUMYM",
+              "end": 23,
+              "expanded_url": "https://x.com/ObsessedLeek/status/1921623516996063300/video/1",
+              "media_key": "7_1921623467503304704",
+              "start": 0,
+              "url": "https://t.co/TZZBNFUMYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921623516996063300",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1280,
+          "impression_count": 111264,
+          "like_count": 3104,
+          "quote_count": 30,
+          "reply_count": 40,
+          "retweet_count": 222
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TZZBNFUMYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8335,
+          "following_count": 50,
+          "like_count": 896,
+          "listed_count": 20,
+          "media_count": 207,
+          "tweet_count": 1247
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T23:28:20.000Z",
+        "description": "Sharing stuff that I like and other slop",
+        "id": "1904676687041716224",
+        "location": "妹の中で",
+        "name": "ObsessedLeek",
+        "pinned_tweet_id": "1914067504441274651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910906507375337472/uKHppA4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7769,
+          "following_count": 80,
+          "like_count": 188,
+          "listed_count": 9,
+          "media_count": 102,
+          "tweet_count": 117
+        },
+        "username": "ObsessedLeek",
+        "verified": false
+      }
+    ]
+  }
+}

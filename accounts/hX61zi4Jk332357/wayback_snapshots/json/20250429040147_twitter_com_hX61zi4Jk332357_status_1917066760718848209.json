@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1916737560350765056"
+      ],
+      "media_source_tweet_id": [
+        "1916737618907427220"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1917066760718848209",
+    "created_at": "2025-04-29T04:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T05:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917066760718848209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1740066209574596608",
+          "start": 3,
+          "username": "IKARICIDE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a5mMp9tg2p",
+          "end": 53,
+          "expanded_url": "https://x.com/IKARICIDE/status/1916737618907427220/video/1",
+          "media_key": "13_1916737560350765056",
+          "start": 30,
+          "url": "https://t.co/a5mMp9tg2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917066760718848209",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1146
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916737618907427220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IKARICIDE: finished it :3 https://t.co/a5mMp9tg2p"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8741,
+        "height": 720,
+        "media_key": "13_1916737560350765056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1916737560350765056/img/hCgrm5XZSdkL5Tor.jpg",
+        "public_metrics": {
+          "view_count": 17420
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916737560350765056/vid/avc1/362x270/VAEiGmlk-xbi2NV6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916737560350765056/vid/avc1/484x360/B35MOGul9IYQgo7d.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916737560350765056/vid/avc1/970x720/O2mFbuTR-hahHAjb.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1916737560350765056/pl/lsOaN6WM5qJn0hw6.m3u8?tag=14"
+          }
+        ],
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1916737560350765056"
+          ],
+          "media_source_tweet_id": [
+            "1916737618907427220"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1917066760718848209",
+        "created_at": "2025-04-29T04:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T05:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917066760718848209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1740066209574596608",
+              "start": 3,
+              "username": "IKARICIDE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5mMp9tg2p",
+              "end": 53,
+              "expanded_url": "https://x.com/IKARICIDE/status/1916737618907427220/video/1",
+              "media_key": "13_1916737560350765056",
+              "start": 30,
+              "url": "https://t.co/a5mMp9tg2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917066760718848209",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1146
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916737618907427220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IKARICIDE: finished it :3 https://t.co/a5mMp9tg2p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1916737560350765056"
+          ]
+        },
+        "author_id": "1740066209574596608",
+        "conversation_id": "1916737618907427220",
+        "created_at": "2025-04-28T06:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T07:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916737618907427220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5mMp9tg2p",
+              "end": 38,
+              "expanded_url": "https://x.com/IKARICIDE/status/1916737618907427220/video/1",
+              "media_key": "13_1916737560350765056",
+              "start": 15,
+              "url": "https://t.co/a5mMp9tg2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916737618907427220",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 842,
+          "impression_count": 46412,
+          "like_count": 6007,
+          "quote_count": 11,
+          "reply_count": 17,
+          "retweet_count": 1146
+        },
+        "reply_settings": "everyone",
+        "text": "finished it :3 https://t.co/a5mMp9tg2p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912718783745331200/T8ADO8XA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8235,
+          "following_count": 50,
+          "like_count": 799,
+          "listed_count": 18,
+          "media_count": 193,
+          "tweet_count": 1143
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T17:45:04.000Z",
+        "description": "post art sometimes 🪽 ( drink up baby stay up all night @shinjitism ) evangelion spinterest + jojos + silent hill || priv @fentworu i complain there",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "shinjitism"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "fentworu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikaricide.straw.page",
+                "end": 23,
+                "expanded_url": "https://ikaricide.straw.page/",
+                "start": 0,
+                "url": "https://t.co/8xeld1mLWJ"
+              }
+            ]
+          }
+        },
+        "id": "1740066209574596608",
+        "location": "shinji stole my autism heart",
+        "name": "artemis (*´꒳`*)",
+        "pinned_tweet_id": "1916737618907427220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914522726750150657/LaE0rBvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 163,
+          "like_count": 11974,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 1237
+        },
+        "url": "https://t.co/8xeld1mLWJ",
+        "username": "IKARICIDE",
+        "verified": false
+      }
+    ]
+  }
+}

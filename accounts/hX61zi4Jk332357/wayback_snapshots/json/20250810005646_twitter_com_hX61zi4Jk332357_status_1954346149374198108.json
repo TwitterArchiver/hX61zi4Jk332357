@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954159926084861952"
+      ],
+      "media_source_tweet_id": [
+        "1954159941154979989"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1954346149374198108",
+    "created_at": "2025-08-10T00:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T01:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954346149374198108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676261495661838337",
+          "start": 3,
+          "username": "Paci_Pup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HULjO7lSjP",
+          "end": 43,
+          "expanded_url": "https://x.com/Paci_Pup/status/1954159941154979989/photo/1",
+          "media_key": "3_1954159926084861952",
+          "start": 20,
+          "url": "https://t.co/HULjO7lSjP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954346149374198108",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 893
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954159941154979989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Paci_Pup: Puppy https://t.co/HULjO7lSjP"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Drawing of a puppy with the caption; \"be a freak be a weirdo\" ",
+        "height": 2034,
+        "media_key": "3_1954159926084861952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6SGWSXgAARtjk.jpg",
+        "width": 1505
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954159926084861952"
+          ],
+          "media_source_tweet_id": [
+            "1954159941154979989"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1954346149374198108",
+        "created_at": "2025-08-10T00:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T01:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954346149374198108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676261495661838337",
+              "start": 3,
+              "username": "Paci_Pup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HULjO7lSjP",
+              "end": 43,
+              "expanded_url": "https://x.com/Paci_Pup/status/1954159941154979989/photo/1",
+              "media_key": "3_1954159926084861952",
+              "start": 20,
+              "url": "https://t.co/HULjO7lSjP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954346149374198108",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 893
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954159941154979989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Paci_Pup: Puppy https://t.co/HULjO7lSjP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954159926084861952"
+          ]
+        },
+        "author_id": "1676261495661838337",
+        "conversation_id": "1954159941154979989",
+        "created_at": "2025-08-09T12:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954159941154979989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HULjO7lSjP",
+              "end": 29,
+              "expanded_url": "https://x.com/Paci_Pup/status/1954159941154979989/photo/1",
+              "media_key": "3_1954159926084861952",
+              "start": 6,
+              "url": "https://t.co/HULjO7lSjP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954159941154979989",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 294,
+          "impression_count": 47242,
+          "like_count": 4866,
+          "quote_count": 12,
+          "reply_count": 2,
+          "retweet_count": 893
+        },
+        "reply_settings": "following",
+        "text": "Puppy https://t.co/HULjO7lSjP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8183,
+          "following_count": 63,
+          "like_count": 1307,
+          "listed_count": 20,
+          "media_count": 287,
+          "tweet_count": 1548
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T16:08:39.000Z",
+        "description": "Adult🐕|| Certified Puppyboy 🐾\n|| 🐸SFW🌈\n(but Adults only please)\n🌱ASD🌱\n🐶He/Him/Pup🐶\n🩹🎨Healing through art 🎨 🩹\n\nhttps://t.co/foR4DnnfVQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pacipup.carrd.co",
+                "end": 133,
+                "expanded_url": "https://pacipup.carrd.co/",
+                "start": 110,
+                "url": "https://t.co/foR4DnnfVQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/pacipup",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/pacipup",
+                "start": 0,
+                "url": "https://t.co/gg8JUcWpyD"
+              }
+            ]
+          }
+        },
+        "id": "1676261495661838337",
+        "location": "🐶🪡: bocai_kig ",
+        "name": "Basil 🍀",
+        "pinned_tweet_id": "1944126140324454605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932109816190623755/Eiofn6li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21575,
+          "following_count": 1437,
+          "like_count": 30505,
+          "listed_count": 40,
+          "media_count": 541,
+          "tweet_count": 3802
+        },
+        "url": "https://t.co/gg8JUcWpyD",
+        "username": "Paci_Pup",
+        "verified": false
+      }
+    ]
+  }
+}

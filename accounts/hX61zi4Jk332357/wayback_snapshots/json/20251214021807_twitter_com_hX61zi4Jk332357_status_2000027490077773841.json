@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999647365980917764",
+        "3_1999647366014521345"
+      ],
+      "media_source_tweet_id": [
+        "1999647385765491053",
+        "1999647385765491053"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2000027490077773841",
+    "created_at": "2025-12-14T02:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T03:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000027490077773841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1217328989775134720",
+          "start": 3,
+          "username": "kyoruyeye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ik52WddKIv",
+          "end": 91,
+          "expanded_url": "https://x.com/kyoruyeye/status/1999647385765491053/photo/1",
+          "media_key": "3_1999647365980917764",
+          "start": 68,
+          "url": "https://t.co/Ik52WddKIv"
+        },
+        {
+          "display_url": "pic.x.com/Ik52WddKIv",
+          "end": 91,
+          "expanded_url": "https://x.com/kyoruyeye/status/1999647385765491053/photo/1",
+          "media_key": "3_1999647366014521345",
+          "start": 68,
+          "url": "https://t.co/Ik52WddKIv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000027490077773841",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1413
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999647385765491053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyoruyeye: thinking about this love bullet page parallel again… https://t.co/Ik52WddKIv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_1999647365980917764",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Asr01WkAQwqzg.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1666,
+        "media_key": "3_1999647366014521345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Asr09XUAEaDGM.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999647365980917764",
+            "3_1999647366014521345"
+          ],
+          "media_source_tweet_id": [
+            "1999647385765491053",
+            "1999647385765491053"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2000027490077773841",
+        "created_at": "2025-12-14T02:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000027490077773841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1217328989775134720",
+              "start": 3,
+              "username": "kyoruyeye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ik52WddKIv",
+              "end": 91,
+              "expanded_url": "https://x.com/kyoruyeye/status/1999647385765491053/photo/1",
+              "media_key": "3_1999647365980917764",
+              "start": 68,
+              "url": "https://t.co/Ik52WddKIv"
+            },
+            {
+              "display_url": "pic.x.com/Ik52WddKIv",
+              "end": 91,
+              "expanded_url": "https://x.com/kyoruyeye/status/1999647385765491053/photo/1",
+              "media_key": "3_1999647366014521345",
+              "start": 68,
+              "url": "https://t.co/Ik52WddKIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000027490077773841",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1413
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999647385765491053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyoruyeye: thinking about this love bullet page parallel again… https://t.co/Ik52WddKIv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999647365980917764",
+            "3_1999647366014521345"
+          ]
+        },
+        "author_id": "1217328989775134720",
+        "conversation_id": "1999647385765491053",
+        "created_at": "2025-12-13T01:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T02:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999647385765491053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ik52WddKIv",
+              "end": 76,
+              "expanded_url": "https://x.com/kyoruyeye/status/1999647385765491053/photo/1",
+              "media_key": "3_1999647365980917764",
+              "start": 53,
+              "url": "https://t.co/Ik52WddKIv"
+            },
+            {
+              "display_url": "pic.x.com/Ik52WddKIv",
+              "end": 76,
+              "expanded_url": "https://x.com/kyoruyeye/status/1999647385765491053/photo/1",
+              "media_key": "3_1999647366014521345",
+              "start": 53,
+              "url": "https://t.co/Ik52WddKIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999647385765491053",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2049,
+          "impression_count": 131110,
+          "like_count": 15997,
+          "quote_count": 35,
+          "reply_count": 4,
+          "retweet_count": 1413
+        },
+        "reply_settings": "everyone",
+        "text": "thinking about this love bullet page parallel again… https://t.co/Ik52WddKIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9801,
+          "following_count": 85,
+          "like_count": 2041,
+          "listed_count": 23,
+          "media_count": 413,
+          "tweet_count": 2057
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-15T06:13:50.000Z",
+        "description": "green lesbian manga enthusiast ~ shoujosei ~ furuba ~ nana ~ @ the 🇨🇦 pink pony club ~ yuri dealer ~ dnp are my dads",
+        "id": "1217328989775134720",
+        "location": "she/her ~ 22 ~ lesbian",
+        "name": "avary 🤍",
+        "pinned_tweet_id": "1738515036631621810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997899515248951296/ecW3AA-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174625,
+          "following_count": 991,
+          "like_count": 243097,
+          "listed_count": 388,
+          "media_count": 46928,
+          "tweet_count": 153884
+        },
+        "username": "kyoruyeye",
+        "verified": false
+      }
+    ]
+  }
+}

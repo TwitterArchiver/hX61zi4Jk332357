@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1957000166982156578",
+    "created_at": "2025-08-17T08:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T09:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957000166982156578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1725021971568545793",
+          "start": 3,
+          "username": "cen1462564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957000166982156578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956999935720595582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cen1462564: 还我长发 还我长发 还我长发 我再也不剪短头发了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1957000166982156578",
+        "created_at": "2025-08-17T08:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T09:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957000166982156578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1725021971568545793",
+              "start": 3,
+              "username": "cen1462564"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957000166982156578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956999935720595582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cen1462564: 还我长发 还我长发 还我长发 我再也不剪短头发了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725021971568545793",
+        "conversation_id": "1956999935720595582",
+        "created_at": "2025-08-17T08:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T09:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956999935720595582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956999935720595582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还我长发 还我长发 还我长发 我再也不剪短头发了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1925148201281360017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8173,
+          "following_count": 65,
+          "like_count": 1366,
+          "listed_count": 20,
+          "media_count": 296,
+          "tweet_count": 1605
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T05:24:31.000Z",
+        "description": "",
+        "id": "1725021971568545793",
+        "name": "刀熏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801249694880002048/eGUtzJ4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 611,
+          "like_count": 3698,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 1675
+        },
+        "username": "cen1462564",
+        "verified": false
+      }
+    ]
+  }
+}

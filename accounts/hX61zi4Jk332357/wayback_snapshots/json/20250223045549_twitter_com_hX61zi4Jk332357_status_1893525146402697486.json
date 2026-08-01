@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1893472689320534029",
+    "created_at": "2025-02-23T04:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T05:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893525146402697486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1718721482627624960",
+          "start": 0,
+          "username": "mastheadsbxzvak"
+        },
+        {
+          "end": 27,
+          "id": "1829609141649952768",
+          "start": 17,
+          "username": "wbuchishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893525146402697486",
+    "in_reply_to_user_id": "1817120099528265728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893524979314311442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mastheadsbxzvak @wbuchishi ohshit原来只有开头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1893472689320534029",
+        "created_at": "2025-02-23T04:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T05:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893525146402697486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1718721482627624960",
+              "start": 0,
+              "username": "mastheadsbxzvak"
+            },
+            {
+              "end": 27,
+              "id": "1829609141649952768",
+              "start": 17,
+              "username": "wbuchishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893525146402697486",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893524979314311442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mastheadsbxzvak @wbuchishi ohshit原来只有开头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1893472689320534029",
+        "created_at": "2025-02-23T04:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T05:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893524979314311442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1718721482627624960",
+              "start": 0,
+              "username": "mastheadsbxzvak"
+            },
+            {
+              "end": 27,
+              "id": "1829609141649952768",
+              "start": 17,
+              "username": "wbuchishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893524979314311442",
+        "in_reply_to_user_id": "1718721482627624960",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893472689320534029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mastheadsbxzvak @wbuchishi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6664,
+          "following_count": 37,
+          "like_count": 427,
+          "listed_count": 15,
+          "media_count": 143,
+          "tweet_count": 708
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T20:09:04.000Z",
+        "description": "",
+        "id": "1718721482627624960",
+        "name": "Floyd Barnes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854380108905398272/K_RcA2Js_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 144,
+          "like_count": 105,
+          "listed_count": 13,
+          "media_count": 27,
+          "tweet_count": 152
+        },
+        "username": "mastheadsbxzvak",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "喜欢@xiaoyudywe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "xiaoyudywe"
+              }
+            ]
+          }
+        },
+        "id": "1829609141649952768",
+        "name": "绝望的人夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892487664588509185/lrHhNtBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4315,
+          "following_count": 96,
+          "like_count": 4477,
+          "listed_count": 11,
+          "media_count": 36,
+          "tweet_count": 2050
+        },
+        "username": "wbuchishi",
+        "verified": false
+      }
+    ]
+  }
+}

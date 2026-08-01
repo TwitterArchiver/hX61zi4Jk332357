@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1947260219437772973",
+    "created_at": "2025-07-21T13:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T14:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947286295803228587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558547901164318728",
+          "start": 0,
+          "username": "saiyadayoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947286295803228587",
+    "in_reply_to_user_id": "1558547901164318728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947277828224893226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saiyadayoo 点解！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1947260219437772973",
+        "created_at": "2025-07-21T13:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T14:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947286295803228587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558547901164318728",
+              "start": 0,
+              "username": "saiyadayoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947286295803228587",
+        "in_reply_to_user_id": "1558547901164318728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947277828224893226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saiyadayoo 点解！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558547901164318728",
+        "conversation_id": "1947260219437772973",
+        "created_at": "2025-07-21T12:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947277828224893226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947277828224893226",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947260219437772973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 不安！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8230,
+          "following_count": 59,
+          "like_count": 1228,
+          "listed_count": 20,
+          "media_count": 275,
+          "tweet_count": 1495
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T20:16:01.000Z",
+        "description": "廢話記錄ʚ✝ɞ繁中/Eng/日本語⭐️ 娃娃和畫 @sayaaadesuwa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "sayaaadesuwa"
+              }
+            ]
+          }
+        },
+        "id": "1558547901164318728",
+        "location": "r-152-6-9-a星球",
+        "name": "ʚ✞ɞ",
+        "pinned_tweet_id": "1910833962324291751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 375,
+          "like_count": 20156,
+          "listed_count": 0,
+          "media_count": 407,
+          "tweet_count": 9862
+        },
+        "username": "saiyadayoo",
+        "verified": false
+      }
+    ]
+  }
+}

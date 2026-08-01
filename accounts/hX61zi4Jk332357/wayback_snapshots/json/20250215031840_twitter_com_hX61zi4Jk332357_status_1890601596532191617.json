@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1890601596532191617",
+    "created_at": "2025-02-15T03:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T04:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890601596532191617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yellowdog2020/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/yellowdog2020/status/1890389235913396343",
+          "start": 11,
+          "url": "https://t.co/ZKweDLFrWx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890601596532191617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890389235913396343",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "为什么一直不回我消息 https://t.co/ZKweDLFrWx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1890601596532191617",
+        "created_at": "2025-02-15T03:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T04:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890601596532191617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yellowdog2020/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/yellowdog2020/status/1890389235913396343",
+              "start": 11,
+              "url": "https://t.co/ZKweDLFrWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890601596532191617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890389235913396343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "为什么一直不回我消息 https://t.co/ZKweDLFrWx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890388808979603456"
+          ]
+        },
+        "author_id": "1285827694916034560",
+        "conversation_id": "1890389235913396343",
+        "created_at": "2025-02-14T13:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T14:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890389235913396343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "あのそよ"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4BoaIfQh5",
+              "end": 48,
+              "expanded_url": "https://x.com/YELLOWDOG2020/status/1890389235913396343/photo/1",
+              "media_key": "3_1890388808979603456",
+              "start": 25,
+              "url": "https://t.co/U4BoaIfQh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890389235913396343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5790,
+          "impression_count": 394445,
+          "like_count": 31022,
+          "quote_count": 80,
+          "reply_count": 30,
+          "retweet_count": 2084
+        },
+        "reply_settings": "everyone",
+        "text": "#あのそよ #MyGO 情人節讓anon吃點好的 https://t.co/U4BoaIfQh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6640,
+          "following_count": 35,
+          "like_count": 409,
+          "listed_count": 15,
+          "media_count": 133,
+          "tweet_count": 673
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-22T06:43:18.000Z",
+        "description": "",
+        "id": "1285827694916034560",
+        "name": "半生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872306011031433216/VLB9CJ_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80974,
+          "following_count": 76,
+          "like_count": 9497,
+          "listed_count": 262,
+          "media_count": 420,
+          "tweet_count": 6277
+        },
+        "username": "YELLOWDOG2020",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966547403365851136"
+      ],
+      "media_source_tweet_id": [
+        "1966547411163078713"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1967062415792894269",
+    "created_at": "2025-09-14T03:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T04:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967062415792894269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "883085992370077697",
+          "start": 3,
+          "username": "ComradeAshenov"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W5EzyaryNY",
+          "end": 70,
+          "expanded_url": "https://x.com/ComradeAshenov/status/1966547411163078713/photo/1",
+          "media_key": "3_1966547403365851136",
+          "start": 47,
+          "url": "https://t.co/W5EzyaryNY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967062415792894269",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2279
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966547411163078713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ComradeAshenov: Differences between girls. https://t.co/W5EzyaryNY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3770,
+        "media_key": "3_1966547403365851136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0qUcbOWoAAG-eJ.png",
+        "width": 3805
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966547403365851136"
+          ],
+          "media_source_tweet_id": [
+            "1966547411163078713"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1967062415792894269",
+        "created_at": "2025-09-14T03:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T04:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967062415792894269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "883085992370077697",
+              "start": 3,
+              "username": "ComradeAshenov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W5EzyaryNY",
+              "end": 70,
+              "expanded_url": "https://x.com/ComradeAshenov/status/1966547411163078713/photo/1",
+              "media_key": "3_1966547403365851136",
+              "start": 47,
+              "url": "https://t.co/W5EzyaryNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967062415792894269",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2279
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966547411163078713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ComradeAshenov: Differences between girls. https://t.co/W5EzyaryNY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966547403365851136"
+          ]
+        },
+        "author_id": "883085992370077697",
+        "conversation_id": "1966547411163078713",
+        "created_at": "2025-09-12T17:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T18:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966547411163078713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W5EzyaryNY",
+              "end": 50,
+              "expanded_url": "https://x.com/ComradeAshenov/status/1966547411163078713/photo/1",
+              "media_key": "3_1966547403365851136",
+              "start": 27,
+              "url": "https://t.co/W5EzyaryNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966547411163078713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5989,
+          "impression_count": 410656,
+          "like_count": 36423,
+          "quote_count": 194,
+          "reply_count": 64,
+          "retweet_count": 2279
+        },
+        "reply_settings": "everyone",
+        "text": "Differences between girls. https://t.co/W5EzyaryNY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1925148201281360017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8116,
+          "following_count": 66,
+          "like_count": 1535,
+          "listed_count": 20,
+          "media_count": 329,
+          "tweet_count": 1732
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-06T22:11:22.000Z",
+        "description": "hello everything!\nartist, musician and real life office lady, eater of all things sweet and drinker of all things ethyl | @Gexuma1 is my lovely wife💍💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "Gexuma1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ashenov.straw.page",
+                "end": 23,
+                "expanded_url": "https://ashenov.straw.page/",
+                "start": 0,
+                "url": "https://t.co/iA92mZaE3w"
+              }
+            ]
+          }
+        },
+        "id": "883085992370077697",
+        "location": "Some works 🔞~",
+        "name": "ashenov",
+        "pinned_tweet_id": "1941939857552540074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830271318547107840/k9W5gPrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23614,
+          "following_count": 275,
+          "like_count": 61808,
+          "listed_count": 101,
+          "media_count": 2226,
+          "tweet_count": 12788
+        },
+        "url": "https://t.co/iA92mZaE3w",
+        "username": "ComradeAshenov",
+        "verified": false
+      }
+    ]
+  }
+}

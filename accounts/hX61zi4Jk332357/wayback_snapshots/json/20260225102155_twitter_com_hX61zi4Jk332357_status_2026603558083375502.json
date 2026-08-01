@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026575568318398464"
+      ],
+      "media_source_tweet_id": [
+        "2026575820786119050"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026603558083375502",
+    "created_at": "2026-02-25T10:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T11:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026603558083375502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969702867553697792",
+          "start": 3,
+          "username": "TOF_o_o2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/toQ9va8GYb",
+          "end": 37,
+          "expanded_url": "https://x.com/TOF_o_o2/status/2026575820786119050/video/1",
+          "media_key": "13_2026575568318398464",
+          "start": 14,
+          "url": "https://t.co/toQ9va8GYb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026603558083375502",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026575820786119050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOF_o_o2: https://t.co/toQ9va8GYb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2026603558083375502].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2026603558083375502",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2026603558083375502"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 475708,
+        "height": 720,
+        "media_key": "13_2026575568318398464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026575568318398464/img/QoQe3wzxV6vY2AZr.jpg",
+        "public_metrics": {
+          "view_count": 144
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026575568318398464/vid/avc1/360x270/QFfAXUwhNi_XLuzb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026575568318398464/vid/avc1/480x360/L-ObhSD8bHStfY6t.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026575568318398464/vid/avc1/960x720/h8iuR241SoQ0-wo4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026575568318398464/pl/bUMicMoRwVamA3VM.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026575568318398464"
+          ]
+        },
+        "author_id": "1969702867553697792",
+        "conversation_id": "2026575820786119050",
+        "created_at": "2026-02-25T08:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026575820786119050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/toQ9va8GYb",
+              "end": 23,
+              "expanded_url": "https://x.com/TOF_o_o2/status/2026575820786119050/video/1",
+              "media_key": "13_2026575568318398464",
+              "start": 0,
+              "url": "https://t.co/toQ9va8GYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026575820786119050",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 287,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/toQ9va8GYb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9395,
+          "following_count": 97,
+          "like_count": 2331,
+          "listed_count": 20,
+          "media_count": 454,
+          "tweet_count": 2187
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T09:59:23.000Z",
+        "description": "𝑵𝑶𝑻 𝑨𝑰 𝑮𝑬𝑵𝑬𝑹𝑨𝑻𝑬𝑫 ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️莓(Mei) ₂₀₂₅.₅.₃₀~ ᴸⁱᵛⁱⁿᵍ ʷⁱᵗʰ ᵃ ˡⁱᶠᵉ⁻ˢⁱᶻᵉ ᵈᵒˡ ˡ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️ ️@ TOF_x_x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/542692",
+                "end": 23,
+                "expanded_url": "https://fantia.jp/fanclubs/542692",
+                "start": 0,
+                "url": "https://t.co/DfG3gvQiHx"
+              }
+            ]
+          }
+        },
+        "id": "1969702867553697792",
+        "name": "̴̮̝͍͖̮̲͎̯͕̳̙̜̮̪͇̜͕̩͉̉̿͛̍͗̑̍̓̊̈͐̈́̓̉̾͋",
+        "pinned_tweet_id": "2024440314514301382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969725870047961089/sdr45CA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 0,
+          "like_count": 12,
+          "listed_count": 15,
+          "media_count": 64,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/DfG3gvQiHx",
+        "username": "TOF_o_o2",
+        "verified": false
+      }
+    ]
+  }
+}

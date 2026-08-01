@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2012382071642279936"
+      ],
+      "media_source_tweet_id": [
+        "2012392206519480565"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2012723268223127849",
+    "created_at": "2026-01-18T03:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T04:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012723268223127849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "913739675830951936",
+          "start": 3,
+          "username": "narue_496"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TI9o755Mvh",
+          "end": 38,
+          "expanded_url": "https://x.com/narue_496/status/2012392206519480565/video/1",
+          "media_key": "13_2012382071642279936",
+          "start": 15,
+          "url": "https://t.co/TI9o755Mvh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012723268223127849",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 718
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012392206519480565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @narue_496: https://t.co/TI9o755Mvh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16041,
+        "height": 1080,
+        "media_key": "13_2012382071642279936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012382071642279936/img/ozMzaICN34Sz9pvm.jpg",
+        "public_metrics": {
+          "view_count": 157
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012382071642279936/vid/avc1/320x320/HiPaKqTrIegr11xY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012382071642279936/vid/avc1/540x540/Bcn1CA0Bq2vZjTWD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012382071642279936/vid/avc1/720x720/f6H8cffa1qC6ikEO.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012382071642279936/pl/UbUer7TCyLl3ENvr.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012382071642279936"
+          ],
+          "media_source_tweet_id": [
+            "2012392206519480565"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012723268223127849",
+        "created_at": "2026-01-18T03:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012723268223127849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "913739675830951936",
+              "start": 3,
+              "username": "narue_496"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TI9o755Mvh",
+              "end": 38,
+              "expanded_url": "https://x.com/narue_496/status/2012392206519480565/video/1",
+              "media_key": "13_2012382071642279936",
+              "start": 15,
+              "url": "https://t.co/TI9o755Mvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012723268223127849",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 718
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012392206519480565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @narue_496: https://t.co/TI9o755Mvh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012382071642279936"
+          ]
+        },
+        "author_id": "913739675830951936",
+        "conversation_id": "2012392206519480565",
+        "created_at": "2026-01-17T05:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012392206519480565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TI9o755Mvh",
+              "end": 23,
+              "expanded_url": "https://x.com/narue_496/status/2012392206519480565/video/1",
+              "media_key": "13_2012382071642279936",
+              "start": 0,
+              "url": "https://t.co/TI9o755Mvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012392206519480565",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 730,
+          "impression_count": 84056,
+          "like_count": 5427,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 718
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TI9o755Mvh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9566,
+          "following_count": 91,
+          "like_count": 2185,
+          "listed_count": 20,
+          "media_count": 437,
+          "tweet_count": 2118
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-29T12:18:09.000Z",
+        "description": "I hope you like it.\n\n✉：narue.0228＠gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "narue496.carrd.co",
+                "end": 23,
+                "expanded_url": "http://narue496.carrd.co",
+                "start": 0,
+                "url": "https://t.co/wC1GcTFleT"
+              }
+            ]
+          }
+        },
+        "id": "913739675830951936",
+        "name": "ɴᴀʀᴜᴇ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558018639319932930/_HtpMJpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248375,
+          "following_count": 1005,
+          "like_count": 8001,
+          "listed_count": 2482,
+          "media_count": 377,
+          "tweet_count": 10401
+        },
+        "url": "https://t.co/wC1GcTFleT",
+        "username": "narue_496",
+        "verified": false
+      }
+    ]
+  }
+}

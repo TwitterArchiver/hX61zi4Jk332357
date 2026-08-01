@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1907720043401719809"
+      ],
+      "media_source_tweet_id": [
+        "1907720164415774784"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1907882631980814730",
+    "created_at": "2025-04-03T19:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T20:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907882631980814730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896042812690612228",
+          "start": 3,
+          "username": "inuu_ui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Y3aTow39J",
+          "end": 42,
+          "expanded_url": "https://x.com/inuu_ui/status/1907720164415774784/video/1",
+          "media_key": "13_1907720043401719809",
+          "start": 19,
+          "url": "https://t.co/8Y3aTow39J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907882631980814730",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 282
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907720164415774784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inuu_ui: 여친입니다 https://t.co/8Y3aTow39J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10600,
+        "height": 1280,
+        "media_key": "13_1907720043401719809",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1907720043401719809/img/iMcMfPfGj5P52hZj.jpg",
+        "public_metrics": {
+          "view_count": 44956
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907720043401719809/vid/avc1/320x568/sNOkajwq-Cj-8aPU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907720043401719809/vid/avc1/480x852/gZQ8nlj2TwI2X7eE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907720043401719809/vid/avc1/720x1280/qWa9-GhlEAyOAbUl.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1907720043401719809/pl/fU12O_zj8icogECd.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1907720043401719809"
+          ],
+          "media_source_tweet_id": [
+            "1907720164415774784"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1907882631980814730",
+        "created_at": "2025-04-03T19:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T20:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907882631980814730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896042812690612228",
+              "start": 3,
+              "username": "inuu_ui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Y3aTow39J",
+              "end": 42,
+              "expanded_url": "https://x.com/inuu_ui/status/1907720164415774784/video/1",
+              "media_key": "13_1907720043401719809",
+              "start": 19,
+              "url": "https://t.co/8Y3aTow39J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907882631980814730",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907720164415774784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inuu_ui: 여친입니다 https://t.co/8Y3aTow39J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1907720043401719809"
+          ]
+        },
+        "author_id": "1896042812690612228",
+        "conversation_id": "1907720164415774784",
+        "created_at": "2025-04-03T09:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T10:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907720164415774784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Y3aTow39J",
+              "end": 29,
+              "expanded_url": "https://x.com/inuu_ui/status/1907720164415774784/video/1",
+              "media_key": "13_1907720043401719809",
+              "start": 6,
+              "url": "https://t.co/8Y3aTow39J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907720164415774784",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 929,
+          "impression_count": 144495,
+          "like_count": 3971,
+          "quote_count": 124,
+          "reply_count": 21,
+          "retweet_count": 282
+        },
+        "reply_settings": "everyone",
+        "text": "여친입니다 https://t.co/8Y3aTow39J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902896494052773890/hrQl_6Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7136,
+          "following_count": 41,
+          "like_count": 631,
+          "listed_count": 17,
+          "media_count": 170,
+          "tweet_count": 970
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T03:40:15.000Z",
+        "description": "",
+        "id": "1896042812690612228",
+        "name": "인유",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905875449009565697/zNdI4QVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 22,
+          "like_count": 2256,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 44
+        },
+        "username": "inuu_ui",
+        "verified": false
+      }
+    ]
+  }
+}

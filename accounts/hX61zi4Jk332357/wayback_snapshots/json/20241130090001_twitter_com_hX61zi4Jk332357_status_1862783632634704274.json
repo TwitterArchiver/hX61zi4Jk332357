@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862437353362493441",
+        "3_1862437353358299136"
+      ],
+      "media_source_tweet_id": [
+        "1862437367539528178",
+        "1862437367539528178"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1862783632634704274",
+    "created_at": "2024-11-30T09:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T10:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862783632634704274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1484793891576754178",
+          "start": 3,
+          "username": "nxxruo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9oxUE5JC51",
+          "end": 46,
+          "expanded_url": "https://x.com/nxxruo/status/1862437367539528178/photo/1",
+          "media_key": "3_1862437353362493441",
+          "start": 23,
+          "url": "https://t.co/9oxUE5JC51"
+        },
+        {
+          "display_url": "pic.x.com/9oxUE5JC51",
+          "end": 46,
+          "expanded_url": "https://x.com/nxxruo/status/1862437367539528178/photo/1",
+          "media_key": "3_1862437353358299136",
+          "start": 23,
+          "url": "https://t.co/9oxUE5JC51"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862783632634704274",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862437367539528178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nxxruo: 고졸축하해 풉킥풉킥 https://t.co/9oxUE5JC51"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2575,
+        "media_key": "3_1862437353362493441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdi057-XEAEOjK-.jpg",
+        "width": 1931
+      },
+      {
+        "height": 3596,
+        "media_key": "3_1862437353358299136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdi0579XEAA3s5m.jpg",
+        "width": 2023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862437353362493441",
+            "3_1862437353358299136"
+          ],
+          "media_source_tweet_id": [
+            "1862437367539528178",
+            "1862437367539528178"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1862783632634704274",
+        "created_at": "2024-11-30T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862783632634704274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1484793891576754178",
+              "start": 3,
+              "username": "nxxruo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9oxUE5JC51",
+              "end": 46,
+              "expanded_url": "https://x.com/nxxruo/status/1862437367539528178/photo/1",
+              "media_key": "3_1862437353362493441",
+              "start": 23,
+              "url": "https://t.co/9oxUE5JC51"
+            },
+            {
+              "display_url": "pic.x.com/9oxUE5JC51",
+              "end": 46,
+              "expanded_url": "https://x.com/nxxruo/status/1862437367539528178/photo/1",
+              "media_key": "3_1862437353358299136",
+              "start": 23,
+              "url": "https://t.co/9oxUE5JC51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862783632634704274",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862437367539528178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nxxruo: 고졸축하해 풉킥풉킥 https://t.co/9oxUE5JC51"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862437353362493441",
+            "3_1862437353358299136"
+          ]
+        },
+        "author_id": "1484793891576754178",
+        "conversation_id": "1862437367539528178",
+        "created_at": "2024-11-29T10:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T11:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862437367539528178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9oxUE5JC51",
+              "end": 34,
+              "expanded_url": "https://x.com/nxxruo/status/1862437367539528178/photo/1",
+              "media_key": "3_1862437353362493441",
+              "start": 11,
+              "url": "https://t.co/9oxUE5JC51"
+            },
+            {
+              "display_url": "pic.x.com/9oxUE5JC51",
+              "end": 34,
+              "expanded_url": "https://x.com/nxxruo/status/1862437367539528178/photo/1",
+              "media_key": "3_1862437353358299136",
+              "start": 11,
+              "url": "https://t.co/9oxUE5JC51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862437367539528178",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 82179,
+          "like_count": 2793,
+          "quote_count": 30,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "고졸축하해 풉킥풉킥 https://t.co/9oxUE5JC51"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831216069949698049/uq0rKUd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 14,
+          "like_count": 74,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 113
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-22T07:43:52.000Z",
+        "description": "@ruoruookk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "ruoruookk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/1872774442?c=3",
+                "end": 23,
+                "expanded_url": "http://pushoong.com/1872774442?c=3",
+                "start": 0,
+                "url": "https://t.co/9fVl7cGTKl"
+              }
+            ]
+          }
+        },
+        "id": "1484793891576754178",
+        "name": "roku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776765862827200512/hbt8mkSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2743,
+          "following_count": 72,
+          "like_count": 1781,
+          "listed_count": 5,
+          "media_count": 13,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/9fVl7cGTKl",
+        "username": "nxxruo",
+        "verified": false
+      }
+    ]
+  }
+}

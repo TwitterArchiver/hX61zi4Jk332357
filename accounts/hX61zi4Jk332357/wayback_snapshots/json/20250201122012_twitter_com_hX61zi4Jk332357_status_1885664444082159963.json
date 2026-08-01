@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1885662703290888409",
+    "created_at": "2025-02-01T12:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T13:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885664444082159963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1758498028552658944",
+          "start": 0,
+          "username": "lznnnnn245019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885664444082159963",
+    "in_reply_to_user_id": "1758498028552658944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885662703290888409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@lznnnnn245019 我也丑怎么没人说喜欢我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1885662703290888409",
+        "created_at": "2025-02-01T12:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T13:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885664444082159963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1758498028552658944",
+              "start": 0,
+              "username": "lznnnnn245019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885664444082159963",
+        "in_reply_to_user_id": "1758498028552658944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885662703290888409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@lznnnnn245019 我也丑怎么没人说喜欢我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758498028552658944",
+        "conversation_id": "1885662703290888409",
+        "created_at": "2025-02-01T12:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T13:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885662703290888409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885662703290888409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我操你妈 丑成那样都有人说喜欢他…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6541,
+          "following_count": 34,
+          "like_count": 340,
+          "listed_count": 14,
+          "media_count": 116,
+          "tweet_count": 551
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T14:26:22.000Z",
+        "description": "加好友🚪88/188/288/520发口令红包https://t.co/1HZ2bIC5nz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lznnnnn245019?…",
+                "end": 46,
+                "expanded_url": "https://www.instagram.com/lznnnnn245019?igsh=MXcyYzg3bGtidzk4bw%3D%3D&utm_source=qr",
+                "start": 23,
+                "url": "https://t.co/1HZ2bIC5nz"
+              }
+            ]
+          }
+        },
+        "id": "1758498028552658944",
+        "name": "(-_-)",
+        "pinned_tweet_id": "1884173028457865536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884222383051137031/8w8WfJ9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 181,
+          "like_count": 13371,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 3884
+        },
+        "username": "lznnnnn245019",
+        "verified": false
+      }
+    ]
+  }
+}

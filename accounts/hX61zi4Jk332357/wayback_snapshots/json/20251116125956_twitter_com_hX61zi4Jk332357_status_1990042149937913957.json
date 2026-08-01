@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1990042149937913957",
+    "created_at": "2025-11-16T12:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T13:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990042149937913957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vampirebatk/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/vampirebatk/status/1990014299516141814",
+          "start": 13,
+          "url": "https://t.co/TWUpKA5ker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990042149937913957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990014299516141814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本身想长vamp这样的 https://t.co/TWUpKA5ker"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3781,
+        "media_key": "3_1990014285863612416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53zcw7acAApWzw.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1990042149937913957",
+        "created_at": "2025-11-16T12:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990042149937913957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vampirebatk/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/vampirebatk/status/1990014299516141814",
+              "start": 13,
+              "url": "https://t.co/TWUpKA5ker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990042149937913957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990014299516141814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本身想长vamp这样的 https://t.co/TWUpKA5ker"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990014285863612416"
+          ]
+        },
+        "author_id": "1386005995667685376",
+        "conversation_id": "1990014299516141814",
+        "created_at": "2025-11-16T11:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T12:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990014299516141814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YwCHMNUI43",
+              "end": 36,
+              "expanded_url": "https://x.com/VAMPIREBATK/status/1990014299516141814/photo/1",
+              "media_key": "3_1990014285863612416",
+              "start": 13,
+              "url": "https://t.co/YwCHMNUI43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990014299516141814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1552,
+          "impression_count": 836771,
+          "like_count": 19300,
+          "quote_count": 567,
+          "reply_count": 196,
+          "retweet_count": 413
+        },
+        "reply_settings": "everyone",
+        "text": "ほんとうに凄く一重なのよ https://t.co/YwCHMNUI43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10006,
+          "following_count": 84,
+          "like_count": 1945,
+          "listed_count": 23,
+          "media_count": 385,
+          "tweet_count": 1981
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T17:16:10.000Z",
+        "description": "【お仕事のご依頼】DM orメール✧︎kurosu44v@gmail.com",
+        "id": "1386005995667685376",
+        "name": "VAMP",
+        "pinned_tweet_id": "1765415943877054831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961053468128665600/MOwkI4pX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126590,
+          "following_count": 21,
+          "like_count": 4173,
+          "listed_count": 182,
+          "media_count": 172,
+          "tweet_count": 527
+        },
+        "username": "VAMPIREBATK",
+        "verified": false
+      }
+    ]
+  }
+}

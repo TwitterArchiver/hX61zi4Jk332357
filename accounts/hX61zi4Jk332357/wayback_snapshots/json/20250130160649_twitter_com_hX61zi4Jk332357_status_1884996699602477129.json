@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1884996699602477129",
+    "created_at": "2025-01-30T16:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T17:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884996699602477129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1559549613442338816",
+          "start": 3,
+          "username": "zhensi200166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884996699602477129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884766363782361325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhensi200166: 你试图用自残来让别人关注你爱你关心你, 但你都快把手割成烂肉了也没人屌你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1884996699602477129",
+        "created_at": "2025-01-30T16:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T17:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884996699602477129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1559549613442338816",
+              "start": 3,
+              "username": "zhensi200166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884996699602477129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884766363782361325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhensi200166: 你试图用自残来让别人关注你爱你关心你, 但你都快把手割成烂肉了也没人屌你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559549613442338816",
+        "conversation_id": "1884766363782361325",
+        "created_at": "2025-01-30T00:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T01:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884766363782361325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884766363782361325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2682,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "你试图用自残来让别人关注你爱你关心你, 但你都快把手割成烂肉了也没人屌你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6469,
+          "following_count": 34,
+          "like_count": 337,
+          "listed_count": 14,
+          "media_count": 115,
+          "tweet_count": 533
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T14:36:43.000Z",
+        "description": "明日香激推♡\n小心我死给你看, 我精神有问题, 一秒八百个想法, 两秒一千六百个情绪",
+        "id": "1559549613442338816",
+        "location": "Japan",
+        "name": "⁺✞ʚ明日香重度依赖ɞ✟₊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870162617882554370/WaE6igwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 503,
+          "like_count": 5673,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 489
+        },
+        "username": "zhensi200166",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1890678236012511717",
+    "created_at": "2025-02-15T09:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T10:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890687509455126950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2596381225",
+          "start": 0,
+          "username": "vir_coconut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890687509455126950",
+    "in_reply_to_user_id": "2596381225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890678236012511717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vir_coconut 帮我p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1890678236012511717",
+        "created_at": "2025-02-15T09:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T10:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890687509455126950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2596381225",
+              "start": 0,
+              "username": "vir_coconut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890687509455126950",
+        "in_reply_to_user_id": "2596381225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890678236012511717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vir_coconut 帮我p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890678226802098177"
+          ]
+        },
+        "author_id": "2596381225",
+        "conversation_id": "1890678236012511717",
+        "created_at": "2025-02-15T08:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T09:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890678236012511717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QCo11kMnrh",
+              "end": 23,
+              "expanded_url": "https://x.com/vir_coconut/status/1890678236012511717/photo/1",
+              "media_key": "3_1890678226802098177",
+              "start": 0,
+              "url": "https://t.co/QCo11kMnrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890678236012511717",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QCo11kMnrh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6656,
+          "following_count": 35,
+          "like_count": 410,
+          "listed_count": 15,
+          "media_count": 134,
+          "tweet_count": 676
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "男生/mtx",
+        "id": "2596381225",
+        "location": "🚪88好友位/188线下",
+        "name": "椰",
+        "pinned_tweet_id": "1887390065397268857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889759508567826434/YKreL3Kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5670,
+          "following_count": 171,
+          "like_count": 1745,
+          "listed_count": 15,
+          "media_count": 9,
+          "tweet_count": 957
+        },
+        "username": "vir_coconut",
+        "verified": false
+      }
+    ]
+  }
+}

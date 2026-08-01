@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941531954769186816",
+        "3_1941531954610098176",
+        "3_1941531954756943872",
+        "3_1941531954618433536"
+      ],
+      "media_source_tweet_id": [
+        "1941531971714470043",
+        "1941531971714470043",
+        "1941531971714470043",
+        "1941531971714470043"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1941664825253429580",
+    "created_at": "2025-07-06T01:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T02:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941664825253429580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3879124573",
+          "start": 3,
+          "username": "xiuxiukong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y8GUMEBuFr",
+          "end": 64,
+          "expanded_url": "https://x.com/xiuxiukong/status/1941531971714470043/photo/1",
+          "media_key": "3_1941531954769186816",
+          "start": 41,
+          "url": "https://t.co/y8GUMEBuFr"
+        },
+        {
+          "display_url": "pic.x.com/y8GUMEBuFr",
+          "end": 64,
+          "expanded_url": "https://x.com/xiuxiukong/status/1941531971714470043/photo/1",
+          "media_key": "3_1941531954610098176",
+          "start": 41,
+          "url": "https://t.co/y8GUMEBuFr"
+        },
+        {
+          "display_url": "pic.x.com/y8GUMEBuFr",
+          "end": 64,
+          "expanded_url": "https://x.com/xiuxiukong/status/1941531971714470043/photo/1",
+          "media_key": "3_1941531954756943872",
+          "start": 41,
+          "url": "https://t.co/y8GUMEBuFr"
+        },
+        {
+          "display_url": "pic.x.com/y8GUMEBuFr",
+          "end": 64,
+          "expanded_url": "https://x.com/xiuxiukong/status/1941531971714470043/photo/1",
+          "media_key": "3_1941531954618433536",
+          "start": 41,
+          "url": "https://t.co/y8GUMEBuFr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941664825253429580",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 365
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941531971714470043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiuxiukong: Me in my friend’s camera https://t.co/y8GUMEBuFr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1941531954769186816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvG1BrQWUAAjWES.jpg",
+        "width": 2730
+      },
+      {
+        "height": 3949,
+        "media_key": "3_1941531954610098176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvG1Bqqa0AAZCO4.jpg",
+        "width": 2729
+      },
+      {
+        "height": 3128,
+        "media_key": "3_1941531954756943872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvG1BrNbgAAwtnu.jpg",
+        "width": 2422
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1941531954618433536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvG1BqsaAAAWZcj.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941531954769186816",
+            "3_1941531954610098176",
+            "3_1941531954756943872",
+            "3_1941531954618433536"
+          ],
+          "media_source_tweet_id": [
+            "1941531971714470043",
+            "1941531971714470043",
+            "1941531971714470043",
+            "1941531971714470043"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1941664825253429580",
+        "created_at": "2025-07-06T01:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T02:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941664825253429580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3879124573",
+              "start": 3,
+              "username": "xiuxiukong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y8GUMEBuFr",
+              "end": 64,
+              "expanded_url": "https://x.com/xiuxiukong/status/1941531971714470043/photo/1",
+              "media_key": "3_1941531954769186816",
+              "start": 41,
+              "url": "https://t.co/y8GUMEBuFr"
+            },
+            {
+              "display_url": "pic.x.com/y8GUMEBuFr",
+              "end": 64,
+              "expanded_url": "https://x.com/xiuxiukong/status/1941531971714470043/photo/1",
+              "media_key": "3_1941531954610098176",
+              "start": 41,
+              "url": "https://t.co/y8GUMEBuFr"
+            },
+            {
+              "display_url": "pic.x.com/y8GUMEBuFr",
+              "end": 64,
+              "expanded_url": "https://x.com/xiuxiukong/status/1941531971714470043/photo/1",
+              "media_key": "3_1941531954756943872",
+              "start": 41,
+              "url": "https://t.co/y8GUMEBuFr"
+            },
+            {
+              "display_url": "pic.x.com/y8GUMEBuFr",
+              "end": 64,
+              "expanded_url": "https://x.com/xiuxiukong/status/1941531971714470043/photo/1",
+              "media_key": "3_1941531954618433536",
+              "start": 41,
+              "url": "https://t.co/y8GUMEBuFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941664825253429580",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 365
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941531971714470043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiuxiukong: Me in my friend’s camera https://t.co/y8GUMEBuFr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941531954769186816",
+            "3_1941531954610098176",
+            "3_1941531954756943872",
+            "3_1941531954618433536"
+          ]
+        },
+        "author_id": "3879124573",
+        "conversation_id": "1941531971714470043",
+        "created_at": "2025-07-05T16:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T17:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941531971714470043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y8GUMEBuFr",
+              "end": 48,
+              "expanded_url": "https://x.com/xiuxiukong/status/1941531971714470043/photo/1",
+              "media_key": "3_1941531954769186816",
+              "start": 25,
+              "url": "https://t.co/y8GUMEBuFr"
+            },
+            {
+              "display_url": "pic.x.com/y8GUMEBuFr",
+              "end": 48,
+              "expanded_url": "https://x.com/xiuxiukong/status/1941531971714470043/photo/1",
+              "media_key": "3_1941531954610098176",
+              "start": 25,
+              "url": "https://t.co/y8GUMEBuFr"
+            },
+            {
+              "display_url": "pic.x.com/y8GUMEBuFr",
+              "end": 48,
+              "expanded_url": "https://x.com/xiuxiukong/status/1941531971714470043/photo/1",
+              "media_key": "3_1941531954756943872",
+              "start": 25,
+              "url": "https://t.co/y8GUMEBuFr"
+            },
+            {
+              "display_url": "pic.x.com/y8GUMEBuFr",
+              "end": 48,
+              "expanded_url": "https://x.com/xiuxiukong/status/1941531971714470043/photo/1",
+              "media_key": "3_1941531954618433536",
+              "start": 25,
+              "url": "https://t.co/y8GUMEBuFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941531971714470043",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1671,
+          "impression_count": 197474,
+          "like_count": 10526,
+          "quote_count": 37,
+          "reply_count": 18,
+          "retweet_count": 365
+        },
+        "reply_settings": "everyone",
+        "text": "Me in my friend’s camera https://t.co/y8GUMEBuFr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8211,
+          "following_count": 58,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 1442
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-13T09:16:36.000Z",
+        "description": "📷photographer/ins：xiuxiukong 📍Tokyo/东京合作📧xiuxiukong123@163.com /wb：易碎蛋壳心",
+        "id": "3879124573",
+        "location": "People's Republic of China",
+        "name": "西游朽",
+        "pinned_tweet_id": "1792908191627698287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456348724620595200/3tkn_kxA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252546,
+          "following_count": 288,
+          "like_count": 575,
+          "listed_count": 1094,
+          "media_count": 255,
+          "tweet_count": 385
+        },
+        "username": "xiuxiukong",
+        "verified": false
+      }
+    ]
+  }
+}

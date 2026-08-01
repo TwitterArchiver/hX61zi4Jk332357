@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1918922036841443795",
+    "created_at": "2025-05-04T06:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T07:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918922036841443795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dk2yewvd6b3998…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/dk2yewvd6b39987/status/1918579137285111889",
+          "start": 9,
+          "url": "https://t.co/Gf3aw80pJI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918922036841443795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918579137285111889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这下会p了、谢谢 https://t.co/Gf3aw80pJI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_1918578812599844866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqApQ9aawAIEov1.jpg",
+        "width": 1029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1918922036841443795",
+        "created_at": "2025-05-04T06:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T07:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918922036841443795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dk2yewvd6b3998…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/dk2yewvd6b39987/status/1918579137285111889",
+              "start": 9,
+              "url": "https://t.co/Gf3aw80pJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918922036841443795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918579137285111889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下会p了、谢谢 https://t.co/Gf3aw80pJI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918578812599844866"
+          ]
+        },
+        "author_id": "1819640511717851136",
+        "conversation_id": "1918579137285111889",
+        "created_at": "2025-05-03T08:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T09:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918579137285111889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NyF9U6076",
+              "end": 58,
+              "expanded_url": "https://x.com/DK2yEWVD6b39987/status/1918579137285111889/photo/1",
+              "media_key": "3_1918578812599844866",
+              "start": 35,
+              "url": "https://t.co/6NyF9U6076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918579137285111889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33952,
+          "impression_count": 2820695,
+          "like_count": 102308,
+          "quote_count": 357,
+          "reply_count": 12,
+          "retweet_count": 6324
+        },
+        "reply_settings": "everyone",
+        "text": "最近まで左の方で描いてたけど左の方で描いた方がいい感じになる気がする https://t.co/6NyF9U6076"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8253,
+          "following_count": 50,
+          "like_count": 822,
+          "listed_count": 19,
+          "media_count": 198,
+          "tweet_count": 1190
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T07:45:03.000Z",
+        "description": "絵を描いてます！\n高校生になるまで低浮上ですが仲良くしてください！！\nAI学習、無断転載、自作発言🚫",
+        "id": "1819640511717851136",
+        "name": "Hoほ",
+        "pinned_tweet_id": "1914602519353024984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913445943644729344/5I7tzrCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2139,
+          "following_count": 133,
+          "like_count": 1020,
+          "listed_count": 7,
+          "media_count": 83,
+          "tweet_count": 311
+        },
+        "username": "DK2yEWVD6b39987",
+        "verified": false
+      }
+    ]
+  }
+}

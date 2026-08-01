@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1867783656313635007",
+    "created_at": "2024-12-14T08:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T09:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867850922245992671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1777594655619891200",
+          "start": 0,
+          "username": "imawalmartbag_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867850922245992671",
+    "in_reply_to_user_id": "1777594655619891200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867783656313635007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imawalmartbag_ 呵呵是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1867783656313635007",
+        "created_at": "2024-12-14T08:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T09:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867850922245992671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1777594655619891200",
+              "start": 0,
+              "username": "imawalmartbag_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867850922245992671",
+        "in_reply_to_user_id": "1777594655619891200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867783656313635007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imawalmartbag_ 呵呵是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777594655619891200",
+        "conversation_id": "1867783656313635007",
+        "created_at": "2024-12-14T04:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T05:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867783656313635007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imawalmartbag_…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/imawalmartbag_/status/1867615285970366837",
+              "start": 34,
+              "url": "https://t.co/pdIPOk9dAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867783656313635007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1738,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867615285970366837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特人的审美我不懂了每次精心p的照片没赞瞎几把乱发的就火了。^_- https://t.co/pdIPOk9dAn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867243305035251712/bPKzlnVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5313,
+          "following_count": 21,
+          "like_count": 161,
+          "listed_count": 12,
+          "media_count": 66,
+          "tweet_count": 208
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T07:09:40.000Z",
+        "description": "过气小熊🐻 ｜sub｜bi｜150cm 42kg｜🚪288",
+        "id": "1777594655619891200",
+        "name": "OXuXOin",
+        "pinned_tweet_id": "1795667935870190022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863621753693761536/2tFFimE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9924,
+          "following_count": 173,
+          "like_count": 1075,
+          "listed_count": 24,
+          "media_count": 121,
+          "tweet_count": 911
+        },
+        "username": "imawalmartbag_",
+        "verified": false
+      }
+    ]
+  }
+}

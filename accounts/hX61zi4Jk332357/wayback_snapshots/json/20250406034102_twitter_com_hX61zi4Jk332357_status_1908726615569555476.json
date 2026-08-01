@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1908726615569555476",
+    "created_at": "2025-04-06T03:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T04:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908726615569555476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849025449634168832",
+          "start": 3,
+          "username": "luckily0922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908726615569555476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908468910149820746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luckily0922: 回我消息的人唧唧再长5厘米"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1908726615569555476",
+        "created_at": "2025-04-06T03:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T04:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908726615569555476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849025449634168832",
+              "start": 3,
+              "username": "luckily0922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908726615569555476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908468910149820746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luckily0922: 回我消息的人唧唧再长5厘米"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849025449634168832",
+        "conversation_id": "1908468910149820746",
+        "created_at": "2025-04-05T10:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T11:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908468910149820746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908468910149820746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2216,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "回我消息的人唧唧再长5厘米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902896494052773890/hrQl_6Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7139,
+          "following_count": 41,
+          "like_count": 642,
+          "listed_count": 17,
+          "media_count": 173,
+          "tweet_count": 992
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T09:50:15.000Z",
+        "description": "我是不会放弃追求世间一切美好的",
+        "id": "1849025449634168832",
+        "location": "想你",
+        "name": "蕾拉",
+        "pinned_tweet_id": "1886672537964437720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887151280629678080/dnSyxf4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 192,
+          "like_count": 420,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 1704
+        },
+        "username": "luckily0922",
+        "verified": false
+      }
+    ]
+  }
+}

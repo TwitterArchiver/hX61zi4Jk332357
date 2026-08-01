@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1970892173584556526",
+    "created_at": "2025-09-25T08:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T09:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971130472781709371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1768328423498276864",
+          "start": 0,
+          "username": "aociig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971130472781709371",
+    "in_reply_to_user_id": "1768328423498276864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971129368547295622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aociig 哦对…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1970892173584556526",
+        "created_at": "2025-09-25T08:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T09:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971130472781709371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1768328423498276864",
+              "start": 0,
+              "username": "aociig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971130472781709371",
+        "in_reply_to_user_id": "1768328423498276864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971129368547295622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aociig 哦对…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768328423498276864",
+        "conversation_id": "1970892173584556526",
+        "created_at": "2025-09-25T08:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T09:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971129368547295622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971129368547295622",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971128998639043059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 宝你是不是私讯没有开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1968967879799263583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8079,
+          "following_count": 68,
+          "like_count": 1598,
+          "listed_count": 20,
+          "media_count": 343,
+          "tweet_count": 1785
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T17:29:17.000Z",
+        "description": "「我的遗书」CN |雑多垢|リスカ|JP EN ◎| DM◎通話は仲良い人だけ｜不线下清水推",
+        "id": "1768328423498276864",
+        "location": "明日、死にますように｜纯绿🚪88",
+        "name": "草ノ陰",
+        "pinned_tweet_id": "1782356922173153530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971017712060203011/lpEULsqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 431,
+          "like_count": 8472,
+          "listed_count": 1,
+          "media_count": 472,
+          "tweet_count": 10765
+        },
+        "username": "aociig",
+        "verified": false
+      }
+    ]
+  }
+}

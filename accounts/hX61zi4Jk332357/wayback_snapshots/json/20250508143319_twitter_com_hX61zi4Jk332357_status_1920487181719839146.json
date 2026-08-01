@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1920469912692138016",
+    "created_at": "2025-05-08T14:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T15:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920487181719839146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1650126478213001216",
+          "start": 0,
+          "username": "Yun__V"
+        },
+        {
+          "end": 21,
+          "id": "1808081236394758145",
+          "start": 8,
+          "username": "eclipse_1900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920487181719839146",
+    "in_reply_to_user_id": "1650126478213001216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920486522769256465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yun__V @eclipse_1900 一起拍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1920469912692138016",
+        "created_at": "2025-05-08T14:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920487181719839146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            },
+            {
+              "end": 21,
+              "id": "1808081236394758145",
+              "start": 8,
+              "username": "eclipse_1900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920487181719839146",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920486522769256465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V @eclipse_1900 一起拍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1920469912692138016",
+        "created_at": "2025-05-08T14:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920486522769256465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808081236394758145",
+              "start": 0,
+              "username": "eclipse_1900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920486522769256465",
+        "in_reply_to_user_id": "1808081236394758145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920469912692138016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eclipse_1900 我呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8344,
+          "following_count": 50,
+          "like_count": 862,
+          "listed_count": 20,
+          "media_count": 204,
+          "tweet_count": 1223
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 🐦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "开朋友圈🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1904841644140097911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896312946994937856/JzQllmQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12173,
+          "following_count": 96,
+          "like_count": 4432,
+          "listed_count": 25,
+          "media_count": 596,
+          "tweet_count": 5102
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T10:12:30.000Z",
+        "description": "生雀吻.",
+        "id": "1808081236394758145",
+        "location": "🚪288無營養陪聊",
+        "name": "罵死過人",
+        "pinned_tweet_id": "1833779123170521186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916507101733814272/f5Ur_zJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49995,
+          "following_count": 82,
+          "like_count": 2363,
+          "listed_count": 110,
+          "media_count": 129,
+          "tweet_count": 1177
+        },
+        "username": "eclipse_1900",
+        "verified": false
+      }
+    ]
+  }
+}

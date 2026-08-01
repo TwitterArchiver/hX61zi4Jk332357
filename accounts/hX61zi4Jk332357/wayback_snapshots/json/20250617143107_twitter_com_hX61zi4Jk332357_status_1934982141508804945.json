@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1934973169309466700",
+    "created_at": "2025-06-17T14:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T15:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934982141508804945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1832432293941747712",
+          "start": 0,
+          "username": "Bamguet_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934982141508804945",
+    "in_reply_to_user_id": "1832432293941747712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934973169309466700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bamguet_7 怎么还记得"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "3_1934973164662210560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtpn12GawAA6b6O.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1934973169309466700",
+        "created_at": "2025-06-17T14:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934982141508804945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832432293941747712",
+              "start": 0,
+              "username": "Bamguet_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934982141508804945",
+        "in_reply_to_user_id": "1832432293941747712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934973169309466700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bamguet_7 怎么还记得"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934973164662210560"
+          ]
+        },
+        "author_id": "1832432293941747712",
+        "conversation_id": "1934973169309466700",
+        "created_at": "2025-06-17T13:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T14:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934973169309466700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18VBs6Od9N",
+              "end": 23,
+              "expanded_url": "https://x.com/Bamguet_7/status/1934973169309466700/photo/1",
+              "media_key": "3_1934973164662210560",
+              "start": 0,
+              "url": "https://t.co/18VBs6Od9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934973169309466700",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/18VBs6Od9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8297,
+          "following_count": 57,
+          "like_count": 1101,
+          "listed_count": 21,
+          "media_count": 238,
+          "tweet_count": 1393
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T14:54:48.000Z",
+        "description": "有志於美術的受験生 @o7a45fTmLb50622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "o7a45fTmLb50622"
+              }
+            ]
+          }
+        },
+        "id": "1832432293941747712",
+        "name": "丽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933746212005707776/Jtk-6wS8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 212,
+          "like_count": 8575,
+          "listed_count": 6,
+          "media_count": 43,
+          "tweet_count": 984
+        },
+        "username": "Bamguet_7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1866521613430411724",
+    "created_at": "2024-12-10T16:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T17:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866521613430411724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/artemis1900",
+          "end": 23,
+          "expanded_url": "https://ngl.link/artemis1900",
+          "start": 0,
+          "status": 200,
+          "title": "@artemis1900: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/artemis1900",
+          "url": "https://t.co/XOWfsXZtQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866521613430411724",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/XOWfsXZtQm\n提問箱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1866521613430411724",
+        "created_at": "2024-12-10T16:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T17:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866521613430411724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/artemis1900",
+              "end": 23,
+              "expanded_url": "https://ngl.link/artemis1900",
+              "start": 0,
+              "status": 200,
+              "title": "@artemis1900: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/artemis1900",
+              "url": "https://t.co/XOWfsXZtQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866521613430411724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XOWfsXZtQm\n提問箱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831216069949698049/uq0rKUd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 17,
+          "like_count": 116,
+          "listed_count": 4,
+          "media_count": 62,
+          "tweet_count": 166
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

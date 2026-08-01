@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033152521905291264",
+        "13_2033152521909526528"
+      ],
+      "media_source_tweet_id": [
+        "2033152597109166394",
+        "2033152597109166394"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2033405921070915629",
+    "created_at": "2026-03-16T04:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T05:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033405921070915629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1570058515427000321",
+          "start": 3,
+          "username": "myojo_0120"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xOo5rH4lyU",
+          "end": 73,
+          "expanded_url": "https://x.com/myojo_0120/status/2033152597109166394/video/1",
+          "media_key": "3_2033152521905291264",
+          "start": 50,
+          "url": "https://t.co/xOo5rH4lyU"
+        },
+        {
+          "display_url": "pic.x.com/xOo5rH4lyU",
+          "end": 73,
+          "expanded_url": "https://x.com/myojo_0120/status/2033152597109166394/video/1",
+          "media_key": "13_2033152521909526528",
+          "start": 50,
+          "url": "https://t.co/xOo5rH4lyU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033405921070915629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1426
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033152597109166394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @myojo_0120: 小紅書にコスプレをしてくださってる方がいた❤️‍🔥めちゃくちゃ素敵 https://t.co/xOo5rH4lyU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033152521905291264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDc1clJawAA5TDq.jpg",
+        "width": 945
+      },
+      {
+        "duration_ms": 14071,
+        "height": 1280,
+        "media_key": "13_2033152521909526528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033152521909526528/img/UfSxQFx_QdVpAKBF.jpg",
+        "public_metrics": {
+          "view_count": 227927
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033152521909526528/vid/avc1/320x590/pzbw-EH0ed4TLFLh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033152521909526528/vid/avc1/480x884/YPD3Tun1EDPtFdHT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033152521909526528/vid/avc1/694x1280/b_FOFX_K_mvvMGBt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033152521909526528/pl/2x4tSeLnCftJDGck.m3u8"
+          }
+        ],
+        "width": 694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033152521905291264",
+            "13_2033152521909526528"
+          ],
+          "media_source_tweet_id": [
+            "2033152597109166394",
+            "2033152597109166394"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2033405921070915629",
+        "created_at": "2026-03-16T04:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033405921070915629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1570058515427000321",
+              "start": 3,
+              "username": "myojo_0120"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOo5rH4lyU",
+              "end": 73,
+              "expanded_url": "https://x.com/myojo_0120/status/2033152597109166394/video/1",
+              "media_key": "3_2033152521905291264",
+              "start": 50,
+              "url": "https://t.co/xOo5rH4lyU"
+            },
+            {
+              "display_url": "pic.x.com/xOo5rH4lyU",
+              "end": 73,
+              "expanded_url": "https://x.com/myojo_0120/status/2033152597109166394/video/1",
+              "media_key": "13_2033152521909526528",
+              "start": 50,
+              "url": "https://t.co/xOo5rH4lyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033405921070915629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1426
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033152597109166394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @myojo_0120: 小紅書にコスプレをしてくださってる方がいた❤️‍🔥めちゃくちゃ素敵 https://t.co/xOo5rH4lyU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033152521905291264",
+            "13_2033152521909526528"
+          ]
+        },
+        "author_id": "1570058515427000321",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2033152597109166394",
+        "created_at": "2026-03-15T12:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033152597109166394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOo5rH4lyU",
+              "end": 57,
+              "expanded_url": "https://x.com/myojo_0120/status/2033152597109166394/video/1",
+              "media_key": "3_2033152521905291264",
+              "start": 34,
+              "url": "https://t.co/xOo5rH4lyU"
+            },
+            {
+              "display_url": "pic.x.com/xOo5rH4lyU",
+              "end": 57,
+              "expanded_url": "https://x.com/myojo_0120/status/2033152597109166394/video/1",
+              "media_key": "13_2033152521909526528",
+              "start": 34,
+              "url": "https://t.co/xOo5rH4lyU"
+            },
+            {
+              "display_url": "x.com/myojo_8989/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/myojo_8989/status/1983459865915002957",
+              "start": 58,
+              "url": "https://t.co/SX0xykbe8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033152597109166394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2458,
+          "impression_count": 926604,
+          "like_count": 22411,
+          "quote_count": 31,
+          "reply_count": 0,
+          "retweet_count": 1426
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983459865915002957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "小紅書にコスプレをしてくださってる方がいた❤️‍🔥めちゃくちゃ素敵 https://t.co/xOo5rH4lyU https://t.co/SX0xykbe8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9298,
+          "following_count": 97,
+          "like_count": 2321,
+          "listed_count": 19,
+          "media_count": 460,
+          "tweet_count": 2215
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T14:35:19.000Z",
+        "description": "明星(@myojo_8989)のサブアカウント",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "myojo_8989"
+              }
+            ]
+          }
+        },
+        "id": "1570058515427000321",
+        "location": "Sub-account of @myojo_8989",
+        "name": "📢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958559941360517120/AJCQ0ta6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99360,
+          "following_count": 1,
+          "like_count": 1018,
+          "listed_count": 213,
+          "media_count": 272,
+          "tweet_count": 437
+        },
+        "username": "myojo_0120",
+        "verified": false
+      }
+    ]
+  }
+}

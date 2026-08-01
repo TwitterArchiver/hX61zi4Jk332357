@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1894234649083482403",
+    "created_at": "2025-02-25T03:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T04:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894234649083482403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801268501325156352",
+          "start": 3,
+          "username": "eyesareloud0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894234649083482403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893724491324272780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eyesareloud0: 是不是不和任何人亲密我就不会有这么多难过的情绪了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1894234649083482403",
+        "created_at": "2025-02-25T03:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T04:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894234649083482403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801268501325156352",
+              "start": 3,
+              "username": "eyesareloud0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894234649083482403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893724491324272780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eyesareloud0: 是不是不和任何人亲密我就不会有这么多难过的情绪了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801268501325156352",
+        "conversation_id": "1893724491324272780",
+        "created_at": "2025-02-23T18:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T19:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893724491324272780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893724491324272780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 24898,
+          "like_count": 248,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "是不是不和任何人亲密我就不会有这么多难过的情绪了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7176,
+          "following_count": 37,
+          "like_count": 444,
+          "listed_count": 17,
+          "media_count": 145,
+          "tweet_count": 734
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T15:00:57.000Z",
+        "description": "不加联系方式｜请关注小屁@utopia000901",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "utopia000901"
+              }
+            ]
+          }
+        },
+        "id": "1801268501325156352",
+        "name": "Utopia",
+        "pinned_tweet_id": "1883016653635781036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883018262415622144/eHegFo5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47654,
+          "following_count": 276,
+          "like_count": 1639,
+          "listed_count": 111,
+          "media_count": 69,
+          "tweet_count": 2123
+        },
+        "username": "eyesareloud0",
+        "verified": false
+      }
+    ]
+  }
+}

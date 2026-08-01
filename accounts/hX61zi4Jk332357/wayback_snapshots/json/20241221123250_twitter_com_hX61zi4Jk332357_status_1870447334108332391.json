@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1869912796714151939"
+      ],
+      "media_source_tweet_id": [
+        "1869912813948547342"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1870447334108332391",
+    "created_at": "2024-12-21T12:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T13:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870447334108332391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1525867065395105793",
+          "start": 3,
+          "username": "catiesmeow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8nkUZzdE6C",
+          "end": 52,
+          "expanded_url": "https://x.com/catiesmeow/status/1869912813948547342/video/1",
+          "media_key": "7_1869912796714151939",
+          "start": 29,
+          "url": "https://t.co/8nkUZzdE6C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870447334108332391",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1041
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869912813948547342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @catiesmeow: おはようございます！！！ https://t.co/8nkUZzdE6C"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6433,
+        "height": 962,
+        "media_key": "7_1869912796714151939",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1869912796714151939/pu/img/TJQMuFRDOeQTu72K.jpg",
+        "public_metrics": {
+          "view_count": 251821
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1869912796714151939/pu/vid/avc1/320x426/CT-b4aJ87Fk19ayc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1869912796714151939/pu/vid/avc1/480x640/uQd4ZKon-NsaFi87.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1869912796714151939/pu/vid/avc1/720x962/jrq4wVLSxOQ7WBqh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1869912796714151939/pu/pl/Bcm_Na5MGbMyMIlj.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1869912796714151939"
+          ],
+          "media_source_tweet_id": [
+            "1869912813948547342"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1870447334108332391",
+        "created_at": "2024-12-21T12:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T13:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870447334108332391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1525867065395105793",
+              "start": 3,
+              "username": "catiesmeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8nkUZzdE6C",
+              "end": 52,
+              "expanded_url": "https://x.com/catiesmeow/status/1869912813948547342/video/1",
+              "media_key": "7_1869912796714151939",
+              "start": 29,
+              "url": "https://t.co/8nkUZzdE6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870447334108332391",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1041
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869912813948547342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @catiesmeow: おはようございます！！！ https://t.co/8nkUZzdE6C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1869912796714151939"
+          ]
+        },
+        "author_id": "1525867065395105793",
+        "conversation_id": "1869912813948547342",
+        "created_at": "2024-12-20T01:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T02:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869912813948547342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8nkUZzdE6C",
+              "end": 36,
+              "expanded_url": "https://x.com/catiesmeow/status/1869912813948547342/video/1",
+              "media_key": "7_1869912796714151939",
+              "start": 13,
+              "url": "https://t.co/8nkUZzdE6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869912813948547342",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3618,
+          "impression_count": 683131,
+          "like_count": 26831,
+          "quote_count": 41,
+          "reply_count": 110,
+          "retweet_count": 1041
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます！！！ https://t.co/8nkUZzdE6C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867243305035251712/bPKzlnVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5532,
+          "following_count": 22,
+          "like_count": 170,
+          "listed_count": 12,
+          "media_count": 68,
+          "tweet_count": 231
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T15:55:40.000Z",
+        "description": "コスプレヤー ♡                                main: @catiescos                           Business: catiescos.business@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "catiescos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/catiesmeow",
+                "end": 23,
+                "expanded_url": "http://beacons.ai/catiesmeow",
+                "start": 0,
+                "url": "https://t.co/nZ7GJduBwT"
+              }
+            ]
+          }
+        },
+        "id": "1525867065395105793",
+        "location": "Exclusive content→",
+        "name": "caties ^^",
+        "pinned_tweet_id": "1869912813948547342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796535765843030016/rNMDn21b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663639,
+          "following_count": 206,
+          "like_count": 2166,
+          "listed_count": 1547,
+          "media_count": 170,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/nZ7GJduBwT",
+        "username": "catiesmeow",
+        "verified": false
+      }
+    ]
+  }
+}

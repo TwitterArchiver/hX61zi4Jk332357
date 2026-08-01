@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982083723563544576"
+      ],
+      "media_source_tweet_id": [
+        "1982083731692388636"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1982277180148085236",
+    "created_at": "2025-10-26T02:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T03:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982277180148085236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "459144099",
+          "start": 3,
+          "username": "YasPhoto"
+        },
+        {
+          "end": 41,
+          "id": "796627268680425472",
+          "start": 26,
+          "username": "AsaGi_HiMARi44"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vQDb0JVuut",
+          "end": 65,
+          "expanded_url": "https://x.com/YasPhoto/status/1982083731692388636/photo/1",
+          "media_key": "3_1982083723563544576",
+          "start": 42,
+          "url": "https://t.co/vQDb0JVuut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982277180148085236",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982083731692388636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YasPhoto: 意義素\n\nModel: @AsaGi_HiMARi44 https://t.co/vQDb0JVuut"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1791,
+        "media_key": "3_1982083723563544576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HGpSIWsAAJ6_E.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982083723563544576"
+          ],
+          "media_source_tweet_id": [
+            "1982083731692388636"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1982277180148085236",
+        "created_at": "2025-10-26T02:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T03:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982277180148085236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "459144099",
+              "start": 3,
+              "username": "YasPhoto"
+            },
+            {
+              "end": 41,
+              "id": "796627268680425472",
+              "start": 26,
+              "username": "AsaGi_HiMARi44"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQDb0JVuut",
+              "end": 65,
+              "expanded_url": "https://x.com/YasPhoto/status/1982083731692388636/photo/1",
+              "media_key": "3_1982083723563544576",
+              "start": 42,
+              "url": "https://t.co/vQDb0JVuut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982277180148085236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982083731692388636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YasPhoto: 意義素\n\nModel: @AsaGi_HiMARi44 https://t.co/vQDb0JVuut"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982083723563544576"
+          ]
+        },
+        "author_id": "459144099",
+        "conversation_id": "1982083731692388636",
+        "created_at": "2025-10-25T13:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T14:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982083731692388636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "796627268680425472",
+              "start": 12,
+              "username": "AsaGi_HiMARi44"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQDb0JVuut",
+              "end": 51,
+              "expanded_url": "https://x.com/YasPhoto/status/1982083731692388636/photo/1",
+              "media_key": "3_1982083723563544576",
+              "start": 28,
+              "url": "https://t.co/vQDb0JVuut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982083731692388636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 5133,
+          "like_count": 222,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "意義素\n\nModel: @AsaGi_HiMARi44 https://t.co/vQDb0JVuut"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10125,
+          "following_count": 77,
+          "like_count": 1806,
+          "listed_count": 24,
+          "media_count": 369,
+          "tweet_count": 1909
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-09T10:05:00.000Z",
+        "description": "自由気ままに作品制作をしております。撮影のお誘い依頼や仕事についてはお気軽にご相談ください。展示歴⇨闇の王展/沼の王展/リアポ東京 等々。海外コンテストOneEyeland Photography Awards silver/ FINE Art Top10 silver含め多数受賞",
+        "id": "459144099",
+        "location": "栃木",
+        "name": "YAS. @エイチ展9、FPF、HKD 他",
+        "pinned_tweet_id": "1521829554373169152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1089664999918776324/X1w4S-0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29736,
+          "following_count": 1293,
+          "like_count": 47469,
+          "listed_count": 213,
+          "media_count": 3451,
+          "tweet_count": 26310
+        },
+        "username": "YasPhoto",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-10T08:15:16.000Z",
+        "description": "◇Himari Asagi ◇Cosplayer ◇東方 / ZZZ / SDVX etc… ◇156cm ◇成人済 ◇作品撮り・フェチ系・創作等◇BOOTH→https://t.co/zteiTeNE66 ◇Fantia→https://t.co/4zlCaeLAQD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "asagihimari44.booth.pm",
+                "end": 103,
+                "expanded_url": "https://asagihimari44.booth.pm",
+                "start": 80,
+                "url": "https://t.co/zteiTeNE66"
+              },
+              {
+                "display_url": "fantia.jp/asagihimari44",
+                "end": 135,
+                "expanded_url": "https://fantia.jp/asagihimari44",
+                "start": 112,
+                "url": "https://t.co/4zlCaeLAQD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/AsaGiHiMARi44",
+                "end": 23,
+                "expanded_url": "https://lit.link/AsaGiHiMARi44",
+                "start": 0,
+                "url": "https://t.co/rr67c4oKIq"
+              }
+            ]
+          }
+        },
+        "id": "796627268680425472",
+        "location": "関東在住┊︎他SNS等⇒",
+        "name": "浅葱ひまり🌼池ハロ25",
+        "pinned_tweet_id": "1980205229586174048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846398496959840256/c9tjybdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10126,
+          "following_count": 755,
+          "like_count": 32780,
+          "listed_count": 132,
+          "media_count": 1286,
+          "tweet_count": 32579
+        },
+        "url": "https://t.co/rr67c4oKIq",
+        "username": "AsaGi_HiMARi44",
+        "verified": true
+      }
+    ]
+  }
+}

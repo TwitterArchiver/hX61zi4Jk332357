@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962446866747973632"
+      ],
+      "media_source_tweet_id": [
+        "1962446870673793421"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1962525979102089240",
+    "created_at": "2025-09-01T14:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962525979102089240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1495706004624973824",
+          "start": 3,
+          "username": "ruinsoftly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NkoQQvuVT1",
+          "end": 39,
+          "expanded_url": "https://x.com/ruinsoftly/status/1962446870673793421/photo/1",
+          "media_key": "3_1962446866747973632",
+          "start": 16,
+          "url": "https://t.co/NkoQQvuVT1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962525979102089240",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962446870673793421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruinsoftly: https://t.co/NkoQQvuVT1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 806,
+        "media_key": "3_1962446866747973632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzwDBx8XYAAd0KO.jpg",
+        "width": 1174
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962446866747973632"
+          ],
+          "media_source_tweet_id": [
+            "1962446870673793421"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1962525979102089240",
+        "created_at": "2025-09-01T14:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962525979102089240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1495706004624973824",
+              "start": 3,
+              "username": "ruinsoftly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NkoQQvuVT1",
+              "end": 39,
+              "expanded_url": "https://x.com/ruinsoftly/status/1962446870673793421/photo/1",
+              "media_key": "3_1962446866747973632",
+              "start": 16,
+              "url": "https://t.co/NkoQQvuVT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962525979102089240",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962446870673793421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruinsoftly: https://t.co/NkoQQvuVT1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962446866747973632"
+          ]
+        },
+        "author_id": "1495706004624973824",
+        "conversation_id": "1962446870673793421",
+        "created_at": "2025-09-01T09:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T10:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962446870673793421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NkoQQvuVT1",
+              "end": 23,
+              "expanded_url": "https://x.com/ruinsoftly/status/1962446870673793421/photo/1",
+              "media_key": "3_1962446866747973632",
+              "start": 0,
+              "url": "https://t.co/NkoQQvuVT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962446870673793421",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 4342,
+          "like_count": 406,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NkoQQvuVT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1925148201281360017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8158,
+          "following_count": 65,
+          "like_count": 1448,
+          "listed_count": 20,
+          "media_count": 313,
+          "tweet_count": 1665
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T10:24:43.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ruinsoftly/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/ruinsoftly/",
+                "start": 0,
+                "url": "https://t.co/4wobWzOKex"
+              }
+            ]
+          }
+        },
+        "id": "1495706004624973824",
+        "name": "endure",
+        "pinned_tweet_id": "1778175699238420933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953970982009368576/5cE_P5Xq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4378,
+          "following_count": 342,
+          "like_count": 2027,
+          "listed_count": 6,
+          "media_count": 11,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/4wobWzOKex",
+        "username": "ruinsoftly",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1990736938375033010",
+    "created_at": "2025-11-18T11:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T12:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990740759159464188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829609141649952768",
+          "start": 0,
+          "username": "wbuchishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990740759159464188",
+    "in_reply_to_user_id": "1829609141649952768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990736938375033010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@wbuchishi 太佩服每天都能拍照的人了 我每天起不起床都是天意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1990736938375033010",
+        "created_at": "2025-11-18T11:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990740759159464188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829609141649952768",
+              "start": 0,
+              "username": "wbuchishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990740759159464188",
+        "in_reply_to_user_id": "1829609141649952768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990736938375033010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@wbuchishi 太佩服每天都能拍照的人了 我每天起不起床都是天意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829609141649952768",
+        "conversation_id": "1990736938375033010",
+        "created_at": "2025-11-18T11:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990736938375033010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990736938375033010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "太佩服每天都能拍照的人了 我每天起不起床都是天意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9989,
+          "following_count": 84,
+          "like_count": 1952,
+          "listed_count": 23,
+          "media_count": 386,
+          "tweet_count": 1985
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "你好",
+        "id": "1829609141649952768",
+        "name": "心之容器",
+        "pinned_tweet_id": "1960015809683865786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986862797486014464/3_-hCmqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7148,
+          "following_count": 106,
+          "like_count": 6739,
+          "listed_count": 18,
+          "media_count": 40,
+          "tweet_count": 3198
+        },
+        "username": "wbuchishi",
+        "verified": false
+      }
+    ]
+  }
+}

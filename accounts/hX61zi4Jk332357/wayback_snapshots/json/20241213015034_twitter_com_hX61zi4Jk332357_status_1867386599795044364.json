@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1867343397432045780",
+    "created_at": "2024-12-13T01:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T02:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867386599795044364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1814565329605173261",
+          "start": 0,
+          "username": "TheOnlyKoorei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867386599795044364",
+    "in_reply_to_user_id": "1814565329605173261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867343397432045780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheOnlyKoorei 天天学数学好绝望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1867343397432045780",
+        "created_at": "2024-12-13T01:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T02:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867386599795044364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814565329605173261",
+              "start": 0,
+              "username": "TheOnlyKoorei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867386599795044364",
+        "in_reply_to_user_id": "1814565329605173261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867343397432045780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheOnlyKoorei 天天学数学好绝望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814565329605173261",
+        "conversation_id": "1867343397432045780",
+        "created_at": "2024-12-12T22:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T23:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867343397432045780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867343397432045780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天天学数学好绝望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867243305035251712/bPKzlnVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4466,
+          "following_count": 20,
+          "like_count": 149,
+          "listed_count": 9,
+          "media_count": 65,
+          "tweet_count": 198
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T07:37:58.000Z",
+        "description": "阴暗碎碎念\n表人格:  @TheKoorei                                     💕@TheOnlyDodofish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "TheKoorei"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "TheOnlyDodofish"
+              }
+            ]
+          }
+        },
+        "id": "1814565329605173261",
+        "name": "水母悬浊液",
+        "pinned_tweet_id": "1815099583502188629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842889937571684352/P0Bqnom1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3676,
+          "following_count": 37,
+          "like_count": 281,
+          "listed_count": 7,
+          "media_count": 35,
+          "tweet_count": 171
+        },
+        "username": "TheOnlyKoorei",
+        "verified": false
+      }
+    ]
+  }
+}

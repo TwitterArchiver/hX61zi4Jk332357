@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2053850245532950963",
+    "created_at": "2026-05-13T10:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054514830758002968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581943089442091008",
+          "start": 0,
+          "username": "tanglaoban1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054514830758002968",
+    "in_reply_to_user_id": "1581943089442091008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053850245532950963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanglaoban1225 我要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2053850189832900608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIC93arb0AAVHBb.jpg",
+        "width": 1189
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2053850245532950963",
+        "created_at": "2026-05-13T10:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054514830758002968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581943089442091008",
+              "start": 0,
+              "username": "tanglaoban1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054514830758002968",
+        "in_reply_to_user_id": "1581943089442091008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053850245532950963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanglaoban1225 我要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053850189832900608"
+          ]
+        },
+        "author_id": "1581943089442091008",
+        "conversation_id": "2053850245532950963",
+        "created_at": "2026-05-11T14:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053850245532950963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AYGcNN5J1W",
+              "end": 23,
+              "expanded_url": "https://x.com/tanglaoban1225/status/2053850245532950963/photo/1",
+              "media_key": "3_2053850189832900608",
+              "start": 0,
+              "url": "https://t.co/AYGcNN5J1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053850245532950963",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 4750,
+          "like_count": 479,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AYGcNN5J1W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9155,
+          "following_count": 93,
+          "like_count": 2503,
+          "listed_count": 20,
+          "media_count": 482,
+          "tweet_count": 2294
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:40:08.000Z",
+        "description": "AI🚫 19↑\n @1225___tang  ←暗教同人账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "1225___tang"
+              }
+            ]
+          }
+        },
+        "id": "1581943089442091008",
+        "location": "(。-ω-)zzz",
+        "name": "棠老板",
+        "pinned_tweet_id": "1844034574982209877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038560527744679936/iZpulFQs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26862,
+          "following_count": 995,
+          "like_count": 12403,
+          "listed_count": 127,
+          "media_count": 1365,
+          "tweet_count": 4092
+        },
+        "username": "tanglaoban1225",
+        "verified": false
+      }
+    ]
+  }
+}

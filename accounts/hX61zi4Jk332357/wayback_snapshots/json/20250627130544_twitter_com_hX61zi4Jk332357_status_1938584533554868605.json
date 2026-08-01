@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1938584470917169152"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1938584533554868605",
+    "created_at": "2025-06-27T13:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T14:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938584533554868605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UsQuIDAwyx",
+          "end": 23,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1938584533554868605/video/1",
+          "media_key": "7_1938584470917169152",
+          "start": 0,
+          "url": "https://t.co/UsQuIDAwyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938584533554868605",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "https://t.co/UsQuIDAwyx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6700,
+        "height": 960,
+        "media_key": "7_1938584470917169152",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1938584470917169152/pu/img/Wi6wMAN23beSgIEj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938584470917169152/pu/vid/avc1/320x568/Ga7M3uXV5xtEWK3n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938584470917169152/pu/vid/avc1/480x852/L-1rb4goDvwMvJSe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938584470917169152/pu/vid/avc1/540x960/M-s7CZ_kjQIs8lgg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1938584470917169152/pu/pl/Q0P2AUFEFp98z5y8.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1938584470917169152"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1938584533554868605",
+        "created_at": "2025-06-27T13:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T14:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938584533554868605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsQuIDAwyx",
+              "end": 23,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1938584533554868605/video/1",
+              "media_key": "7_1938584470917169152",
+              "start": 0,
+              "url": "https://t.co/UsQuIDAwyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938584533554868605",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/UsQuIDAwyx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8266,
+          "following_count": 59,
+          "like_count": 1132,
+          "listed_count": 19,
+          "media_count": 248,
+          "tweet_count": 1410
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

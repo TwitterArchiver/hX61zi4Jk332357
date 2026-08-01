@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1894346658760331484",
+    "created_at": "2025-02-25T13:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T14:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894373636645294097"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "真嗣",
+          "probability": 0.7741,
+          "start": 25,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850263631793160192",
+          "start": 0,
+          "username": "bad_blood357"
+        },
+        {
+          "end": 24,
+          "id": "1829609141649952768",
+          "start": 14,
+          "username": "wbuchishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894373636645294097",
+    "in_reply_to_user_id": "1850263631793160192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894346658760331484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bad_blood357 @wbuchishi 真嗣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1894346608055390209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkoSNA6bkAEXdux.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1894346658760331484",
+        "created_at": "2025-02-25T13:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T14:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894373636645294097"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "真嗣",
+              "probability": 0.7741,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850263631793160192",
+              "start": 0,
+              "username": "bad_blood357"
+            },
+            {
+              "end": 24,
+              "id": "1829609141649952768",
+              "start": 14,
+              "username": "wbuchishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894373636645294097",
+        "in_reply_to_user_id": "1850263631793160192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894346658760331484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bad_blood357 @wbuchishi 真嗣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894346608055390209"
+          ]
+        },
+        "author_id": "1850263631793160192",
+        "conversation_id": "1894346658760331484",
+        "created_at": "2025-02-25T11:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T12:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894346658760331484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXTjb4QbQ3",
+              "end": 44,
+              "expanded_url": "https://x.com/bad_blood357/status/1894346658760331484/photo/1",
+              "media_key": "3_1894346608055390209",
+              "start": 21,
+              "url": "https://t.co/QXTjb4QbQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894346658760331484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天刚吐槽完跳楼今天动星又来一个跳跳乐。 https://t.co/QXTjb4QbQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7187,
+          "following_count": 37,
+          "like_count": 445,
+          "listed_count": 17,
+          "media_count": 145,
+          "tweet_count": 739
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T19:50:10.000Z",
+        "description": "这里是坏血。平面设计师、调酒师、酿酒师、咖啡师。喜欢玩电吉他、od、主机游戏。",
+        "id": "1850263631793160192",
+        "name": "坏血",
+        "pinned_tweet_id": "1875574564312510875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851326776133521408/A4XDJK4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 130,
+          "like_count": 1876,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1248
+        },
+        "username": "bad_blood357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "看着我",
+        "id": "1829609141649952768",
+        "name": "绝望的人夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893892786232930305/rar5jE5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4336,
+          "following_count": 96,
+          "like_count": 4496,
+          "listed_count": 12,
+          "media_count": 38,
+          "tweet_count": 2064
+        },
+        "username": "wbuchishi",
+        "verified": false
+      }
+    ]
+  }
+}

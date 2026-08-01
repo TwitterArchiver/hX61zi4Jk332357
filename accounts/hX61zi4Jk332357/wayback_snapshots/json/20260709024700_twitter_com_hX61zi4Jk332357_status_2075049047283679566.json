@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2074542409271111680"
+      ],
+      "media_source_tweet_id": [
+        "2074547600800260154"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2075049047283679566",
+    "created_at": "2026-07-09T02:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T03:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075049047283679566"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 28,
+          "tag": "yumenikki"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2053243893114601474",
+          "start": 3,
+          "username": "mierekindled"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FMdHF8FimP",
+          "end": 62,
+          "expanded_url": "https://x.com/mierekindled/status/2074547600800260154/photo/1",
+          "media_key": "16_2074542409271111680",
+          "start": 39,
+          "url": "https://t.co/FMdHF8FimP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075049047283679566",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 305
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074547600800260154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mierekindled: stoplight #yumenikki https://t.co/FMdHF8FimP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "16_2074542409271111680",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMpBVHAWcAAmBd-.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMpBVHAWcAAmBd-.mp4"
+          }
+        ],
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074542409271111680"
+          ],
+          "media_source_tweet_id": [
+            "2074547600800260154"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2075049047283679566",
+        "created_at": "2026-07-09T02:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075049047283679566"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 28,
+              "tag": "yumenikki"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2053243893114601474",
+              "start": 3,
+              "username": "mierekindled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMdHF8FimP",
+              "end": 62,
+              "expanded_url": "https://x.com/mierekindled/status/2074547600800260154/photo/1",
+              "media_key": "16_2074542409271111680",
+              "start": 39,
+              "url": "https://t.co/FMdHF8FimP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075049047283679566",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 305
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074547600800260154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mierekindled: stoplight #yumenikki https://t.co/FMdHF8FimP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074542409271111680"
+          ]
+        },
+        "author_id": "2053243893114601474",
+        "conversation_id": "2074547600800260154",
+        "created_at": "2026-07-07T17:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074547600800260154"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "yumenikki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMdHF8FimP",
+              "end": 44,
+              "expanded_url": "https://x.com/mierekindled/status/2074547600800260154/photo/1",
+              "media_key": "16_2074542409271111680",
+              "start": 21,
+              "url": "https://t.co/FMdHF8FimP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074547600800260154",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 12445,
+          "like_count": 1525,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 305
+        },
+        "reply_settings": "everyone",
+        "text": "stoplight #yumenikki https://t.co/FMdHF8FimP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9870,
+          "following_count": 96,
+          "like_count": 2699,
+          "listed_count": 18,
+          "media_count": 499,
+          "tweet_count": 2375
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T22:41:33.000Z",
+        "description": "People say I'm a really nice guy , and they're right .\nDo whatever you please with my art .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/tyIr",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/tyIr",
+                "start": 0,
+                "url": "https://t.co/BdanlT897G"
+              }
+            ]
+          }
+        },
+        "id": "2053243893114601474",
+        "location": "CLOSED❗️Queue: 8",
+        "name": "Tylr",
+        "pinned_tweet_id": "2062854679625707676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367467838197766/Yy7hbRvx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7195,
+          "following_count": 145,
+          "like_count": 1991,
+          "listed_count": 27,
+          "media_count": 61,
+          "tweet_count": 719
+        },
+        "url": "https://t.co/BdanlT897G",
+        "username": "mierekindled",
+        "verified": false
+      }
+    ]
+  }
+}

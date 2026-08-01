@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1954353928214290523",
+    "created_at": "2025-08-10T01:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T02:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954353928214290523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eclipse_1900/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/eclipse_1900/status/1929728898553860298",
+          "start": 5,
+          "url": "https://t.co/11ZZDixF8I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954353928214290523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929728898553860298",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我认真的 https://t.co/11ZZDixF8I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1954353928214290523",
+        "created_at": "2025-08-10T01:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T02:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954353928214290523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eclipse_1900/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/eclipse_1900/status/1929728898553860298",
+              "start": 5,
+              "url": "https://t.co/11ZZDixF8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954353928214290523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929728898553860298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认真的 https://t.co/11ZZDixF8I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808081236394758145",
+        "conversation_id": "1929728898553860298",
+        "created_at": "2025-06-03T02:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T03:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929728898553860298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929728898553860298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7905,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "嗯嗯嗯嗯精神好了我一定努力拍…….."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8184,
+          "following_count": 63,
+          "like_count": 1309,
+          "listed_count": 20,
+          "media_count": 287,
+          "tweet_count": 1550
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T10:12:30.000Z",
+        "description": "生雀吻.",
+        "id": "1808081236394758145",
+        "location": "🚪288無營養陪聊",
+        "name": "罵死過人",
+        "pinned_tweet_id": "1833779123170521186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916507101733814272/f5Ur_zJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48500,
+          "following_count": 75,
+          "like_count": 2303,
+          "listed_count": 105,
+          "media_count": 132,
+          "tweet_count": 1200
+        },
+        "username": "eclipse_1900",
+        "verified": false
+      }
+    ]
+  }
+}

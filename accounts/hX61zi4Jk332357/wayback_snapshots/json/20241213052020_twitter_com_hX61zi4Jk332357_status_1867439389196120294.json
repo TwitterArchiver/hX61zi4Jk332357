@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1867433100487405774",
+    "created_at": "2024-12-13T05:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T06:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867439389196120294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1661419755864211456",
+          "start": 0,
+          "username": "xueli333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867439389196120294",
+    "in_reply_to_user_id": "1661419755864211456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867433100487405774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xueli333 两个打包多少钱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1867433100487405774",
+        "created_at": "2024-12-13T05:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T06:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867439389196120294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1661419755864211456",
+              "start": 0,
+              "username": "xueli333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867439389196120294",
+        "in_reply_to_user_id": "1661419755864211456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867433100487405774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xueli333 两个打包多少钱的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867433092589531137"
+          ]
+        },
+        "author_id": "1661419755864211456",
+        "conversation_id": "1867433100487405774",
+        "created_at": "2024-12-13T04:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T05:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867433100487405774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFKw6rl7jm",
+              "end": 41,
+              "expanded_url": "https://x.com/xueli333/status/1867433100487405774/photo/1",
+              "media_key": "3_1867433092589531137",
+              "start": 18,
+              "url": "https://t.co/PFKw6rl7jm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867433100487405774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 159,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和男朋友都接爸爸活 这辈子有了😹 https://t.co/PFKw6rl7jm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867243305035251712/bPKzlnVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4577,
+          "following_count": 21,
+          "like_count": 158,
+          "listed_count": 9,
+          "media_count": 65,
+          "tweet_count": 199
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T17:11:53.000Z",
+        "description": "食色性也 🚪188/288口令红包 自用vpn⬇️推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=H3qMc8ZQ",
+                "start": 0,
+                "url": "https://t.co/ubha7bGHJu"
+              }
+            ]
+          }
+        },
+        "id": "1661419755864211456",
+        "location": "猫窝",
+        "name": "雪球",
+        "pinned_tweet_id": "1690884054919630848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842263530592227328/pzR45jia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12978,
+          "following_count": 208,
+          "like_count": 340,
+          "listed_count": 13,
+          "media_count": 70,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/ubha7bGHJu",
+        "username": "xueli333",
+        "verified": false
+      }
+    ]
+  }
+}

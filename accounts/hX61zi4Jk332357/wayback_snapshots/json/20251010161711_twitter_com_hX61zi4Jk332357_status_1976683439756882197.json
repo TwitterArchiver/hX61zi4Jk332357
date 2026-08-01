@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976392059570487300"
+      ],
+      "media_source_tweet_id": [
+        "1976392236536615197"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1976683439756882197",
+    "created_at": "2025-10-10T16:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T17:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976683439756882197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1455326116227338241",
+          "start": 3,
+          "username": "dingotoad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p15jL0xiJ6",
+          "end": 68,
+          "expanded_url": "https://x.com/dingotoad/status/1976392236536615197/photo/1",
+          "media_key": "3_1976392059570487300",
+          "start": 45,
+          "url": "https://t.co/p15jL0xiJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976683439756882197",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3116
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976392236536615197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dingotoad: wife according to some of you https://t.co/p15jL0xiJ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2652,
+        "media_key": "3_1976392059570487300",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G22OG1eaAAQYEIl.jpg",
+        "width": 1904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976392059570487300"
+          ],
+          "media_source_tweet_id": [
+            "1976392236536615197"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1976683439756882197",
+        "created_at": "2025-10-10T16:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976683439756882197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1455326116227338241",
+              "start": 3,
+              "username": "dingotoad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p15jL0xiJ6",
+              "end": 68,
+              "expanded_url": "https://x.com/dingotoad/status/1976392236536615197/photo/1",
+              "media_key": "3_1976392059570487300",
+              "start": 45,
+              "url": "https://t.co/p15jL0xiJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976683439756882197",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3116
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976392236536615197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dingotoad: wife according to some of you https://t.co/p15jL0xiJ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976392059570487300"
+          ]
+        },
+        "author_id": "1455326116227338241",
+        "conversation_id": "1976392236536615197",
+        "created_at": "2025-10-09T21:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T22:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976392236536615197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p15jL0xiJ6",
+              "end": 53,
+              "expanded_url": "https://x.com/dingotoad/status/1976392236536615197/photo/1",
+              "media_key": "3_1976392059570487300",
+              "start": 30,
+              "url": "https://t.co/p15jL0xiJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976392236536615197",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9613,
+          "impression_count": 739236,
+          "like_count": 51585,
+          "quote_count": 706,
+          "reply_count": 653,
+          "retweet_count": 3116
+        },
+        "reply_settings": "everyone",
+        "text": "wife according to some of you https://t.co/p15jL0xiJ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10142,
+          "following_count": 72,
+          "like_count": 1687,
+          "listed_count": 24,
+          "media_count": 359,
+          "tweet_count": 1856
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-02T00:09:42.000Z",
+        "description": "Adult humanoid male, dweller of basement.\ncommission: https://t.co/vHykNYyIsg\n2nd account(warning nsfw): https://t.co/1DFXJSSJog",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dingotoad.carrd.co",
+                "end": 77,
+                "expanded_url": "http://dingotoad.carrd.co",
+                "start": 54,
+                "url": "https://t.co/vHykNYyIsg"
+              },
+              {
+                "display_url": "x.com/dingotoad2",
+                "end": 128,
+                "expanded_url": "http://x.com/dingotoad2",
+                "start": 105,
+                "url": "https://t.co/1DFXJSSJog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "webtoons.com/en/canvas/veng…",
+                "end": 23,
+                "expanded_url": "https://www.webtoons.com/en/canvas/vengeful-roommate/list?title_no=830541#",
+                "start": 0,
+                "url": "https://t.co/2Fl4CrgzT9"
+              }
+            ]
+          }
+        },
+        "id": "1455326116227338241",
+        "name": "Dingotoad(commission open)",
+        "pinned_tweet_id": "1710827327402410317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807590516894404608/3o9iWplq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59909,
+          "following_count": 94,
+          "like_count": 983,
+          "listed_count": 185,
+          "media_count": 201,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/2Fl4CrgzT9",
+        "username": "dingotoad",
+        "verified": false
+      }
+    ]
+  }
+}

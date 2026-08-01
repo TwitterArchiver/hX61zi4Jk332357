@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2069459276398202927",
+    "created_at": "2026-06-23T16:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069460023693152433"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069460023693152433",
+    "in_reply_to_user_id": "1817120099528265728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069459276398202927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "说出来的话我担心关系变质我担心不再自然地享受，不表白的话我又觉得没有完整的表露自己而感到那种被喜爱的人并不是我的沮丧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2069459276398202927",
+        "created_at": "2026-06-23T16:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069460023693152433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069460023693152433",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069459276398202927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "说出来的话我担心关系变质我担心不再自然地享受，不表白的话我又觉得没有完整的表露自己而感到那种被喜爱的人并不是我的沮丧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2069459276398202927",
+        "created_at": "2026-06-23T16:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069459276398202927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069459276398202927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "被喜欢的时候总会有那种 “喔你有这种特质或者你有这种情况在 你是不值得被爱不可能被喜欢的 ”然后我就开始不安 没有被喜爱的自信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9559,
+          "following_count": 99,
+          "like_count": 2622,
+          "listed_count": 21,
+          "media_count": 495,
+          "tweet_count": 2355
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

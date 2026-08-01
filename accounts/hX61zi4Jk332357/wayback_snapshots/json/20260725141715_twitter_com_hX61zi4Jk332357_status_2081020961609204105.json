@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2081020961609204105",
+    "created_at": "2026-07-25T14:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081020961609204105"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081020961609204105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "感觉我一直很抗拒情色的东西就算在作品里呈现我也会当作是爱的风味调料但是一旦过多了我就会觉得有种被牙医在嘴里搅但我得忍住不呕吐不吞咽的感受…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2081020961609204105",
+        "created_at": "2026-07-25T14:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081020961609204105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081020961609204105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "感觉我一直很抗拒情色的东西就算在作品里呈现我也会当作是爱的风味调料但是一旦过多了我就会觉得有种被牙医在嘴里搅但我得忍住不呕吐不吞咽的感受…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9870,
+          "following_count": 96,
+          "like_count": 2741,
+          "listed_count": 19,
+          "media_count": 505,
+          "tweet_count": 2391
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1929452380686516224"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1929452471564525607",
+    "created_at": "2025-06-02T08:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T09:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929452471564525607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B5RZr81gZW",
+          "end": 29,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1929452471564525607/photo/1",
+          "media_key": "16_1929452380686516224",
+          "start": 6,
+          "url": "https://t.co/B5RZr81gZW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929452471564525607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精神状态： https://t.co/B5RZr81gZW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1929452471564525607].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1929452471564525607",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1929452471564525607"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1929452380686516224",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GsbKt7HaAAAMYdE.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GsbKt7HaAAAMYdE.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8323,
+          "following_count": 51,
+          "like_count": 1020,
+          "listed_count": 21,
+          "media_count": 223,
+          "tweet_count": 1323
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

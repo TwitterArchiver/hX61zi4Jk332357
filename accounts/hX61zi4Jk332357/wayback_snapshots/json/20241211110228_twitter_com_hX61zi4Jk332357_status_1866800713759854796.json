@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1866797378222821588",
+    "created_at": "2024-12-11T11:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T12:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866800713759854796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1467368317258248192",
+          "start": 0,
+          "username": "loolzaozmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866800713759854796",
+    "in_reply_to_user_id": "1467368317258248192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866797378222821588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loolzaozmin 去電影院"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1866797378222821588",
+        "created_at": "2024-12-11T11:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T12:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866800713759854796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1467368317258248192",
+              "start": 0,
+              "username": "loolzaozmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866800713759854796",
+        "in_reply_to_user_id": "1467368317258248192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866797378222821588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loolzaozmin 去電影院"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467368317258248192",
+        "conversation_id": "1866797378222821588",
+        "created_at": "2024-12-11T10:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T11:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866797378222821588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866797378222821588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "号要爆炸了怎么办？。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831216069949698049/uq0rKUd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3599,
+          "following_count": 17,
+          "like_count": 123,
+          "listed_count": 10,
+          "media_count": 63,
+          "tweet_count": 174
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "是藻｜泛性恋｜ 它/ta｜非二元性别｜多个人格超控的账号",
+        "id": "1467368317258248192",
+        "location": "想触摸那相似的灵魂",
+        "name": "我胃里面的蝴蝶",
+        "pinned_tweet_id": "1747910290979934278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863874524279865344/dS5NIgfI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8762,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 11,
+          "media_count": 78,
+          "tweet_count": 210
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

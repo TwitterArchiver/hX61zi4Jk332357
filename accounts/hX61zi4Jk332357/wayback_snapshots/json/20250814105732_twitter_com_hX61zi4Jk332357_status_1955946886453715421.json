@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1955281980838306023",
+    "created_at": "2025-08-14T10:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T11:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955946886453715421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829609141649952768",
+          "start": 0,
+          "username": "wbuchishi"
+        },
+        {
+          "end": 21,
+          "id": "712436288",
+          "start": 11,
+          "username": "doggymood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955946886453715421",
+    "in_reply_to_user_id": "1829609141649952768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955944273834336666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbuchishi @doggymood 你今晚给我读"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1955281980838306023",
+        "created_at": "2025-08-14T10:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955946886453715421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829609141649952768",
+              "start": 0,
+              "username": "wbuchishi"
+            },
+            {
+              "end": 21,
+              "id": "712436288",
+              "start": 11,
+              "username": "doggymood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955946886453715421",
+        "in_reply_to_user_id": "1829609141649952768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955944273834336666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbuchishi @doggymood 你今晚给我读"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829609141649952768",
+        "conversation_id": "1955281980838306023",
+        "created_at": "2025-08-14T10:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955944273834336666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "712436288",
+              "start": 0,
+              "username": "doggymood"
+            },
+            {
+              "end": 27,
+              "id": "1817120099528265728",
+              "start": 11,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955944273834336666",
+        "in_reply_to_user_id": "712436288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955281980838306023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doggymood @hX61zi4Jk332357 大冒险读这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1925148201281360017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8191,
+          "following_count": 65,
+          "like_count": 1342,
+          "listed_count": 20,
+          "media_count": 290,
+          "tweet_count": 1580
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "我是钱性恋",
+        "id": "1829609141649952768",
+        "name": "绝望的人夫",
+        "pinned_tweet_id": "1951209179256934737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951292982638026754/OkrAzSwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7141,
+          "following_count": 110,
+          "like_count": 6029,
+          "listed_count": 14,
+          "media_count": 35,
+          "tweet_count": 2903
+        },
+        "username": "wbuchishi",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-23T13:36:17.000Z",
+        "description": "白天是房地产女销售，晚上是你的狗子。",
+        "id": "712436288",
+        "name": "狗子的仪式感",
+        "pinned_tweet_id": "1925520457551483215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945827498761281536/0Ftsp2b__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 0,
+          "like_count": 26,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 40
+        },
+        "username": "doggymood",
+        "verified": false
+      }
+    ]
+  }
+}

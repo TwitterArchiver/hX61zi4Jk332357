@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897289686982565888"
+      ],
+      "media_source_tweet_id": [
+        "1897289689796894833"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1897542878831722688",
+    "created_at": "2025-03-06T07:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T08:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897542878831722688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1052938084948439046",
+          "start": 3,
+          "username": "shieriru_55"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sBRFaTNIfk",
+          "end": 47,
+          "expanded_url": "https://x.com/shieriru_55/status/1897289689796894833/photo/1",
+          "media_key": "3_1897289686982565888",
+          "start": 24,
+          "url": "https://t.co/sBRFaTNIfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897542878831722688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 292
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897289689796894833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shieriru_55: こころパズル https://t.co/sBRFaTNIfk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897289686982565888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlSG6wSboAA8dLi.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897289686982565888"
+          ],
+          "media_source_tweet_id": [
+            "1897289689796894833"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1897542878831722688",
+        "created_at": "2025-03-06T07:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T08:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897542878831722688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1052938084948439046",
+              "start": 3,
+              "username": "shieriru_55"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBRFaTNIfk",
+              "end": 47,
+              "expanded_url": "https://x.com/shieriru_55/status/1897289689796894833/photo/1",
+              "media_key": "3_1897289686982565888",
+              "start": 24,
+              "url": "https://t.co/sBRFaTNIfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897542878831722688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 292
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897289689796894833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shieriru_55: こころパズル https://t.co/sBRFaTNIfk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897289686982565888"
+          ]
+        },
+        "author_id": "1052938084948439046",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1897289689796894833",
+        "created_at": "2025-03-05T14:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T15:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897289689796894833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBRFaTNIfk",
+              "end": 30,
+              "expanded_url": "https://x.com/shieriru_55/status/1897289689796894833/photo/1",
+              "media_key": "3_1897289686982565888",
+              "start": 7,
+              "url": "https://t.co/sBRFaTNIfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897289689796894833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 40364,
+          "like_count": 3190,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 292
+        },
+        "reply_settings": "everyone",
+        "text": "こころパズル https://t.co/sBRFaTNIfk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7156,
+          "following_count": 36,
+          "like_count": 491,
+          "listed_count": 17,
+          "media_count": 146,
+          "tweet_count": 783
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-18T15:02:56.000Z",
+        "description": "OC・FA｜commission( https://t.co/pkljeus8aV )｜連絡先など▶( https://t.co/rjr18nVF3m )",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@shieriru_55",
+                "end": 41,
+                "expanded_url": "https://skeb.jp/@shieriru_55",
+                "start": 18,
+                "url": "https://t.co/pkljeus8aV"
+              },
+              {
+                "display_url": "xfolio.jp/portfolio/shie…",
+                "end": 75,
+                "expanded_url": "https://xfolio.jp/portfolio/shieriru",
+                "start": 52,
+                "url": "https://t.co/rjr18nVF3m"
+              }
+            ]
+          }
+        },
+        "id": "1052938084948439046",
+        "name": "シエリル",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484130984211922944/5dOvdL6Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46503,
+          "following_count": 766,
+          "like_count": 39497,
+          "listed_count": 420,
+          "media_count": 577,
+          "tweet_count": 3618
+        },
+        "username": "shieriru_55",
+        "verified": false
+      }
+    ]
+  }
+}

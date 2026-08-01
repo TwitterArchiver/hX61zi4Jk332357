@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942163695972573184"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1942163710883311713",
+    "created_at": "2025-07-07T10:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T11:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942163710883311713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S0kjUPxXXd",
+          "end": 27,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1942163710883311713/photo/1",
+          "media_key": "3_1942163695972573184",
+          "start": 4,
+          "url": "https://t.co/S0kjUPxXXd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942163710883311713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "我天呢 https://t.co/S0kjUPxXXd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942163695972573184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPzl2oa4AA0a2e.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942163695972573184"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1942163710883311713",
+        "created_at": "2025-07-07T10:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T11:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942163710883311713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S0kjUPxXXd",
+              "end": 27,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1942163710883311713/photo/1",
+              "media_key": "3_1942163695972573184",
+              "start": 4,
+              "url": "https://t.co/S0kjUPxXXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942163710883311713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我天呢 https://t.co/S0kjUPxXXd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "我只是发我想发的东西@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8222,
+          "following_count": 58,
+          "like_count": 1156,
+          "listed_count": 19,
+          "media_count": 260,
+          "tweet_count": 1449
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

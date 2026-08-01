@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2008409133540602206",
+    "created_at": "2026-01-06T05:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T06:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008409133540602206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1449609660147937282",
+          "start": 3,
+          "username": "anerzaishuijiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008409133540602206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008180229060407701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anerzaishuijiao: 喔對，順便說一句，知道嗎？支持藝術家讓她們創作更積極的方式有很多。1在你經濟能力穩定的前提下買你喜歡的藝術家的周邊，讓她們有更多收入來平衡生活。2給予藝術家們鼓勵。3留下對藝術家作品的讚美。4什麼都不做，甚至不需要關注只是路過點一個讚。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2008409133540602206",
+        "created_at": "2026-01-06T05:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T06:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008409133540602206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1449609660147937282",
+              "start": 3,
+              "username": "anerzaishuijiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008409133540602206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008180229060407701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anerzaishuijiao: 喔對，順便說一句，知道嗎？支持藝術家讓她們創作更積極的方式有很多。1在你經濟能力穩定的前提下買你喜歡的藝術家的周邊，讓她們有更多收入來平衡生活。2給予藝術家們鼓勵。3留下對藝術家作品的讚美。4什麼都不做，甚至不需要關注只是路過點一個讚。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449609660147937282",
+        "conversation_id": "2008180229060407701",
+        "created_at": "2026-01-05T14:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T15:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008180229060407701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008180229060407701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 93066,
+          "like_count": 1924,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "喔對，順便說一句，知道嗎？支持藝術家讓她們創作更積極的方式有很多。1在你經濟能力穩定的前提下買你喜歡的藝術家的周邊，讓她們有更多收入來平衡生活。2給予藝術家們鼓勵。3留下對藝術家作品的讚美。4什麼都不做，甚至不需要關注只是路過點一個讚。\n\n對的，但是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9616,
+          "following_count": 87,
+          "like_count": 2122,
+          "listed_count": 20,
+          "media_count": 430,
+          "tweet_count": 2095
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-17T05:34:17.000Z",
+        "description": "紀錄｜原創｜無授權轉載私印/AI❌",
+        "id": "1449609660147937282",
+        "name": "。",
+        "pinned_tweet_id": "2008218196004749539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580016510914830336/oBG08YpA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49389,
+          "following_count": 305,
+          "like_count": 8046,
+          "listed_count": 250,
+          "media_count": 343,
+          "tweet_count": 484
+        },
+        "username": "anerzaishuijiao",
+        "verified": false
+      }
+    ]
+  }
+}

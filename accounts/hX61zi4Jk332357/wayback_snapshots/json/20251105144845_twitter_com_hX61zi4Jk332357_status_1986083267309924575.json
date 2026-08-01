@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1985902218919444523",
+    "created_at": "2025-11-05T14:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T15:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986083267309924575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1768328423498276864",
+          "start": 0,
+          "username": "4o1i1i1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986083267309924575",
+    "in_reply_to_user_id": "1768328423498276864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985996593120854058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4o1i1i1 我跪了….高度数甜味李施德林"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1985902218919444523",
+        "created_at": "2025-11-05T14:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986083267309924575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1768328423498276864",
+              "start": 0,
+              "username": "4o1i1i1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986083267309924575",
+        "in_reply_to_user_id": "1768328423498276864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985996593120854058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4o1i1i1 我跪了….高度数甜味李施德林"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768328423498276864",
+        "conversation_id": "1985902218919444523",
+        "created_at": "2025-11-05T09:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T10:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985996593120854058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985996593120854058",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985902218919444523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 金酒真的好难喝…好苦啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10046,
+          "following_count": 80,
+          "like_count": 1873,
+          "listed_count": 23,
+          "media_count": 374,
+          "tweet_count": 1942
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T17:29:17.000Z",
+        "description": "葵と申します ʢᴗ.ᴗʡᶻ",
+        "id": "1768328423498276864",
+        "location": "ごめんなさいbot｜wx纯绿🚪88",
+        "name": "亜生",
+        "pinned_tweet_id": "1984868318227153361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975524689423572995/nysQtmjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 596,
+          "like_count": 11879,
+          "listed_count": 1,
+          "media_count": 529,
+          "tweet_count": 14638
+        },
+        "username": "4o1i1i1",
+        "verified": false
+      }
+    ]
+  }
+}

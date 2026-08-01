@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1906808343160906105",
+    "created_at": "2025-04-01T00:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T01:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906872188835172661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776452300816719872",
+          "start": 0,
+          "username": "VoiceMemoNo_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906872188835172661",
+    "in_reply_to_user_id": "1776452300816719872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906808343160906105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VoiceMemoNo_7 为什么不给我先发"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5400,
+        "height": 1280,
+        "media_key": "7_1906808313788145664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906808313788145664/pu/img/dXADyhu34bnx0_6k.jpg",
+        "public_metrics": {
+          "view_count": 169
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906808313788145664/pu/vid/avc1/320x568/Y964SBhCiMz2nmqV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906808313788145664/pu/vid/avc1/480x852/kvhZsITJiUxzIAgP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906808313788145664/pu/vid/avc1/720x1280/ybaW2nrYLTKzh6Uu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906808313788145664/pu/pl/DOxlSmZvvh6h3cz9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1906808343160906105",
+        "created_at": "2025-04-01T00:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T01:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906872188835172661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776452300816719872",
+              "start": 0,
+              "username": "VoiceMemoNo_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906872188835172661",
+        "in_reply_to_user_id": "1776452300816719872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906808343160906105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VoiceMemoNo_7 为什么不给我先发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1906808313788145664"
+          ]
+        },
+        "author_id": "1776452300816719872",
+        "conversation_id": "1906808343160906105",
+        "created_at": "2025-03-31T20:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T21:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906808343160906105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/boSakZ7myA",
+              "end": 30,
+              "expanded_url": "https://x.com/VoiceMemoNo_7/status/1906808343160906105/video/1",
+              "media_key": "7_1906808313788145664",
+              "start": 7,
+              "url": "https://t.co/boSakZ7myA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906808343160906105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 501,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊呜一口吞~ https://t.co/boSakZ7myA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902896494052773890/hrQl_6Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7143,
+          "following_count": 41,
+          "like_count": 614,
+          "listed_count": 17,
+          "media_count": 166,
+          "tweet_count": 941
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T03:30:17.000Z",
+        "description": "｜寄生槲 @Lucifers6x｜小奶发育中…｜即要看见我的皮囊，也要看见我的内脏｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Lucifers6x"
+              }
+            ]
+          }
+        },
+        "id": "1776452300816719872",
+        "name": "理江",
+        "pinned_tweet_id": "1897659619943886875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785944409064058880/eI9-8yzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23251,
+          "following_count": 205,
+          "like_count": 6525,
+          "listed_count": 75,
+          "media_count": 47,
+          "tweet_count": 2422
+        },
+        "username": "VoiceMemoNo_7",
+        "verified": false
+      }
+    ]
+  }
+}

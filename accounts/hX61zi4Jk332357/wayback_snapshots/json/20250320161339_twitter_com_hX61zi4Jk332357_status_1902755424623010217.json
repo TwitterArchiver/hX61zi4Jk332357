@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1902754136568877424",
+    "created_at": "2025-03-20T16:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T17:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902755424623010217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776452300816719872",
+          "start": 0,
+          "username": "VoiceMemoNo_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902755424623010217",
+    "in_reply_to_user_id": "1776452300816719872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902755333824716862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@VoiceMemoNo_7 未成年不可以去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1902754136568877424",
+        "created_at": "2025-03-20T16:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T17:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902755424623010217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776452300816719872",
+              "start": 0,
+              "username": "VoiceMemoNo_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902755424623010217",
+        "in_reply_to_user_id": "1776452300816719872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902755333824716862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@VoiceMemoNo_7 未成年不可以去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776452300816719872",
+        "conversation_id": "1902754136568877424",
+        "created_at": "2025-03-20T16:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T17:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902755333824716862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902755333824716862",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902754136568877424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@hX61zi4Jk332357 我也想去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897543158390837248/A6uvGnhl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7140,
+          "following_count": 38,
+          "like_count": 544,
+          "listed_count": 16,
+          "media_count": 154,
+          "tweet_count": 852
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T03:30:17.000Z",
+        "description": "｜寄生槲 @Lucifers6x｜吉伊型人格｜小奶发育中…｜赛博暴露癖：即要看见我的皮囊，也要看见我的内脏｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Lucifers6x"
+              }
+            ]
+          }
+        },
+        "id": "1776452300816719872",
+        "name": "理江",
+        "pinned_tweet_id": "1897659619943886875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785944409064058880/eI9-8yzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23197,
+          "following_count": 200,
+          "like_count": 6408,
+          "listed_count": 74,
+          "media_count": 41,
+          "tweet_count": 2339
+        },
+        "username": "VoiceMemoNo_7",
+        "verified": false
+      }
+    ]
+  }
+}

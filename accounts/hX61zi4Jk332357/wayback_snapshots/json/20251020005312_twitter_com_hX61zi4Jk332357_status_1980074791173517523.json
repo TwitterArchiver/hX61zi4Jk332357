@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979773238633746432"
+      ],
+      "media_source_tweet_id": [
+        "1979773246523473948"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1980074791173517523",
+    "created_at": "2025-10-20T00:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980074791173517523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1925502824135446528",
+          "start": 3,
+          "username": "mieobi22__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BvdsNjF9lz",
+          "end": 39,
+          "expanded_url": "https://x.com/mieobi22__/status/1979773246523473948/photo/1",
+          "media_key": "3_1979773238633746432",
+          "start": 16,
+          "url": "https://t.co/BvdsNjF9lz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980074791173517523",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979773246523473948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mieobi22__: https://t.co/BvdsNjF9lz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979773238633746432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mRRXCW0AANRBZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979773238633746432"
+          ],
+          "media_source_tweet_id": [
+            "1979773246523473948"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1980074791173517523",
+        "created_at": "2025-10-20T00:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980074791173517523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1925502824135446528",
+              "start": 3,
+              "username": "mieobi22__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BvdsNjF9lz",
+              "end": 39,
+              "expanded_url": "https://x.com/mieobi22__/status/1979773246523473948/photo/1",
+              "media_key": "3_1979773238633746432",
+              "start": 16,
+              "url": "https://t.co/BvdsNjF9lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980074791173517523",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979773246523473948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mieobi22__: https://t.co/BvdsNjF9lz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979773238633746432"
+          ]
+        },
+        "author_id": "1925502824135446528",
+        "conversation_id": "1979773246523473948",
+        "created_at": "2025-10-19T04:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979773246523473948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BvdsNjF9lz",
+              "end": 23,
+              "expanded_url": "https://x.com/mieobi22__/status/1979773246523473948/photo/1",
+              "media_key": "3_1979773238633746432",
+              "start": 0,
+              "url": "https://t.co/BvdsNjF9lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979773246523473948",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 8003,
+          "like_count": 870,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BvdsNjF9lz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10207,
+          "following_count": 75,
+          "like_count": 1751,
+          "listed_count": 24,
+          "media_count": 363,
+          "tweet_count": 1884
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T10:43:49.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@mieobi22__?_t…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@mieobi22__?_t=ZS-8wZG6Z3jZJ4&_r=1",
+                "start": 0,
+                "url": "https://t.co/08bwq6hbps"
+              }
+            ]
+          }
+        },
+        "id": "1925502824135446528",
+        "name": "🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947214427243302912/P0xmWH_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 12,
+          "like_count": 3543,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 447
+        },
+        "url": "https://t.co/08bwq6hbps",
+        "username": "mieobi22__",
+        "verified": false
+      }
+    ]
+  }
+}

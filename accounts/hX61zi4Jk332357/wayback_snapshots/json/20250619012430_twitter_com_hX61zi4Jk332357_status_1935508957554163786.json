@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1935508957554163786",
+    "created_at": "2025-06-19T01:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T02:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935508957554163786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hx61zi4jk33235…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/hx61zi4jk332357/status/1919795384823775406",
+          "start": 25,
+          "url": "https://t.co/kKJSFg1hiX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935508957554163786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919795384823775406",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我总是问保质期因为我害怕喝到坏汽水啊舌头会苦苦的 https://t.co/kKJSFg1hiX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1919795371808804864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqR7uBoaUAAYFPV.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1919795371443945474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqR7uARbAAIKKMK.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1919795371448147968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqR7uASbIAABbOx.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1919795371888513024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqR7uB7akAABESA.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1935508957554163786",
+        "created_at": "2025-06-19T01:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T02:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935508957554163786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hx61zi4jk33235…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/hx61zi4jk332357/status/1919795384823775406",
+              "start": 25,
+              "url": "https://t.co/kKJSFg1hiX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935508957554163786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919795384823775406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我总是问保质期因为我害怕喝到坏汽水啊舌头会苦苦的 https://t.co/kKJSFg1hiX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919795371808804864",
+            "3_1919795371443945474",
+            "3_1919795371448147968",
+            "3_1919795371888513024"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1919795384823775406",
+        "created_at": "2025-05-06T16:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T17:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919795384823775406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Js9Wi918r4",
+              "end": 23,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1919795384823775406/photo/1",
+              "media_key": "3_1919795371808804864",
+              "start": 0,
+              "url": "https://t.co/Js9Wi918r4"
+            },
+            {
+              "display_url": "pic.x.com/Js9Wi918r4",
+              "end": 23,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1919795384823775406/photo/1",
+              "media_key": "3_1919795371443945474",
+              "start": 0,
+              "url": "https://t.co/Js9Wi918r4"
+            },
+            {
+              "display_url": "pic.x.com/Js9Wi918r4",
+              "end": 23,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1919795384823775406/photo/1",
+              "media_key": "3_1919795371448147968",
+              "start": 0,
+              "url": "https://t.co/Js9Wi918r4"
+            },
+            {
+              "display_url": "pic.x.com/Js9Wi918r4",
+              "end": 23,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1919795384823775406/photo/1",
+              "media_key": "3_1919795371888513024",
+              "start": 0,
+              "url": "https://t.co/Js9Wi918r4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919795384823775406",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2509,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/Js9Wi918r4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8301,
+          "following_count": 57,
+          "like_count": 1110,
+          "listed_count": 21,
+          "media_count": 243,
+          "tweet_count": 1406
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

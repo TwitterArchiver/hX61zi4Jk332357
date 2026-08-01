@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942983264798461952"
+      ],
+      "media_source_tweet_id": [
+        "1942983272562041011"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1943140453588578789",
+    "created_at": "2025-07-10T02:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T03:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943140453588578789"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "Pantyandstocking",
+          "probability": 0.4187,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 20,
+          "tag": "Pantyandstocking"
+        },
+        {
+          "end": 45,
+          "start": 38,
+          "tag": "NewPSG"
+        },
+        {
+          "end": 54,
+          "start": 46,
+          "tag": "Newパンスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1559775963394674688",
+          "start": 3,
+          "username": "wannwari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QtSYeBr6CN",
+          "end": 78,
+          "expanded_url": "https://x.com/wannwari/status/1942983272562041011/photo/1",
+          "media_key": "3_1942983264798461952",
+          "start": 55,
+          "url": "https://t.co/QtSYeBr6CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943140453588578789",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3797
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942983272562041011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wannwari: boyss\n#Pantyandstocking #NewPSG #Newパンスト https://t.co/QtSYeBr6CN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942983264798461952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvbc_CbXUAA3goa.jpg",
+        "width": 1633
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942983264798461952"
+          ],
+          "media_source_tweet_id": [
+            "1942983272562041011"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1943140453588578789",
+        "created_at": "2025-07-10T02:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T03:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943140453588578789"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Pantyandstocking",
+              "probability": 0.4187,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 20,
+              "tag": "Pantyandstocking"
+            },
+            {
+              "end": 45,
+              "start": 38,
+              "tag": "NewPSG"
+            },
+            {
+              "end": 54,
+              "start": 46,
+              "tag": "Newパンスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1559775963394674688",
+              "start": 3,
+              "username": "wannwari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtSYeBr6CN",
+              "end": 78,
+              "expanded_url": "https://x.com/wannwari/status/1942983272562041011/photo/1",
+              "media_key": "3_1942983264798461952",
+              "start": 55,
+              "url": "https://t.co/QtSYeBr6CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943140453588578789",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3797
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942983272562041011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wannwari: boyss\n#Pantyandstocking #NewPSG #Newパンスト https://t.co/QtSYeBr6CN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942983264798461952"
+          ]
+        },
+        "author_id": "1559775963394674688",
+        "conversation_id": "1942983272562041011",
+        "created_at": "2025-07-09T16:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T17:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942983272562041011"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Pantyandstocking",
+              "probability": 0.3873,
+              "start": 7,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 6,
+              "tag": "Pantyandstocking"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "NewPSG"
+            },
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "Newパンスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtSYeBr6CN",
+              "end": 64,
+              "expanded_url": "https://x.com/wannwari/status/1942983272562041011/photo/1",
+              "media_key": "3_1942983264798461952",
+              "start": 41,
+              "url": "https://t.co/QtSYeBr6CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942983272562041011",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3175,
+          "impression_count": 296572,
+          "like_count": 27041,
+          "quote_count": 210,
+          "reply_count": 25,
+          "retweet_count": 3797
+        },
+        "reply_settings": "everyone",
+        "text": "boyss\n#Pantyandstocking #NewPSG #Newパンスト https://t.co/QtSYeBr6CN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8235,
+          "following_count": 58,
+          "like_count": 1177,
+          "listed_count": 19,
+          "media_count": 264,
+          "tweet_count": 1470
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T05:36:02.000Z",
+        "description": "🧩🩹──★ MAINLY OCS & MULTIFANDOM—dont follow me for one thing! ! ! ⚠️seldom gore , no tws/spoilers / yaoi when @801a508 (っ˘ڡ˘ς) pfp: @ito_smooth bnr: @mfmruu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 109,
+                "username": "801a508"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "ito_smooth"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "mfmruu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wannwaris.carrd.co",
+                "end": 23,
+                "expanded_url": "https://wannwaris.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/D4bWtDeR3J"
+              }
+            ]
+          }
+        },
+        "id": "1559775963394674688",
+        "location": "he/him, blk, 16y/o",
+        "name": "ari",
+        "pinned_tweet_id": "1937002814578024737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932245758075719680/lAIOWETA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7288,
+          "following_count": 490,
+          "like_count": 5751,
+          "listed_count": 4,
+          "media_count": 373,
+          "tweet_count": 2518
+        },
+        "url": "https://t.co/D4bWtDeR3J",
+        "username": "wannwari",
+        "verified": false
+      }
+    ]
+  }
+}

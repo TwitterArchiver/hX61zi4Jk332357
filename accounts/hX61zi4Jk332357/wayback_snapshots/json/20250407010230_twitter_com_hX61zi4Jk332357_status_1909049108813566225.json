@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908823189318250496",
+        "13_1908823189355982849"
+      ],
+      "media_source_tweet_id": [
+        "1908823261326028911",
+        "1908823261326028911"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1909049108813566225",
+    "created_at": "2025-04-07T01:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T02:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909049108813566225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1152416995167502337",
+          "start": 3,
+          "username": "bbbbolil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PIWNeQBcVN",
+          "end": 49,
+          "expanded_url": "https://x.com/bbbbolil/status/1908823261326028911/video/1",
+          "media_key": "3_1908823189318250496",
+          "start": 26,
+          "url": "https://t.co/PIWNeQBcVN"
+        },
+        {
+          "display_url": "pic.x.com/PIWNeQBcVN",
+          "end": 49,
+          "expanded_url": "https://x.com/bbbbolil/status/1908823261326028911/video/1",
+          "media_key": "13_1908823189355982849",
+          "start": 26,
+          "url": "https://t.co/PIWNeQBcVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909049108813566225",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908823261326028911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbbbolil: 잘어울려서어쩔수가없어 https://t.co/PIWNeQBcVN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908823189318250496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn2Ak8pXsAA0ORI.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 1560,
+        "height": 1280,
+        "media_key": "13_1908823189355982849",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1908823189355982849/img/BtEn1XGwxUfgo1sB.jpg",
+        "public_metrics": {
+          "view_count": 4041
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908823189355982849/vid/avc1/320x568/HbmhLZBqfY9jjCw9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908823189355982849/vid/avc1/480x852/r4F8uf8THig0JejL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908823189355982849/vid/avc1/720x1280/wnbF3-626tIxYEQb.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1908823189355982849/pl/6wpJEM68f1n_peHZ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908823189318250496",
+            "13_1908823189355982849"
+          ],
+          "media_source_tweet_id": [
+            "1908823261326028911",
+            "1908823261326028911"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1909049108813566225",
+        "created_at": "2025-04-07T01:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T02:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909049108813566225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1152416995167502337",
+              "start": 3,
+              "username": "bbbbolil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIWNeQBcVN",
+              "end": 49,
+              "expanded_url": "https://x.com/bbbbolil/status/1908823261326028911/video/1",
+              "media_key": "3_1908823189318250496",
+              "start": 26,
+              "url": "https://t.co/PIWNeQBcVN"
+            },
+            {
+              "display_url": "pic.x.com/PIWNeQBcVN",
+              "end": 49,
+              "expanded_url": "https://x.com/bbbbolil/status/1908823261326028911/video/1",
+              "media_key": "13_1908823189355982849",
+              "start": 26,
+              "url": "https://t.co/PIWNeQBcVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909049108813566225",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908823261326028911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbbbolil: 잘어울려서어쩔수가없어 https://t.co/PIWNeQBcVN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908823189318250496",
+            "13_1908823189355982849"
+          ]
+        },
+        "author_id": "1152416995167502337",
+        "conversation_id": "1908823261326028911",
+        "created_at": "2025-04-06T10:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908823261326028911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIWNeQBcVN",
+              "end": 35,
+              "expanded_url": "https://x.com/bbbbolil/status/1908823261326028911/video/1",
+              "media_key": "3_1908823189318250496",
+              "start": 12,
+              "url": "https://t.co/PIWNeQBcVN"
+            },
+            {
+              "display_url": "pic.x.com/PIWNeQBcVN",
+              "end": 35,
+              "expanded_url": "https://x.com/bbbbolil/status/1908823261326028911/video/1",
+              "media_key": "13_1908823189355982849",
+              "start": 12,
+              "url": "https://t.co/PIWNeQBcVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908823261326028911",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 16940,
+          "like_count": 531,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "잘어울려서어쩔수가없어 https://t.co/PIWNeQBcVN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902896494052773890/hrQl_6Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7297,
+          "following_count": 42,
+          "like_count": 646,
+          "listed_count": 18,
+          "media_count": 176,
+          "tweet_count": 1002
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-20T03:16:37.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/2146321274/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/2146321274/",
+                "start": 0,
+                "url": "https://t.co/CAitQsohU8"
+              }
+            ]
+          }
+        },
+        "id": "1152416995167502337",
+        "name": "보로",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898068565363720193/oqulTB-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 73,
+          "like_count": 1918,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1194
+        },
+        "url": "https://t.co/CAitQsohU8",
+        "username": "bbbbolil",
+        "verified": false
+      }
+    ]
+  }
+}

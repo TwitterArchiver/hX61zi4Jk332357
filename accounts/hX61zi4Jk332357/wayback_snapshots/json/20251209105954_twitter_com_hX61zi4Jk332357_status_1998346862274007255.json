@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1998017605777723621",
+    "created_at": "2025-12-09T10:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T11:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998346862274007255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1910544028203900928",
+          "start": 0,
+          "username": "FumikiriRinne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998346862274007255",
+    "in_reply_to_user_id": "1910544028203900928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998154953215615248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FumikiriRinne 请dm我—"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1998017605777723621",
+        "created_at": "2025-12-09T10:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T11:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998346862274007255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1910544028203900928",
+              "start": 0,
+              "username": "FumikiriRinne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998346862274007255",
+        "in_reply_to_user_id": "1910544028203900928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998154953215615248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FumikiriRinne 请dm我—"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910544028203900928",
+        "conversation_id": "1998017605777723621",
+        "created_at": "2025-12-08T22:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T23:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998154953215615248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998154953215615248",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998017605777723621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 天呢好萌好美丽的画风。。请问现在还接稿吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9842,
+          "following_count": 84,
+          "like_count": 2032,
+          "listed_count": 23,
+          "media_count": 407,
+          "tweet_count": 2035
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T04:03:04.000Z",
+        "description": "危ない踏切注意| 転生垢| 壁打ち垢|相思相愛",
+        "id": "1910544028203900928",
+        "location": "Bunkyo-ku, Tokyo",
+        "name": "踏切輪廻",
+        "pinned_tweet_id": "1974604928598589933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910544252691456000/FJN3Gm-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 43,
+          "like_count": 3225,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 912
+        },
+        "username": "FumikiriRinne",
+        "verified": false
+      }
+    ]
+  }
+}

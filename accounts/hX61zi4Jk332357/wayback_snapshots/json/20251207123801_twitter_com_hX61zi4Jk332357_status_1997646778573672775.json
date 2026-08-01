@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1997290305025085822",
+    "created_at": "2025-12-07T12:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T13:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997646778573672775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581943089442091008",
+          "start": 0,
+          "username": "tanglaoban1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997646778573672775",
+    "in_reply_to_user_id": "1581943089442091008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997296899590955115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanglaoban1225 糖酪拌…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1997290305025085822",
+        "created_at": "2025-12-07T12:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T13:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997646778573672775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581943089442091008",
+              "start": 0,
+              "username": "tanglaoban1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997646778573672775",
+        "in_reply_to_user_id": "1581943089442091008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997296899590955115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanglaoban1225 糖酪拌…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581943089442091008",
+        "conversation_id": "1997290305025085822",
+        "created_at": "2025-12-06T13:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T14:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997296899590955115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997296899590955115",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997290305025085822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 宝宝摸摸头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9853,
+          "following_count": 84,
+          "like_count": 2022,
+          "listed_count": 23,
+          "media_count": 406,
+          "tweet_count": 2030
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:40:08.000Z",
+        "description": "🇨🇳\n🍬翻译器依赖🍬产出为同人+oc🍬18🍬♀🍬infj   Ai🚫\n @1225___tang  ←同人号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "1225___tang"
+              }
+            ]
+          }
+        },
+        "id": "1581943089442091008",
+        "location": "(。-ω-)zzz",
+        "name": "棠老板",
+        "pinned_tweet_id": "1844034574982209877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984051805253439488/eiuC_1k6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22314,
+          "following_count": 925,
+          "like_count": 10229,
+          "listed_count": 107,
+          "media_count": 1067,
+          "tweet_count": 3739
+        },
+        "username": "tanglaoban1225",
+        "verified": false
+      }
+    ]
+  }
+}

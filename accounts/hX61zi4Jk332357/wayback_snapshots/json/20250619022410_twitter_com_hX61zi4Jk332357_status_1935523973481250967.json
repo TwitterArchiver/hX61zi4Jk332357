@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935418530649735168",
+        "3_1935418640800583680",
+        "3_1935418765853765632"
+      ],
+      "media_source_tweet_id": [
+        "1935418832996417646",
+        "1935418832996417646",
+        "1935418832996417646"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1935523973481250967",
+    "created_at": "2025-06-19T02:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T03:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935523973481250967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1642828806636593153",
+          "start": 3,
+          "username": "Rabbit11201206"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GYa6wiGeHI",
+          "end": 46,
+          "expanded_url": "https://x.com/Rabbit11201206/status/1935418832996417646/photo/1",
+          "media_key": "3_1935418530649735168",
+          "start": 23,
+          "url": "https://t.co/GYa6wiGeHI"
+        },
+        {
+          "display_url": "pic.x.com/GYa6wiGeHI",
+          "end": 46,
+          "expanded_url": "https://x.com/Rabbit11201206/status/1935418832996417646/photo/1",
+          "media_key": "3_1935418640800583680",
+          "start": 23,
+          "url": "https://t.co/GYa6wiGeHI"
+        },
+        {
+          "display_url": "pic.x.com/GYa6wiGeHI",
+          "end": 46,
+          "expanded_url": "https://x.com/Rabbit11201206/status/1935418832996417646/photo/1",
+          "media_key": "3_1935418765853765632",
+          "start": 23,
+          "url": "https://t.co/GYa6wiGeHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935523973481250967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 305
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935418832996417646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rabbit11201206: 狗鍊 https://t.co/GYa6wiGeHI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3062,
+        "media_key": "3_1935418530649735168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtv85jsWAAAYD3j.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1935418640800583680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtv8_-CWkAAPmGp.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1935418765853765632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtv9HP5WsAAcn_1.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935418530649735168",
+            "3_1935418640800583680",
+            "3_1935418765853765632"
+          ],
+          "media_source_tweet_id": [
+            "1935418832996417646",
+            "1935418832996417646",
+            "1935418832996417646"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1935523973481250967",
+        "created_at": "2025-06-19T02:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T03:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935523973481250967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1642828806636593153",
+              "start": 3,
+              "username": "Rabbit11201206"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYa6wiGeHI",
+              "end": 46,
+              "expanded_url": "https://x.com/Rabbit11201206/status/1935418832996417646/photo/1",
+              "media_key": "3_1935418530649735168",
+              "start": 23,
+              "url": "https://t.co/GYa6wiGeHI"
+            },
+            {
+              "display_url": "pic.x.com/GYa6wiGeHI",
+              "end": 46,
+              "expanded_url": "https://x.com/Rabbit11201206/status/1935418832996417646/photo/1",
+              "media_key": "3_1935418640800583680",
+              "start": 23,
+              "url": "https://t.co/GYa6wiGeHI"
+            },
+            {
+              "display_url": "pic.x.com/GYa6wiGeHI",
+              "end": 46,
+              "expanded_url": "https://x.com/Rabbit11201206/status/1935418832996417646/photo/1",
+              "media_key": "3_1935418765853765632",
+              "start": 23,
+              "url": "https://t.co/GYa6wiGeHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935523973481250967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 305
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935418832996417646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rabbit11201206: 狗鍊 https://t.co/GYa6wiGeHI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935418530649735168",
+            "3_1935418640800583680",
+            "3_1935418765853765632"
+          ]
+        },
+        "author_id": "1642828806636593153",
+        "conversation_id": "1935418832996417646",
+        "created_at": "2025-06-18T19:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T20:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935418832996417646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYa6wiGeHI",
+              "end": 26,
+              "expanded_url": "https://x.com/Rabbit11201206/status/1935418832996417646/photo/1",
+              "media_key": "3_1935418530649735168",
+              "start": 3,
+              "url": "https://t.co/GYa6wiGeHI"
+            },
+            {
+              "display_url": "pic.x.com/GYa6wiGeHI",
+              "end": 26,
+              "expanded_url": "https://x.com/Rabbit11201206/status/1935418832996417646/photo/1",
+              "media_key": "3_1935418640800583680",
+              "start": 3,
+              "url": "https://t.co/GYa6wiGeHI"
+            },
+            {
+              "display_url": "pic.x.com/GYa6wiGeHI",
+              "end": 26,
+              "expanded_url": "https://x.com/Rabbit11201206/status/1935418832996417646/photo/1",
+              "media_key": "3_1935418765853765632",
+              "start": 3,
+              "url": "https://t.co/GYa6wiGeHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935418832996417646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 370,
+          "impression_count": 16959,
+          "like_count": 2080,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 305
+        },
+        "reply_settings": "everyone",
+        "text": "狗鍊 https://t.co/GYa6wiGeHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8301,
+          "following_count": 57,
+          "like_count": 1113,
+          "listed_count": 21,
+          "media_count": 244,
+          "tweet_count": 1411
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T09:58:12.000Z",
+        "description": "🔕／頭像來自御貓／まどマギ__杏さや 🔄🆗️",
+        "id": "1642828806636593153",
+        "location": "🐇",
+        "name": "ᴮᵘⁿⁿʸ . ⁺ +",
+        "pinned_tweet_id": "1923399958360715695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934458706537918465/4x3Mm4JZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3503,
+          "following_count": 46,
+          "like_count": 2733,
+          "listed_count": 18,
+          "media_count": 91,
+          "tweet_count": 602
+        },
+        "username": "Rabbit11201206",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1875431094818050551",
+    "created_at": "2025-01-04T13:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T14:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875535397612380322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761244978288939008",
+          "start": 0,
+          "username": "roshi_uni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875535397612380322",
+    "in_reply_to_user_id": "1761244978288939008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875515036715946213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roshi_uni 她是特例嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1875431094818050551",
+        "created_at": "2025-01-04T13:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T14:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875535397612380322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761244978288939008",
+              "start": 0,
+              "username": "roshi_uni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875535397612380322",
+        "in_reply_to_user_id": "1761244978288939008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875515036715946213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roshi_uni 她是特例嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761244978288939008",
+        "conversation_id": "1875431094818050551",
+        "created_at": "2025-01-04T12:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T13:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875515036715946213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875515036715946213",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875431094818050551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 你喜欢舌蜗吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872565485847638016/qdNAtQUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5917,
+          "following_count": 25,
+          "like_count": 205,
+          "listed_count": 12,
+          "media_count": 85,
+          "tweet_count": 307
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T04:21:57.000Z",
+        "description": "我是感貓冲劑",
+        "id": "1761244978288939008",
+        "location": "yume",
+        "name": "你那样害怕是因为看到了此刻的光景吧",
+        "pinned_tweet_id": "1832337732737363992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761323546905563136/8d6Hyz-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 192,
+          "like_count": 1668,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 378
+        },
+        "username": "roshi_uni",
+        "verified": false
+      }
+    ]
+  }
+}

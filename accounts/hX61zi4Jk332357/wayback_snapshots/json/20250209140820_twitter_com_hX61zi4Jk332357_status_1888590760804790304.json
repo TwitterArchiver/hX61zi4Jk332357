@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1888501586944770545",
+    "created_at": "2025-02-09T14:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T15:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888590760804790304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1559549613442338816",
+          "start": 0,
+          "username": "zhensi200166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888590760804790304",
+    "in_reply_to_user_id": "1559549613442338816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888503971129737647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhensi200166 看上去像很可怜的小女孩，有点不敢说出点什么话语好像稍微沉重一些你就将要碎掉.多补充水分吧，Asuka，有了充足的水分什么都可以做到的，我们还有很多工作要做。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1888501586944770545",
+        "created_at": "2025-02-09T14:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T15:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888590760804790304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1559549613442338816",
+              "start": 0,
+              "username": "zhensi200166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888590760804790304",
+        "in_reply_to_user_id": "1559549613442338816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888503971129737647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhensi200166 看上去像很可怜的小女孩，有点不敢说出点什么话语好像稍微沉重一些你就将要碎掉.多补充水分吧，Asuka，有了充足的水分什么都可以做到的，我们还有很多工作要做。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559549613442338816",
+        "conversation_id": "1888501586944770545",
+        "created_at": "2025-02-09T08:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T09:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888503971129737647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888503971129737647",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888501586944770545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6643,
+          "following_count": 35,
+          "like_count": 378,
+          "listed_count": 14,
+          "media_count": 129,
+          "tweet_count": 622
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T14:36:43.000Z",
+        "description": "明日香激推♡\n小心我死给你看, 我精神有问题, 一秒八百个想法, 两秒一千六百个情绪",
+        "id": "1559549613442338816",
+        "location": "Japan",
+        "name": "⁺✞ʚ明日香重度依赖ɞ✟₊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870162617882554370/WaE6igwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 541,
+          "like_count": 6495,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 630
+        },
+        "username": "zhensi200166",
+        "verified": false
+      }
+    ]
+  }
+}

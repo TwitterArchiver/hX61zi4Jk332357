@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1933065543713763513",
+    "created_at": "2025-06-12T10:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T11:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933112222311657671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1339544113381691392",
+          "start": 0,
+          "username": "problemetik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933112222311657671",
+    "in_reply_to_user_id": "1339544113381691392",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933065543713763513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@problemetik we three we’re all alone living in a memory…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2980,
+        "media_key": "3_1933065534113001472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtOg3IhbMAA_3DU.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1933065543713763513",
+        "created_at": "2025-06-12T10:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T11:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933112222311657671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1339544113381691392",
+              "start": 0,
+              "username": "problemetik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933112222311657671",
+        "in_reply_to_user_id": "1339544113381691392",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933065543713763513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@problemetik we three we’re all alone living in a memory…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933065534113001472"
+          ]
+        },
+        "author_id": "1339544113381691392",
+        "conversation_id": "1933065543713763513",
+        "created_at": "2025-06-12T07:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T08:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933065543713763513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTdRRwgHMu",
+              "end": 23,
+              "expanded_url": "https://x.com/problemetik/status/1933065543713763513/photo/1",
+              "media_key": "3_1933065534113001472",
+              "start": 0,
+              "url": "https://t.co/mTdRRwgHMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933065543713763513",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 304187,
+          "like_count": 3331,
+          "quote_count": 34,
+          "reply_count": 119,
+          "retweet_count": 1116
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mTdRRwgHMu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8293,
+          "following_count": 58,
+          "like_count": 1070,
+          "listed_count": 21,
+          "media_count": 236,
+          "tweet_count": 1376
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T12:13:11.000Z",
+        "description": "fortis furtuna adiuvat.",
+        "id": "1339544113381691392",
+        "name": "jordan.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767584792835661824/6Swjd-GJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27456,
+          "following_count": 6481,
+          "like_count": 245512,
+          "listed_count": 18,
+          "media_count": 561,
+          "tweet_count": 253485
+        },
+        "username": "problemetik",
+        "verified": true
+      }
+    ]
+  }
+}

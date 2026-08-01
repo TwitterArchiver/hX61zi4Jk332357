@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1942266073258287404",
+    "created_at": "2025-07-08T00:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T01:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942375709089100250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1622146385977167875",
+          "start": 0,
+          "username": "wtswsrkmdst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942375709089100250",
+    "in_reply_to_user_id": "1622146385977167875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942266073258287404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtswsrkmdst 有种低智商的美.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1942266053146599427",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvRQr00aYAMzDai.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1942266053305749504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvRQr1aW0AAinOM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1942266073258287404",
+        "created_at": "2025-07-08T00:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T01:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942375709089100250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1622146385977167875",
+              "start": 0,
+              "username": "wtswsrkmdst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942375709089100250",
+        "in_reply_to_user_id": "1622146385977167875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942266073258287404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtswsrkmdst 有种低智商的美.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942266053146599427",
+            "3_1942266053305749504"
+          ]
+        },
+        "author_id": "1622146385977167875",
+        "conversation_id": "1942266073258287404",
+        "created_at": "2025-07-07T16:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T17:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942266073258287404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUeCqaSaWz",
+              "end": 23,
+              "expanded_url": "https://x.com/wtswsrkmdst/status/1942266073258287404/photo/1",
+              "media_key": "3_1942266053146599427",
+              "start": 0,
+              "url": "https://t.co/NUeCqaSaWz"
+            },
+            {
+              "display_url": "pic.x.com/NUeCqaSaWz",
+              "end": 23,
+              "expanded_url": "https://x.com/wtswsrkmdst/status/1942266073258287404/photo/1",
+              "media_key": "3_1942266053305749504",
+              "start": 0,
+              "url": "https://t.co/NUeCqaSaWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942266073258287404",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1226,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NUeCqaSaWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8224,
+          "following_count": 58,
+          "like_count": 1161,
+          "listed_count": 19,
+          "media_count": 260,
+          "tweet_count": 1453
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T08:13:40.000Z",
+        "description": "嗯大概就是阴湿木头冷情闷骚缺德阳痿天天求死",
+        "id": "1622146385977167875",
+        "location": "🚪288纯绿",
+        "name": "濯枝雨",
+        "pinned_tweet_id": "1921328099880206477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930860785963790336/v2lWi0OL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10430,
+          "following_count": 400,
+          "like_count": 120944,
+          "listed_count": 23,
+          "media_count": 74,
+          "tweet_count": 833
+        },
+        "username": "wtswsrkmdst",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1907157732224090547",
+    "created_at": "2025-04-02T00:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T01:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907235864130044288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1833176965433720832",
+          "start": 0,
+          "username": "hoshinoharu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907235864130044288",
+    "in_reply_to_user_id": "1833176965433720832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907157732224090547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinoharu5 伊藤润二女主来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1907157732224090547",
+        "created_at": "2025-04-02T00:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T01:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907235864130044288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1833176965433720832",
+              "start": 0,
+              "username": "hoshinoharu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907235864130044288",
+        "in_reply_to_user_id": "1833176965433720832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907157732224090547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinoharu5 伊藤润二女主来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833176965433720832",
+        "conversation_id": "1907157732224090547",
+        "created_at": "2025-04-01T19:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T20:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907157732224090547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907157732224090547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我昨天梦见脖子上长了一个巨大福寿螺…是因为我看到了一面小悬崖上全是各种大小的福寿螺，最大的有一间房子那么大，密密麻麻全是…我就在梦里大叫我操咋这么多福寿螺死爹了吧我操好恶心好恐怖啊啊啊啊啊好恶心，然后脖子上就长了福寿螺，我把福寿螺敲碎扯下来过后还去看医生了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902896494052773890/hrQl_6Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7141,
+          "following_count": 40,
+          "like_count": 619,
+          "listed_count": 17,
+          "media_count": 165,
+          "tweet_count": 946
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T16:13:50.000Z",
+        "description": "男的发私信死爹🤗给钱的不包括在内🤓不互转别烦我",
+        "id": "1833176965433720832",
+        "location": "太平洋",
+        "name": "我必神劵膨胀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833177677551030273/80zD1j-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 156,
+          "like_count": 2501,
+          "listed_count": 0,
+          "media_count": 434,
+          "tweet_count": 3099
+        },
+        "username": "hoshinoharu5",
+        "verified": false
+      }
+    ]
+  }
+}

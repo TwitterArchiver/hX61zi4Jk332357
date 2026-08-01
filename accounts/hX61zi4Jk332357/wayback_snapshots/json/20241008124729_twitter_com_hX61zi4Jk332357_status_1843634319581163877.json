@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1843605185597419849",
+    "created_at": "2024-10-08T12:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T13:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843634319581163877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1732436637999644679",
+          "start": 0,
+          "username": "wu_hurry46021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843634319581163877",
+    "in_reply_to_user_id": "1732436637999644679",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843627204812648560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu_hurry46021 求放过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1843605185597419849",
+        "created_at": "2024-10-08T12:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T13:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843634319581163877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1732436637999644679",
+              "start": 0,
+              "username": "wu_hurry46021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843634319581163877",
+        "in_reply_to_user_id": "1732436637999644679",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843627204812648560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_hurry46021 求放过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732436637999644679",
+        "conversation_id": "1843605185597419849",
+        "created_at": "2024-10-08T12:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T13:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843627204812648560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843627204812648560",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843605185597419849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 还就是直接追杀到你小号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "终了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831216069949698049/uq0rKUd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 7,
+          "like_count": 36,
+          "listed_count": 0,
+          "tweet_count": 48
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T16:27:46.000Z",
+        "description": "",
+        "id": "1732436637999644679",
+        "name": "hurry wu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732436758846115840/w6QDn5By_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 71,
+          "like_count": 10,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "wu_hurry46021",
+        "verified": false
+      }
+    ]
+  }
+}

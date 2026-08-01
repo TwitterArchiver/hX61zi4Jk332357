@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1938435280073081274",
+    "created_at": "2025-06-27T06:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T07:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938481953889783903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776452300816719872",
+          "start": 0,
+          "username": "VoiceMemoNo_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938481953889783903",
+    "in_reply_to_user_id": "1776452300816719872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938435280073081274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VoiceMemoNo_7 你还欠我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1938435271332401156",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gua0m-fbEAQ0OjJ.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1938435280073081274",
+        "created_at": "2025-06-27T06:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T07:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938481953889783903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776452300816719872",
+              "start": 0,
+              "username": "VoiceMemoNo_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938481953889783903",
+        "in_reply_to_user_id": "1776452300816719872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938435280073081274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VoiceMemoNo_7 你还欠我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938435271332401156"
+          ]
+        },
+        "author_id": "1776452300816719872",
+        "conversation_id": "1938435280073081274",
+        "created_at": "2025-06-27T03:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T04:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938435280073081274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbnhfK5Esl",
+              "end": 23,
+              "expanded_url": "https://x.com/VoiceMemoNo_7/status/1938435280073081274/photo/1",
+              "media_key": "3_1938435271332401156",
+              "start": 0,
+              "url": "https://t.co/kbnhfK5Esl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938435280073081274",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 610,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kbnhfK5Esl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8269,
+          "following_count": 59,
+          "like_count": 1132,
+          "listed_count": 19,
+          "media_count": 247,
+          "tweet_count": 1409
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T03:30:17.000Z",
+        "description": "｜寄生槲 @Lucifers6x｜小奶发育中…｜即要看见我的皮囊，也要看见我的内脏 ｜低精神力｜🚪666/7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Lucifers6x"
+              }
+            ]
+          }
+        },
+        "id": "1776452300816719872",
+        "name": "理江",
+        "pinned_tweet_id": "1938435280073081274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785944409064058880/eI9-8yzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27217,
+          "following_count": 206,
+          "like_count": 6622,
+          "listed_count": 87,
+          "media_count": 54,
+          "tweet_count": 2493
+        },
+        "username": "VoiceMemoNo_7",
+        "verified": false
+      }
+    ]
+  }
+}

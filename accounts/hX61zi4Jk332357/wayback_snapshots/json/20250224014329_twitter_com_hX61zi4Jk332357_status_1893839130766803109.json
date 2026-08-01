@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1893832933644861686",
+    "created_at": "2025-02-24T01:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T02:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893839130766803109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1584924761984880640",
+          "start": 0,
+          "username": "lizi_112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893839130766803109",
+    "in_reply_to_user_id": "1584924761984880640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893832933644861686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizi_112 请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1893832933644861686",
+        "created_at": "2025-02-24T01:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T02:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893839130766803109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1584924761984880640",
+              "start": 0,
+              "username": "lizi_112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893839130766803109",
+        "in_reply_to_user_id": "1584924761984880640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893832933644861686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizi_112 请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584924761984880640",
+        "conversation_id": "1893832933644861686",
+        "created_at": "2025-02-24T01:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T02:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893832933644861686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893832933644861686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一条沾了血不干净的内裤…..谁要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7070,
+          "following_count": 37,
+          "like_count": 437,
+          "listed_count": 16,
+          "media_count": 145,
+          "tweet_count": 725
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T15:08:25.000Z",
+        "description": "当朋友圈发",
+        "id": "1584924761984880640",
+        "name": "修女的李子神國",
+        "pinned_tweet_id": "1859940480194404842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843432603204128768/umlPoyro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8595,
+          "following_count": 210,
+          "like_count": 45,
+          "listed_count": 28,
+          "media_count": 271,
+          "tweet_count": 940
+        },
+        "username": "lizi_112",
+        "verified": false
+      }
+    ]
+  }
+}

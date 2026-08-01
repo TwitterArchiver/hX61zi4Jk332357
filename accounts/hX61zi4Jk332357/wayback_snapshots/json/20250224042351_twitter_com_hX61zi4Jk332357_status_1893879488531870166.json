@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1892790178369998972",
+    "created_at": "2025-02-24T04:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T05:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893879488531870166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787086493636521984",
+          "start": 0,
+          "username": "Lucifers6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893879488531870166",
+    "in_reply_to_user_id": "1787086493636521984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892790178369998972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucifers6x 哎 超级掉头发我在学校的时候洗澡一把一把地掉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1353,
+        "media_key": "3_1892790169855807492",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkSKoYybUAQez01.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1892790178369998972",
+        "created_at": "2025-02-24T04:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T05:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893879488531870166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787086493636521984",
+              "start": 0,
+              "username": "Lucifers6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893879488531870166",
+        "in_reply_to_user_id": "1787086493636521984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892790178369998972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucifers6x 哎 超级掉头发我在学校的时候洗澡一把一把地掉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892790169855807492"
+          ]
+        },
+        "author_id": "1787086493636521984",
+        "conversation_id": "1892790178369998972",
+        "created_at": "2025-02-21T04:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T05:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892790178369998972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LN4iuQhfhU",
+              "end": 45,
+              "expanded_url": "https://x.com/Lucifers6x/status/1892790178369998972/photo/1",
+              "media_key": "3_1892790169855807492",
+              "start": 22,
+              "url": "https://t.co/LN4iuQhfhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892790178369998972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前也这样吃一段时间感觉人都不对了才改了 https://t.co/LN4iuQhfhU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7092,
+          "following_count": 37,
+          "like_count": 438,
+          "listed_count": 16,
+          "media_count": 145,
+          "tweet_count": 727
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T11:46:45.000Z",
+        "description": "｜这不公平的命指使我来的｜人生理想是干一休二十｜",
+        "id": "1787086493636521984",
+        "location": "🚪0.001元",
+        "name": "在你的脉搏上跳舞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859107489100558338/doBDb22E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 164,
+          "like_count": 2812,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 2752
+        },
+        "username": "Lucifers6x",
+        "verified": false
+      }
+    ]
+  }
+}

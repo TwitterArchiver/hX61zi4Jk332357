@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1915227632884666368"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1915227684420079974",
+    "created_at": "2025-04-24T02:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T03:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915227684420079974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/agTZKKZQ54",
+          "end": 23,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1915227684420079974/photo/1",
+          "media_key": "16_1915227632884666368",
+          "start": 0,
+          "url": "https://t.co/agTZKKZQ54"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915227684420079974",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "https://t.co/agTZKKZQ54"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1915227632884666368",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GpRBYoIaUAArUGO.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GpRBYoIaUAArUGO.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1915227632884666368"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1915227684420079974",
+        "created_at": "2025-04-24T02:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T03:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915227684420079974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/agTZKKZQ54",
+              "end": 23,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1915227684420079974/photo/1",
+              "media_key": "16_1915227632884666368",
+              "start": 0,
+              "url": "https://t.co/agTZKKZQ54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915227684420079974",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/agTZKKZQ54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912718783745331200/T8ADO8XA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7810,
+          "following_count": 49,
+          "like_count": 762,
+          "listed_count": 19,
+          "media_count": 186,
+          "tweet_count": 1103
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

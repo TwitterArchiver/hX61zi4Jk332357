@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1881195606250848411",
+    "created_at": "2025-01-20T04:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T05:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881195606250848411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lznnnnn245019/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/lznnnnn245019/status/1880986213588545738",
+          "start": 15,
+          "url": "https://t.co/GYaElQBRRm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881195606250848411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880986213588545738",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "前任和我分手是因为我不恋丑了 https://t.co/GYaElQBRRm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1881195606250848411",
+        "created_at": "2025-01-20T04:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T05:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881195606250848411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lznnnnn245019/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/lznnnnn245019/status/1880986213588545738",
+              "start": 15,
+              "url": "https://t.co/GYaElQBRRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881195606250848411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880986213588545738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "前任和我分手是因为我不恋丑了 https://t.co/GYaElQBRRm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758498028552658944",
+        "conversation_id": "1880986213588545738",
+        "created_at": "2025-01-19T14:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880986213588545738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880986213588545738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前任和我分手是因为她不恋丑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879017865954967552/hlZE5YQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6288,
+          "following_count": 27,
+          "like_count": 285,
+          "listed_count": 13,
+          "media_count": 98,
+          "tweet_count": 408
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T14:26:22.000Z",
+        "description": "加好友🚪520 发口令红包纯绿https://t.co/1HZ2bIC5nz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lznnnnn245019?…",
+                "end": 38,
+                "expanded_url": "https://www.instagram.com/lznnnnn245019?igsh=MXcyYzg3bGtidzk4bw%3D%3D&utm_source=qr",
+                "start": 15,
+                "url": "https://t.co/1HZ2bIC5nz"
+              }
+            ]
+          }
+        },
+        "id": "1758498028552658944",
+        "name": "ε-(´∀｀; )",
+        "pinned_tweet_id": "1855210803114422544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868300186457698304/3Jc6Qcwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 178,
+          "like_count": 12894,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 3511
+        },
+        "username": "lznnnnn245019",
+        "verified": false
+      }
+    ]
+  }
+}

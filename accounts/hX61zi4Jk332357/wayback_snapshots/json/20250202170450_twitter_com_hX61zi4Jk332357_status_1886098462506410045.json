@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1886013737087230338",
+    "created_at": "2025-02-02T17:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T18:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886098462506410045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1734483664548118528",
+          "start": 0,
+          "username": "usd666666"
+        },
+        {
+          "end": 21,
+          "id": "1829609141649952768",
+          "start": 11,
+          "username": "wbuchishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886098462506410045",
+    "in_reply_to_user_id": "1734483664548118528",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886013737087230338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usd666666 @wbuchishi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1886013737087230338",
+        "created_at": "2025-02-02T17:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T18:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886098462506410045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1734483664548118528",
+              "start": 0,
+              "username": "usd666666"
+            },
+            {
+              "end": 21,
+              "id": "1829609141649952768",
+              "start": 11,
+              "username": "wbuchishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886098462506410045",
+        "in_reply_to_user_id": "1734483664548118528",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886013737087230338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usd666666 @wbuchishi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1886012581690900480"
+          ]
+        },
+        "author_id": "1734483664548118528",
+        "conversation_id": "1886013737087230338",
+        "created_at": "2025-02-02T11:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T12:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886013737087230338"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "色情片"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "多巴胺"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWMvXktiqS",
+              "end": 54,
+              "expanded_url": "https://x.com/usd666666/status/1886013737087230338/video/1",
+              "media_key": "7_1886012581690900480",
+              "start": 31,
+              "url": "https://t.co/SWMvXktiqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886013737087230338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 436,
+          "impression_count": 173331,
+          "like_count": 880,
+          "quote_count": 13,
+          "reply_count": 21,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "透过色情片成瘾者大脑，解读多巴胺成瘾机制 #色情片 #多巴胺 https://t.co/SWMvXktiqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6564,
+          "following_count": 34,
+          "like_count": 352,
+          "listed_count": 14,
+          "media_count": 118,
+          "tweet_count": 568
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T08:02:41.000Z",
+        "description": "小生一个凡夫俗子，前半生身世浮沉，书剑飘零，功名未遂，游于天竺，东瀛，阅世间之苦难，哀民生之多艰，以一人微薄之力，做一点力所能及之事，遂代购药品货真价实，童叟无欺，若有需求者，亦或愿备用者 TG: https://t.co/2zZ9vFmUH5 邮箱📮 USD666666@proton.me 宝藏知识博主，欢迎关注。提升自我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yyybyg",
+                "end": 122,
+                "expanded_url": "https://t.me/yyybyg",
+                "start": 99,
+                "url": "https://t.co/2zZ9vFmUH5"
+              }
+            ]
+          }
+        },
+        "id": "1734483664548118528",
+        "location": "Sydney, New South Wales",
+        "name": "全球🌍跨境药品代购.清关.批发",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734484883437981696/9bamBCQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50403,
+          "following_count": 238,
+          "like_count": 220,
+          "listed_count": 149,
+          "media_count": 1103,
+          "tweet_count": 5130
+        },
+        "username": "usd666666",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "ez",
+        "id": "1829609141649952768",
+        "name": "季節",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884832566500556800/cpJApxjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4101,
+          "following_count": 93,
+          "like_count": 4144,
+          "listed_count": 10,
+          "media_count": 33,
+          "tweet_count": 1887
+        },
+        "username": "wbuchishi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1984233421741432832",
+        "16_1984233471322275840"
+      ],
+      "media_source_tweet_id": [
+        "1984233629707595843",
+        "1984233629707595843"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1401934144238604294",
+          "name": "Pixel art"
+        }
+      }
+    ],
+    "conversation_id": "1984459566323786166",
+    "created_at": "2025-11-01T03:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T04:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984459566323786166"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "ドット絵"
+        },
+        {
+          "end": 28,
+          "start": 19,
+          "tag": "pixelart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "214449667",
+          "start": 3,
+          "username": "go_bo_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rAwhKjKOPw",
+          "end": 55,
+          "expanded_url": "https://x.com/go_bo_u/status/1984233629707595843/photo/1",
+          "media_key": "16_1984233421741432832",
+          "start": 32,
+          "url": "https://t.co/rAwhKjKOPw"
+        },
+        {
+          "display_url": "pic.x.com/rAwhKjKOPw",
+          "end": 55,
+          "expanded_url": "https://x.com/go_bo_u/status/1984233629707595843/photo/1",
+          "media_key": "16_1984233471322275840",
+          "start": 32,
+          "url": "https://t.co/rAwhKjKOPw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984459566323786166",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 764
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984233629707595843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @go_bo_u: #ドット絵 #pixelart\n:( https://t.co/rAwhKjKOPw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_1984233421741432832",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G4lpyL5bIAAhzvm.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G4lpyL5bIAAhzvm.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "16_1984233471322275840",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G4lp1EmawAARZT_.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G4lp1EmawAARZT_.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1984233421741432832",
+            "16_1984233471322275840"
+          ],
+          "media_source_tweet_id": [
+            "1984233629707595843",
+            "1984233629707595843"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401934144238604294",
+              "name": "Pixel art"
+            }
+          }
+        ],
+        "conversation_id": "1984459566323786166",
+        "created_at": "2025-11-01T03:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984459566323786166"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "ドット絵"
+            },
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "pixelart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "214449667",
+              "start": 3,
+              "username": "go_bo_u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAwhKjKOPw",
+              "end": 55,
+              "expanded_url": "https://x.com/go_bo_u/status/1984233629707595843/photo/1",
+              "media_key": "16_1984233421741432832",
+              "start": 32,
+              "url": "https://t.co/rAwhKjKOPw"
+            },
+            {
+              "display_url": "pic.x.com/rAwhKjKOPw",
+              "end": 55,
+              "expanded_url": "https://x.com/go_bo_u/status/1984233629707595843/photo/1",
+              "media_key": "16_1984233471322275840",
+              "start": 32,
+              "url": "https://t.co/rAwhKjKOPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984459566323786166",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 764
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984233629707595843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @go_bo_u: #ドット絵 #pixelart\n:( https://t.co/rAwhKjKOPw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1984233421741432832",
+            "16_1984233471322275840"
+          ]
+        },
+        "author_id": "214449667",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401934144238604294",
+              "name": "Pixel art"
+            }
+          }
+        ],
+        "conversation_id": "1984233629707595843",
+        "created_at": "2025-10-31T12:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984233629707595843"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ドット絵"
+            },
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "pixelart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAwhKjKOPw",
+              "end": 42,
+              "expanded_url": "https://x.com/go_bo_u/status/1984233629707595843/photo/1",
+              "media_key": "16_1984233421741432832",
+              "start": 19,
+              "url": "https://t.co/rAwhKjKOPw"
+            },
+            {
+              "display_url": "pic.x.com/rAwhKjKOPw",
+              "end": 42,
+              "expanded_url": "https://x.com/go_bo_u/status/1984233629707595843/photo/1",
+              "media_key": "16_1984233471322275840",
+              "start": 19,
+              "url": "https://t.co/rAwhKjKOPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984233629707595843",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 824,
+          "impression_count": 85252,
+          "like_count": 7260,
+          "quote_count": 11,
+          "reply_count": 12,
+          "retweet_count": 764
+        },
+        "reply_settings": "everyone",
+        "text": "#ドット絵 #pixelart\n:( https://t.co/rAwhKjKOPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10054,
+          "following_count": 79,
+          "like_count": 1843,
+          "listed_count": 23,
+          "media_count": 370,
+          "tweet_count": 1923
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-11T12:47:46.000Z",
+        "description": "ゆめにっきとドット絵が好き\nゲーム制作中\nhttps://t.co/aGjTsdapPp\nhttps://t.co/4uTRdFP9wT\nhttps://t.co/5rQwwRK1QP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/gobou0san/",
+                "end": 44,
+                "expanded_url": "http://youtube.com/user/gobou0san/",
+                "start": 21,
+                "url": "https://t.co/aGjTsdapPp"
+              },
+              {
+                "display_url": "nicovideo.jp/user/1231982",
+                "end": 68,
+                "expanded_url": "http://nicovideo.jp/user/1231982",
+                "start": 45,
+                "url": "https://t.co/4uTRdFP9wT"
+              },
+              {
+                "display_url": "pixiv.net/users/1137784",
+                "end": 92,
+                "expanded_url": "http://pixiv.net/users/1137784",
+                "start": 69,
+                "url": "https://t.co/5rQwwRK1QP"
+              }
+            ]
+          }
+        },
+        "id": "214449667",
+        "name": "牛蒡",
+        "pinned_tweet_id": "1881362040650101011",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33074,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 92,
+          "media_count": 80,
+          "tweet_count": 138
+        },
+        "username": "go_bo_u",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890335336028618752",
+        "3_1890335336037056512"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1890335346807705887",
+    "created_at": "2025-02-14T09:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T10:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890335346807705887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sUuwUoZeLY",
+          "end": 23,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1890335346807705887/photo/1",
+          "media_key": "3_1890335336028618752",
+          "start": 0,
+          "url": "https://t.co/sUuwUoZeLY"
+        },
+        {
+          "display_url": "pic.x.com/sUuwUoZeLY",
+          "end": 23,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1890335346807705887/photo/1",
+          "media_key": "3_1890335336037056512",
+          "start": 0,
+          "url": "https://t.co/sUuwUoZeLY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890335346807705887",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "https://t.co/sUuwUoZeLY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1890335336028618752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjvR-QJawAAkyBu.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1890335336037056512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjvR-QLbgAAA20d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890335336028618752",
+            "3_1890335336037056512"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1890335346807705887",
+        "created_at": "2025-02-14T09:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T10:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890335346807705887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUuwUoZeLY",
+              "end": 23,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1890335346807705887/photo/1",
+              "media_key": "3_1890335336028618752",
+              "start": 0,
+              "url": "https://t.co/sUuwUoZeLY"
+            },
+            {
+              "display_url": "pic.x.com/sUuwUoZeLY",
+              "end": 23,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1890335346807705887/photo/1",
+              "media_key": "3_1890335336037056512",
+              "start": 0,
+              "url": "https://t.co/sUuwUoZeLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890335346807705887",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/sUuwUoZeLY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6623,
+          "following_count": 36,
+          "like_count": 405,
+          "listed_count": 15,
+          "media_count": 134,
+          "tweet_count": 669
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

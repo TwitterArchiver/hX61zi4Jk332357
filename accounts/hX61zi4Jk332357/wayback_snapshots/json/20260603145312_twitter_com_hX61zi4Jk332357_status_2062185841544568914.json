@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062136498917646336"
+      ],
+      "media_source_tweet_id": [
+        "2062136509156012249"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2062185841544568914",
+    "created_at": "2026-06-03T14:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062185841544568914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1881922471630450688",
+          "start": 3,
+          "username": "lvseshan643"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mgkIWIIkBj",
+          "end": 40,
+          "expanded_url": "https://x.com/lvseshan643/status/2062136509156012249/video/1",
+          "media_key": "13_2062136498917646336",
+          "start": 17,
+          "url": "https://t.co/mgkIWIIkBj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062185841544568914",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062136509156012249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lvseshan643: https://t.co/mgkIWIIkBj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7625,
+        "height": 478,
+        "media_key": "13_2062136498917646336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062136498917646336/img/4yoH07HMVTOGUmh2.jpg",
+        "public_metrics": {
+          "view_count": 2571
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062136498917646336/vid/avc1/482x270/XIvbiQ39xQ-G4wkh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062136498917646336/vid/avc1/854x478/GAKtrAv9SGvcnRZn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062136498917646336/pl/DteuZ9RC7gD0Xgnf.m3u8"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062136498917646336"
+          ],
+          "media_source_tweet_id": [
+            "2062136509156012249"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2062185841544568914",
+        "created_at": "2026-06-03T14:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062185841544568914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881922471630450688",
+              "start": 3,
+              "username": "lvseshan643"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgkIWIIkBj",
+              "end": 40,
+              "expanded_url": "https://x.com/lvseshan643/status/2062136509156012249/video/1",
+              "media_key": "13_2062136498917646336",
+              "start": 17,
+              "url": "https://t.co/mgkIWIIkBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062185841544568914",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062136509156012249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lvseshan643: https://t.co/mgkIWIIkBj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062136498917646336"
+          ]
+        },
+        "author_id": "1881922471630450688",
+        "conversation_id": "2062136509156012249",
+        "created_at": "2026-06-03T11:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062136509156012249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgkIWIIkBj",
+              "end": 23,
+              "expanded_url": "https://x.com/lvseshan643/status/2062136509156012249/video/1",
+              "media_key": "13_2062136498917646336",
+              "start": 0,
+              "url": "https://t.co/mgkIWIIkBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062136509156012249",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 5547,
+          "like_count": 714,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mgkIWIIkBj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9192,
+          "following_count": 98,
+          "like_count": 2589,
+          "listed_count": 21,
+          "media_count": 489,
+          "tweet_count": 2333
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T04:31:08.000Z",
+        "description": "",
+        "id": "1881922471630450688",
+        "name": "绿色山2",
+        "pinned_tweet_id": "2032315727617970198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032459090992238592/CglKWg1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8152,
+          "following_count": 140,
+          "like_count": 5248,
+          "listed_count": 14,
+          "media_count": 158,
+          "tweet_count": 360
+        },
+        "username": "lvseshan643",
+        "verified": false
+      }
+    ]
+  }
+}

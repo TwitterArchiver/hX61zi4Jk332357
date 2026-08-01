@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1920382145203175424"
+      ],
+      "media_source_tweet_id": [
+        "1920382212157157380"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1920659624916607139",
+    "created_at": "2025-05-09T01:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T02:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920659624916607139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "97209551",
+          "start": 3,
+          "username": "kiss486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MduvuG4GH8",
+          "end": 47,
+          "expanded_url": "https://x.com/kiss486/status/1920382212157157380/video/1",
+          "media_key": "7_1920382145203175424",
+          "start": 24,
+          "url": "https://t.co/MduvuG4GH8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920659624916607139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 301
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920382212157157380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiss486: 中國小太妹越來越多。 https://t.co/MduvuG4GH8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48669,
+        "height": 1280,
+        "media_key": "7_1920382145203175424",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1920382145203175424/pu/img/T8vYUbESfBicQeTI.jpg",
+        "public_metrics": {
+          "view_count": 284918
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920382145203175424/pu/vid/avc1/320x568/nEVtvoymCaBY1uAe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920382145203175424/pu/vid/avc1/480x852/aafJeKaAlzTuww27.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920382145203175424/pu/vid/avc1/720x1280/uXVhbyUKb5IGg_6B.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1920382145203175424/pu/pl/f7fLUXbyb45K-kTm.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1920382145203175424"
+          ],
+          "media_source_tweet_id": [
+            "1920382212157157380"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1920659624916607139",
+        "created_at": "2025-05-09T01:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T02:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920659624916607139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "97209551",
+              "start": 3,
+              "username": "kiss486"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MduvuG4GH8",
+              "end": 47,
+              "expanded_url": "https://x.com/kiss486/status/1920382212157157380/video/1",
+              "media_key": "7_1920382145203175424",
+              "start": 24,
+              "url": "https://t.co/MduvuG4GH8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920659624916607139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 301
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920382212157157380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiss486: 中國小太妹越來越多。 https://t.co/MduvuG4GH8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1920382145203175424"
+          ]
+        },
+        "author_id": "97209551",
+        "conversation_id": "1920382212157157380",
+        "created_at": "2025-05-08T07:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T08:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920382212157157380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MduvuG4GH8",
+              "end": 34,
+              "expanded_url": "https://x.com/kiss486/status/1920382212157157380/video/1",
+              "media_key": "7_1920382145203175424",
+              "start": 11,
+              "url": "https://t.co/MduvuG4GH8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920382212157157380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 746,
+          "impression_count": 548870,
+          "like_count": 2443,
+          "quote_count": 32,
+          "reply_count": 178,
+          "retweet_count": 301
+        },
+        "reply_settings": "everyone",
+        "text": "中國小太妹越來越多。 https://t.co/MduvuG4GH8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8354,
+          "following_count": 50,
+          "like_count": 869,
+          "listed_count": 20,
+          "media_count": 204,
+          "tweet_count": 1226
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-16T13:35:03.000Z",
+        "description": "歡迎追蹤我的推特，掌握全球最新動態！\nFollow my Twitter for the latest global updates!\n世界の最新情報は私のTwitterでチェックしてください！\n日台友善関係が永遠に続きますように",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC8jYJ…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC8jYJr7i4I9BJ3tsv2f8kgw",
+                "start": 0,
+                "url": "https://t.co/JDF4Fk0wC9"
+              }
+            ]
+          }
+        },
+        "id": "97209551",
+        "location": "台北",
+        "name": "MR.486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223396348466102272/qjVxXs8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129868,
+          "following_count": 3571,
+          "like_count": 45203,
+          "listed_count": 387,
+          "media_count": 9233,
+          "tweet_count": 49690
+        },
+        "url": "https://t.co/JDF4Fk0wC9",
+        "username": "kiss486",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2068666881972793728",
+    "created_at": "2026-06-21T12:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068666881972793728"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068666881972793728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "面对不确定的话不预先经历一下最差的结局我都无法前走但经历完我感觉每天都快死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2068666881972793728",
+        "created_at": "2026-06-21T12:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068666881972793728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068666881972793728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "面对不确定的话不预先经历一下最差的结局我都无法前走但经历完我感觉每天都快死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9538,
+          "following_count": 99,
+          "like_count": 2612,
+          "listed_count": 21,
+          "media_count": 494,
+          "tweet_count": 2349
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

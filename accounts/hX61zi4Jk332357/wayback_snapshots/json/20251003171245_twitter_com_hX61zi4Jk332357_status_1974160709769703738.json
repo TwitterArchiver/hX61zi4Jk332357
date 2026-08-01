@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1974160709769703738",
+    "created_at": "2025-10-03T17:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T18:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974160709769703738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900518576781692928",
+          "start": 3,
+          "username": "07896_108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974160709769703738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974121129439867074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @07896_108: 纯白内裤是最色的 仅次于系带内裤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1974160709769703738",
+        "created_at": "2025-10-03T17:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T18:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974160709769703738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900518576781692928",
+              "start": 3,
+              "username": "07896_108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974160709769703738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974121129439867074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @07896_108: 纯白内裤是最色的 仅次于系带内裤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900518576781692928",
+        "conversation_id": "1974121129439867074",
+        "created_at": "2025-10-03T14:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T15:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974121129439867074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974121129439867074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "纯白内裤是最色的 仅次于系带内裤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1968252048396419216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8013,
+          "following_count": 69,
+          "like_count": 1639,
+          "listed_count": 20,
+          "media_count": 352,
+          "tweet_count": 1822
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T12:05:24.000Z",
+        "description": "只是在自说自话。",
+        "id": "1900518576781692928",
+        "location": "東京",
+        "name": "式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849329373925380/wqSp3nqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 197,
+          "like_count": 2270,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1086
+        },
+        "username": "07896_108",
+        "verified": false
+      }
+    ]
+  }
+}

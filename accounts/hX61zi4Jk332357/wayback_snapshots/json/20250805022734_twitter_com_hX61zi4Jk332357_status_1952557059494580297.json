@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952414235377434624"
+      ],
+      "media_source_tweet_id": [
+        "1952414240087646282"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1952557059494580297",
+    "created_at": "2025-08-05T02:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T03:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952557059494580297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "883085992370077697",
+          "start": 3,
+          "username": "ComradeAshenov"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l7DIyqEuQx",
+          "end": 52,
+          "expanded_url": "https://x.com/ComradeAshenov/status/1952414240087646282/photo/1",
+          "media_key": "3_1952414235377434624",
+          "start": 29,
+          "url": "https://t.co/l7DIyqEuQx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952557059494580297",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1921
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952414240087646282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ComradeAshenov: Adoption https://t.co/l7DIyqEuQx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3010,
+        "media_key": "3_1952414235377434624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxheZxoWgAAUQij.png",
+        "width": 2680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952414235377434624"
+          ],
+          "media_source_tweet_id": [
+            "1952414240087646282"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1952557059494580297",
+        "created_at": "2025-08-05T02:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T03:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952557059494580297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "883085992370077697",
+              "start": 3,
+              "username": "ComradeAshenov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7DIyqEuQx",
+              "end": 52,
+              "expanded_url": "https://x.com/ComradeAshenov/status/1952414240087646282/photo/1",
+              "media_key": "3_1952414235377434624",
+              "start": 29,
+              "url": "https://t.co/l7DIyqEuQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952557059494580297",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1921
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952414240087646282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ComradeAshenov: Adoption https://t.co/l7DIyqEuQx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952414235377434624"
+          ]
+        },
+        "author_id": "883085992370077697",
+        "conversation_id": "1952414240087646282",
+        "created_at": "2025-08-04T17:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T18:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952414240087646282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7DIyqEuQx",
+              "end": 32,
+              "expanded_url": "https://x.com/ComradeAshenov/status/1952414240087646282/photo/1",
+              "media_key": "3_1952414235377434624",
+              "start": 9,
+              "url": "https://t.co/l7DIyqEuQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952414240087646282",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2706,
+          "impression_count": 199636,
+          "like_count": 20698,
+          "quote_count": 98,
+          "reply_count": 25,
+          "retweet_count": 1921
+        },
+        "reply_settings": "everyone",
+        "text": "Adoption https://t.co/l7DIyqEuQx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8204,
+          "following_count": 62,
+          "like_count": 1292,
+          "listed_count": 20,
+          "media_count": 283,
+          "tweet_count": 1536
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-06T22:11:22.000Z",
+        "description": "hello everything!\nartist, musician and real life office lady, eater of all things sweet and drinker of all things ethyl | @Gexuma1 is my lovely wife💍💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 122,
+                "username": "Gexuma1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ashenov.straw.page",
+                "end": 23,
+                "expanded_url": "https://ashenov.straw.page/",
+                "start": 0,
+                "url": "https://t.co/iA92mZaE3w"
+              }
+            ]
+          }
+        },
+        "id": "883085992370077697",
+        "location": "Some works 🔞~",
+        "name": "ashenov",
+        "pinned_tweet_id": "1941939857552540074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830271318547107840/k9W5gPrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19397,
+          "following_count": 275,
+          "like_count": 59171,
+          "listed_count": 87,
+          "media_count": 2197,
+          "tweet_count": 12512
+        },
+        "url": "https://t.co/iA92mZaE3w",
+        "username": "ComradeAshenov",
+        "verified": false
+      }
+    ]
+  }
+}

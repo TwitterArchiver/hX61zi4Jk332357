@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1942600915053404293",
+    "created_at": "2025-07-08T15:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T16:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942604355804488132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1888833493",
+          "start": 0,
+          "username": "tanpenguin0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942604355804488132",
+    "in_reply_to_user_id": "1888833493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942603474480554124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanpenguin0615 你怎么知道我吃的就是这个、"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_1942603467878543360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvWDj8pXsAAfMnN.jpg",
+        "width": 1340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1942600915053404293",
+        "created_at": "2025-07-08T15:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942604355804488132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1888833493",
+              "start": 0,
+              "username": "tanpenguin0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942604355804488132",
+        "in_reply_to_user_id": "1888833493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942603474480554124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanpenguin0615 你怎么知道我吃的就是这个、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942603467878543360"
+          ]
+        },
+        "author_id": "1888833493",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942600915053404293",
+        "created_at": "2025-07-08T15:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942603474480554124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgODSgU8SA",
+              "end": 75,
+              "expanded_url": "https://x.com/tanpenguin0615/status/1942603474480554124/photo/1",
+              "media_key": "3_1942603467878543360",
+              "start": 52,
+              "url": "https://t.co/SgODSgU8SA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942603474480554124",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942600915053404293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 有请我们的盐酸羟嗪选手，作为抗组胺药，既能缓解过敏也能缓解抑郁焦虑。 https://t.co/SgODSgU8SA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8229,
+          "following_count": 58,
+          "like_count": 1171,
+          "listed_count": 19,
+          "media_count": 262,
+          "tweet_count": 1461
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T03:59:58.000Z",
+        "description": "交通哲学严肃音乐 理性有序适度节制",
+        "id": "1888833493",
+        "name": "谭企鹅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857617355788185600/qjwBRt0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 300,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 710,
+          "tweet_count": 1717
+        },
+        "username": "tanpenguin0615",
+        "verified": true
+      }
+    ]
+  }
+}

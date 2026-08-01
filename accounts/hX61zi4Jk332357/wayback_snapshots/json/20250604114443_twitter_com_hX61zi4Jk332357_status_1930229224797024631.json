@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930229207667523584",
+        "3_1930229208313409539"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1930229224797024631",
+    "created_at": "2025-06-04T11:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T12:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930229224797024631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1qnigI72jG",
+          "end": 32,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1930229224797024631/photo/1",
+          "media_key": "3_1930229207667523584",
+          "start": 9,
+          "url": "https://t.co/1qnigI72jG"
+        },
+        {
+          "display_url": "pic.x.com/1qnigI72jG",
+          "end": 32,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1930229224797024631/photo/1",
+          "media_key": "3_1930229208313409539",
+          "start": 9,
+          "url": "https://t.co/1qnigI72jG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930229224797024631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "又到了那个环节、 https://t.co/1qnigI72jG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930229207667523584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsmNPNIbQAAxuKe.jpg",
+        "width": 1552
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930229208313409539",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsmNPPiasAMXl-l.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930229207667523584",
+            "3_1930229208313409539"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930229224797024631",
+        "created_at": "2025-06-04T11:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T12:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930229224797024631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1qnigI72jG",
+              "end": 32,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1930229224797024631/photo/1",
+              "media_key": "3_1930229207667523584",
+              "start": 9,
+              "url": "https://t.co/1qnigI72jG"
+            },
+            {
+              "display_url": "pic.x.com/1qnigI72jG",
+              "end": 32,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1930229224797024631/photo/1",
+              "media_key": "3_1930229208313409539",
+              "start": 9,
+              "url": "https://t.co/1qnigI72jG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930229224797024631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "又到了那个环节、 https://t.co/1qnigI72jG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8322,
+          "following_count": 52,
+          "like_count": 1034,
+          "listed_count": 21,
+          "media_count": 227,
+          "tweet_count": 1335
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

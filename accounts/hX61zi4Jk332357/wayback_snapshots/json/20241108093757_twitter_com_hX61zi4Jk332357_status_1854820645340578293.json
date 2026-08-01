@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1854820645340578293",
+    "created_at": "2024-11-08T09:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T10:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854820645340578293"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1854820645340578293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人炼铜就会对自己下手然后炼自己本人恋姐就会对自己下手然后恋自己本人恋妹就会对自己下手然后恋自己。所以本人照片千奇百怪无所相像，只能说毫无固定风格也是一种风格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1854820645340578293",
+        "created_at": "2024-11-08T09:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T10:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854820645340578293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854820645340578293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人炼铜就会对自己下手然后炼自己本人恋姐就会对自己下手然后恋自己本人恋妹就会对自己下手然后恋自己。所以本人照片千奇百怪无所相像，只能说毫无固定风格也是一种风格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "失鹤池",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831216069949698049/uq0rKUd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 11,
+          "like_count": 65,
+          "listed_count": 3,
+          "tweet_count": 76
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

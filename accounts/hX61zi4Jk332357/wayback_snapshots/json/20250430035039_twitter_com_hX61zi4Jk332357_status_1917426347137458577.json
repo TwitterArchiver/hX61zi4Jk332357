@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1917421969110360187",
+    "created_at": "2025-04-30T03:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T04:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917426347137458577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1829915765023367168",
+          "start": 0,
+          "username": "miityx7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917426347137458577",
+    "in_reply_to_user_id": "1829915765023367168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917421969110360187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miityx7 よくできました"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1917421969110360187",
+        "created_at": "2025-04-30T03:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T04:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917426347137458577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1829915765023367168",
+              "start": 0,
+              "username": "miityx7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917426347137458577",
+        "in_reply_to_user_id": "1829915765023367168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917421969110360187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miityx7 よくできました"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829915765023367168",
+        "conversation_id": "1917421969110360187",
+        "created_at": "2025-04-30T03:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T04:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917421969110360187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917421969110360187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "承認欲求の塊すぎて死にたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8242,
+          "following_count": 50,
+          "like_count": 804,
+          "listed_count": 18,
+          "media_count": 195,
+          "tweet_count": 1164
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T16:14:59.000Z",
+        "description": "双極性 | 受験生 @bamguet_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "bamguet_7"
+              }
+            ]
+          }
+        },
+        "id": "1829915765023367168",
+        "name": "霞",
+        "pinned_tweet_id": "1910644724358406241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873065510214246400/VSCK5jW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 361,
+          "like_count": 9575,
+          "listed_count": 6,
+          "media_count": 54,
+          "tweet_count": 1697
+        },
+        "username": "miityx7",
+        "verified": false
+      }
+    ]
+  }
+}

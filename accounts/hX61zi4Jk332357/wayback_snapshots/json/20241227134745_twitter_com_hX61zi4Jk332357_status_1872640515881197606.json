@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1872625904683552780",
+    "created_at": "2024-12-27T13:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T14:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872640515881197606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1758498028552658944",
+          "start": 0,
+          "username": "lznnnnn245019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872640515881197606",
+    "in_reply_to_user_id": "1758498028552658944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872625904683552780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@lznnnnn245019 我想当布鲁斯韦恩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1872625904683552780",
+        "created_at": "2024-12-27T13:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T14:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872640515881197606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1758498028552658944",
+              "start": 0,
+              "username": "lznnnnn245019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872640515881197606",
+        "in_reply_to_user_id": "1758498028552658944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872625904683552780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@lznnnnn245019 我想当布鲁斯韦恩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758498028552658944",
+        "conversation_id": "1872625904683552780",
+        "created_at": "2024-12-27T12:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T13:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872625904683552780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872625904683552780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我不想当普女 但是普女命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872565485847638016/qdNAtQUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5907,
+          "following_count": 22,
+          "like_count": 177,
+          "listed_count": 12,
+          "media_count": 75,
+          "tweet_count": 254
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T14:26:22.000Z",
+        "description": "🚪88/188/520/1314陪聊无线下入（无上限 钱决定态度 https://t.co/1HZ2bIC5nz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lznnnnn245019?…",
+                "end": 56,
+                "expanded_url": "https://www.instagram.com/lznnnnn245019?igsh=MXcyYzg3bGtidzk4bw%3D%3D&utm_source=qr",
+                "start": 33,
+                "url": "https://t.co/1HZ2bIC5nz"
+              }
+            ]
+          }
+        },
+        "id": "1758498028552658944",
+        "name": "ε-(´∀｀; )",
+        "pinned_tweet_id": "1855210803114422544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868300186457698304/3Jc6Qcwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 184,
+          "like_count": 12153,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 3151
+        },
+        "username": "lznnnnn245019",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1921048535560036352"
+      ],
+      "media_source_tweet_id": [
+        "1921048610273177767"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1921145216624361961",
+    "created_at": "2025-05-10T10:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T11:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921145216624361961"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 45,
+          "tag": "メイドの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3158232896",
+          "start": 3,
+          "username": "mikemomonga"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZtXczuJTKd",
+          "end": 75,
+          "expanded_url": "https://x.com/mikemomonga/status/1921048610273177767/video/1",
+          "media_key": "13_1921048535560036352",
+          "start": 52,
+          "url": "https://t.co/ZtXczuJTKd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921145216624361961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7217
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921048610273177767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikemomonga: メイド服の中って実はめちゃめちゃ可愛いので全人類見て…\n#メイドの日 https://t.co/ZtXczuJTKd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17833,
+        "height": 1008,
+        "media_key": "13_1921048535560036352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921048535560036352/img/XF_bEolHuttPw66v.jpg",
+        "public_metrics": {
+          "view_count": 487930
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921048535560036352/vid/avc1/320x448/nCEuJJEEWc6IXWsN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921048535560036352/vid/avc1/480x672/6o0G9thtno2Y--X6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921048535560036352/vid/avc1/720x1008/OQevtcPm7iHyeEfx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921048535560036352/pl/HZOnzhomIkdgckeG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921048535560036352"
+          ],
+          "media_source_tweet_id": [
+            "1921048610273177767"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1921145216624361961",
+        "created_at": "2025-05-10T10:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T11:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921145216624361961"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "メイドの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3158232896",
+              "start": 3,
+              "username": "mikemomonga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtXczuJTKd",
+              "end": 75,
+              "expanded_url": "https://x.com/mikemomonga/status/1921048610273177767/video/1",
+              "media_key": "13_1921048535560036352",
+              "start": 52,
+              "url": "https://t.co/ZtXczuJTKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921145216624361961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7217
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921048610273177767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikemomonga: メイド服の中って実はめちゃめちゃ可愛いので全人類見て…\n#メイドの日 https://t.co/ZtXczuJTKd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921048535560036352"
+          ]
+        },
+        "author_id": "3158232896",
+        "conversation_id": "1921048610273177767",
+        "created_at": "2025-05-10T03:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T04:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921048610273177767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "メイドの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtXczuJTKd",
+              "end": 58,
+              "expanded_url": "https://x.com/mikemomonga/status/1921048610273177767/video/1",
+              "media_key": "13_1921048535560036352",
+              "start": 35,
+              "url": "https://t.co/ZtXczuJTKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921048610273177767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8320,
+          "impression_count": 1091663,
+          "like_count": 43659,
+          "quote_count": 283,
+          "reply_count": 38,
+          "retweet_count": 7217
+        },
+        "reply_settings": "everyone",
+        "text": "メイド服の中って実はめちゃめちゃ可愛いので全人類見て…\n#メイドの日 https://t.co/ZtXczuJTKd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8337,
+          "following_count": 50,
+          "like_count": 884,
+          "listed_count": 20,
+          "media_count": 204,
+          "tweet_count": 1238
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-15T21:32:11.000Z",
+        "description": "✧︎ illustrator✧︎manga artist✧︎maid\nhttps://t.co/b5d6Q1ZLrZ　\nhttps://t.co/mMSBwIHE2c",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/mikeyanagi",
+                "end": 58,
+                "expanded_url": "https://lit.link/mikeyanagi",
+                "start": 35,
+                "url": "https://t.co/b5d6Q1ZLrZ"
+              },
+              {
+                "display_url": "skeb.jp/@mikemomonga",
+                "end": 83,
+                "expanded_url": "https://skeb.jp/@mikemomonga",
+                "start": 60,
+                "url": "https://t.co/mMSBwIHE2c"
+              }
+            ]
+          }
+        },
+        "id": "3158232896",
+        "name": "ミケヤナギ",
+        "pinned_tweet_id": "1902654437493264384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1179635037202866176/fsYp0041_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8079,
+          "following_count": 1385,
+          "like_count": 44107,
+          "listed_count": 121,
+          "media_count": 242,
+          "tweet_count": 3249
+        },
+        "username": "mikemomonga",
+        "verified": false
+      }
+    ]
+  }
+}

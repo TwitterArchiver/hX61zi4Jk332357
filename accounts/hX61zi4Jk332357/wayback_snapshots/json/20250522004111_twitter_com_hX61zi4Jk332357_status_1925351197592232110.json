@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1925351197592232110",
+    "created_at": "2025-05-22T00:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T01:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925351197592232110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1725021971568545793",
+          "start": 3,
+          "username": "cen1462564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925351197592232110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925257546153304278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cen1462564: 像我这么病态极端的人 如果遇到一个无论如何都不会离开我会一直哄我的人就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1925351197592232110",
+        "created_at": "2025-05-22T00:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T01:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925351197592232110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1725021971568545793",
+              "start": 3,
+              "username": "cen1462564"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925351197592232110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925257546153304278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cen1462564: 像我这么病态极端的人 如果遇到一个无论如何都不会离开我会一直哄我的人就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725021971568545793",
+        "conversation_id": "1925257546153304278",
+        "created_at": "2025-05-21T18:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T19:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925257546153304278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925257546153304278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像我这么病态极端的人 如果遇到一个无论如何都不会离开我会一直哄我的人就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8322,
+          "following_count": 50,
+          "like_count": 956,
+          "listed_count": 20,
+          "media_count": 216,
+          "tweet_count": 1286
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T05:24:31.000Z",
+        "description": "",
+        "id": "1725021971568545793",
+        "name": "刀熏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801249694880002048/eGUtzJ4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 596,
+          "like_count": 3404,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 1549
+        },
+        "username": "cen1462564",
+        "verified": false
+      }
+    ]
+  }
+}

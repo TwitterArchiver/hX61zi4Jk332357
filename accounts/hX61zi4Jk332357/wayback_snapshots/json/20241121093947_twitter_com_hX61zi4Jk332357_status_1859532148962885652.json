@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859532133750145024"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1859532148962885652",
+    "created_at": "2024-11-21T09:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T10:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859532148962885652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kyggkm37vO",
+          "end": 23,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/1859532148962885652/photo/1",
+          "media_key": "3_1859532133750145024",
+          "start": 0,
+          "url": "https://t.co/Kyggkm37vO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859532148962885652",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Kyggkm37vO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1859532148962885652].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1859532148962885652",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1859532148962885652"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1859532133750145024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc5in5iaAAAYo5a.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "失鹤池",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1817123536332558775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831216069949698049/uq0rKUd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 11,
+          "like_count": 71,
+          "listed_count": 2,
+          "tweet_count": 98
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

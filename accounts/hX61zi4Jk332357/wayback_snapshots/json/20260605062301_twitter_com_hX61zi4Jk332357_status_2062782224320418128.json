@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2062782224320418128",
+    "created_at": "2026-06-05T06:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062782224320418128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641851761404018705",
+          "start": 3,
+          "username": "sengpt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062782224320418128",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 452
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062637357245911191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sengpt: bu kabusu bi tek ben gördüm sanıyordum meğer herkes görmüş.\n\nbu rüyayla ilgili hatırladıklarım;\n\n- çocukken genellikle ateşliyk…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2062782224320418128",
+        "created_at": "2026-06-05T06:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062782224320418128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641851761404018705",
+              "start": 3,
+              "username": "sengpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062782224320418128",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 452
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062637357245911191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sengpt: bu kabusu bi tek ben gördüm sanıyordum meğer herkes görmüş.\n\nbu rüyayla ilgili hatırladıklarım;\n\n- çocukken genellikle ateşliyk…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641851761404018705",
+        "conversation_id": "2062637357245911191",
+        "created_at": "2026-06-04T20:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T21:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062637357245911191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gusholderhaber…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/gusholderhaber/status/2062253203295445480",
+              "start": 280,
+              "url": "https://t.co/AR98RVsZI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062637357245911191",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {},
+          "text": "bu kabusu bi tek ben gördüm sanıyordum meğer herkes görmüş.\n\nbu rüyayla ilgili hatırladıklarım;\n\n- çocukken genellikle ateşliyken oluyordu\n- tam bi rüya gibi değil, yarı uyanık yarı uyur halde görüyordum\n- nesnenin ne olduğu önemsizdi o an\n- asıl his bir şeyin inanılmaz derecede büyümesi, ağırlaşması veya sonsuza kadar genişlemesiydi\n- yoğun bi huzursuzluk, panik ve \"bi yerde bi yanlışlık var\" hissi oluyordu\n- bazen gittikçe büyüyen bi ses ya da cızırtı da olurdu\n- sanki beynin ölçek kavramı bozuluyor gibiydi\n- büyüklükten çok, sonsuzluk hissi korkutucuydu\n\nhala hatırlıyorum ya çok ilginç"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2570,
+          "impression_count": 528496,
+          "like_count": 6025,
+          "quote_count": 148,
+          "reply_count": 186,
+          "retweet_count": 452
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062253203295445480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bu kabusu bi tek ben gördüm sanıyordum meğer herkes görmüş.\n\nbu rüyayla ilgili hatırladıklarım;\n\n- çocukken genellikle ateşliyken oluyordu\n- tam bi rüya gibi değil, yarı uyanık yarı uyur halde görüyordum\n- nesnenin ne olduğu önemsizdi o an\n- asıl his bir şeyin inanılmaz derecede https://t.co/AR98RVsZI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9188,
+          "following_count": 98,
+          "like_count": 2590,
+          "listed_count": 21,
+          "media_count": 489,
+          "tweet_count": 2336
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T17:15:52.000Z",
+        "description": "birtakım karamsal mizahlar.",
+        "id": "1641851761404018705",
+        "location": "İstanbul, Türkiye",
+        "name": "sengpt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988545653190897664/5xIRTcoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29318,
+          "following_count": 305,
+          "like_count": 6559,
+          "listed_count": 108,
+          "media_count": 520,
+          "tweet_count": 3074
+        },
+        "username": "sengpt",
+        "verified": true
+      }
+    ]
+  }
+}

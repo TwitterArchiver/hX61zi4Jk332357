@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920100763742932992"
+      ],
+      "media_source_tweet_id": [
+        "1920100778972492061"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1920342906558427317",
+    "created_at": "2025-05-08T05:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T06:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920342906558427317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1672957301177847810",
+          "start": 3,
+          "username": "vUwUv_zzZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hIFoLSNJpf",
+          "end": 38,
+          "expanded_url": "https://x.com/vUwUv_zzZ/status/1920100778972492061/photo/1",
+          "media_key": "3_1920100763742932992",
+          "start": 15,
+          "url": "https://t.co/hIFoLSNJpf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920342906558427317",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920100778972492061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vUwUv_zzZ: https://t.co/hIFoLSNJpf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920100763742932992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqWReLPakAAMMjm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920100763742932992"
+          ],
+          "media_source_tweet_id": [
+            "1920100778972492061"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1920342906558427317",
+        "created_at": "2025-05-08T05:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T06:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920342906558427317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1672957301177847810",
+              "start": 3,
+              "username": "vUwUv_zzZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIFoLSNJpf",
+              "end": 38,
+              "expanded_url": "https://x.com/vUwUv_zzZ/status/1920100778972492061/photo/1",
+              "media_key": "3_1920100763742932992",
+              "start": 15,
+              "url": "https://t.co/hIFoLSNJpf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920342906558427317",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920100778972492061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vUwUv_zzZ: https://t.co/hIFoLSNJpf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920100763742932992"
+          ]
+        },
+        "author_id": "1672957301177847810",
+        "conversation_id": "1920100778972492061",
+        "created_at": "2025-05-07T12:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T13:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920100778972492061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIFoLSNJpf",
+              "end": 23,
+              "expanded_url": "https://x.com/vUwUv_zzZ/status/1920100778972492061/photo/1",
+              "media_key": "3_1920100763742932992",
+              "start": 0,
+              "url": "https://t.co/hIFoLSNJpf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920100778972492061",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 10016,
+          "like_count": 1010,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hIFoLSNJpf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8340,
+          "following_count": 50,
+          "like_count": 856,
+          "listed_count": 20,
+          "media_count": 204,
+          "tweet_count": 1219
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T13:18:07.000Z",
+        "description": "☁️色々してる18歳┊︎アイコン、ヘッダー利用ご自由にどうぞ。#まおちゃんえ https://t.co/d2DmNAaANg",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 31,
+                "tag": "まおちゃんえ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@nono_miyazzz?…",
+                "end": 62,
+                "expanded_url": "https://youtube.com/@nono_miyazzz?si=P87W1ruEFbImZ3pb",
+                "start": 39,
+                "url": "https://t.co/d2DmNAaANg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/9M907OW050AK?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/20wL9a6URg"
+              }
+            ]
+          }
+        },
+        "id": "1672957301177847810",
+        "location": "😉▹︎",
+        "name": "野々宮まお@skeb募集中",
+        "pinned_tweet_id": "1898690445431165305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865742473005527040/GxmoeU7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4195,
+          "following_count": 356,
+          "like_count": 15563,
+          "listed_count": 29,
+          "media_count": 336,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/20wL9a6URg",
+        "username": "vUwUv_zzZ",
+        "verified": false
+      }
+    ]
+  }
+}

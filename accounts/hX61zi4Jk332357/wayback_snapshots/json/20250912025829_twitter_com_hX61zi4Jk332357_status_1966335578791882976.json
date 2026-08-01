@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1966334377039913297",
+    "created_at": "2025-09-12T02:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T03:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966335578791882976"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966335578791882976",
+    "in_reply_to_user_id": "1817120099528265728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966334377039913297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全无法入睡体验到了超载又疲惫地短暂休眠像死亡的体验卡..毫无知觉的黑屏加上毫无反应的死机…加上恐怖的惊醒…就算睡了三个小时就算吃了镇定现在还是全然的心脏暴动，焦虑恐慌在碾磨着交感神经..我想 我想休息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1966334377039913297",
+        "created_at": "2025-09-12T02:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966335578791882976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966335578791882976",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966334377039913297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全无法入睡体验到了超载又疲惫地短暂休眠像死亡的体验卡..毫无知觉的黑屏加上毫无反应的死机…加上恐怖的惊醒…就算睡了三个小时就算吃了镇定现在还是全然的心脏暴动，焦虑恐慌在碾磨着交感神经..我想 我想休息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050827376",
+              "name": "Fight or Flight? The Drunken Truth"
+            }
+          }
+        ],
+        "conversation_id": "1966334377039913297",
+        "created_at": "2025-09-12T02:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966334377039913297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966334377039913297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很痛苦地不幸地触发ptsd开始冻结应激fight or flight…。抽搐了四个小时后分泌的肾上腺素让我感觉身体和感官在尖叫..所有细小的声音像碾在我的大脑上所有触碰到被子的肌肤像在被火炭灼烧..。身体在过载和疲惫之间惨叫，持续了十四个小时..。感觉接近分崩离析能听见血管的跳动…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1925148201281360017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8120,
+          "following_count": 66,
+          "like_count": 1515,
+          "listed_count": 20,
+          "media_count": 326,
+          "tweet_count": 1722
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

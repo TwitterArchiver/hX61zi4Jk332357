@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2021629472487923854",
+    "created_at": "2026-02-12T14:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021956860191051852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1587606707739709440",
+          "start": 0,
+          "username": "_MaruyamaYuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021956860191051852",
+    "in_reply_to_user_id": "1587606707739709440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021917532492619825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_MaruyamaYuri TT…有人懂我就爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2021629472487923854",
+        "created_at": "2026-02-12T14:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021956860191051852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1587606707739709440",
+              "start": 0,
+              "username": "_MaruyamaYuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021956860191051852",
+        "in_reply_to_user_id": "1587606707739709440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021917532492619825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_MaruyamaYuri TT…有人懂我就爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587606707739709440",
+        "conversation_id": "2021629472487923854",
+        "created_at": "2026-02-12T12:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021917532492619825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021917532492619825",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021629472487923854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 天才吧。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9399,
+          "following_count": 91,
+          "like_count": 2281,
+          "listed_count": 20,
+          "media_count": 450,
+          "tweet_count": 2163
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T00:45:20.000Z",
+        "description": "🇨🇳｜中文/Eng/日语｜会发一些绘画/cos相关｜AI绝对禁止｜感谢关注 很高兴认识你！",
+        "id": "1587606707739709440",
+        "name": "丸山由里",
+        "pinned_tweet_id": "1683617793814728705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605219097364484096/quAOQrQT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 278,
+          "like_count": 2567,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 336
+        },
+        "username": "_MaruyamaYuri",
+        "verified": false
+      }
+    ]
+  }
+}

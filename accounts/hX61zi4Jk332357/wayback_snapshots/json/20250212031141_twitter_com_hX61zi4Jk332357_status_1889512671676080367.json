@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889280650009874432"
+      ],
+      "media_source_tweet_id": [
+        "1889280656284524902"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1889512671676080367",
+    "created_at": "2025-02-12T03:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T04:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889512671676080367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1439126456563474435",
+          "start": 3,
+          "username": "fucinami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s3CPGpYBjy",
+          "end": 37,
+          "expanded_url": "https://x.com/fucinami/status/1889280656284524902/photo/1",
+          "media_key": "3_1889280650009874432",
+          "start": 14,
+          "url": "https://t.co/s3CPGpYBjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889512671676080367",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 686
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889280656284524902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fucinami: https://t.co/s3CPGpYBjy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1889280650009874432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjgSvcjbkAAREDx.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889280650009874432"
+          ],
+          "media_source_tweet_id": [
+            "1889280656284524902"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1889512671676080367",
+        "created_at": "2025-02-12T03:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T04:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889512671676080367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1439126456563474435",
+              "start": 3,
+              "username": "fucinami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3CPGpYBjy",
+              "end": 37,
+              "expanded_url": "https://x.com/fucinami/status/1889280656284524902/photo/1",
+              "media_key": "3_1889280650009874432",
+              "start": 14,
+              "url": "https://t.co/s3CPGpYBjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889512671676080367",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 686
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889280656284524902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fucinami: https://t.co/s3CPGpYBjy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889280650009874432"
+          ]
+        },
+        "author_id": "1439126456563474435",
+        "conversation_id": "1889280656284524902",
+        "created_at": "2025-02-11T11:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T12:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889280656284524902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3CPGpYBjy",
+              "end": 23,
+              "expanded_url": "https://x.com/fucinami/status/1889280656284524902/photo/1",
+              "media_key": "3_1889280650009874432",
+              "start": 0,
+              "url": "https://t.co/s3CPGpYBjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889280656284524902",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 601,
+          "impression_count": 97237,
+          "like_count": 6330,
+          "quote_count": 49,
+          "reply_count": 15,
+          "retweet_count": 686
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s3CPGpYBjy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "沙扬娜拉",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1880605408609628232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6639,
+          "following_count": 37,
+          "like_count": 392,
+          "listed_count": 14,
+          "media_count": 133,
+          "tweet_count": 656
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-18T07:17:56.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/fuchina",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/fuchina",
+                "start": 0,
+                "url": "https://t.co/HW1z20Q2p9"
+              }
+            ]
+          }
+        },
+        "id": "1439126456563474435",
+        "name": "ふちな@2/16ｺﾐﾃｨｱ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888915700091375616/ZSsEWXDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47667,
+          "following_count": 97,
+          "like_count": 1679,
+          "listed_count": 284,
+          "media_count": 124,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/HW1z20Q2p9",
+        "username": "fucinami",
+        "verified": false
+      }
+    ]
+  }
+}

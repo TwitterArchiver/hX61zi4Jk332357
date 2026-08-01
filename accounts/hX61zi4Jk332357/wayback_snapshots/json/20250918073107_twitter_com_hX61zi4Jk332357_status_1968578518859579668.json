@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1968551992390767018",
+    "created_at": "2025-09-18T07:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T08:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968578518859579668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787086493636521984",
+          "start": 0,
+          "username": "Lucifers6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968578518859579668",
+    "in_reply_to_user_id": "1787086493636521984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968551992390767018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucifers6x 无法模仿出万分之一萌.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1360,
+        "media_key": "3_1968551980902617088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1GzmMeXkAALxY2.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1968551992390767018",
+        "created_at": "2025-09-18T07:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T08:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968578518859579668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787086493636521984",
+              "start": 0,
+              "username": "Lucifers6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968578518859579668",
+        "in_reply_to_user_id": "1787086493636521984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968551992390767018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucifers6x 无法模仿出万分之一萌.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968551980902617088"
+          ]
+        },
+        "author_id": "1787086493636521984",
+        "conversation_id": "1968551992390767018",
+        "created_at": "2025-09-18T05:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T06:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968551992390767018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/693GCvwUfc",
+              "end": 36,
+              "expanded_url": "https://x.com/Lucifers6x/status/1968551992390767018/photo/1",
+              "media_key": "3_1968551980902617088",
+              "start": 13,
+              "url": "https://t.co/693GCvwUfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968551992390767018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好哦大人给我画的我的宝宝 https://t.co/693GCvwUfc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1925148201281360017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8111,
+          "following_count": 68,
+          "like_count": 1562,
+          "listed_count": 20,
+          "media_count": 335,
+          "tweet_count": 1754
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T11:46:45.000Z",
+        "description": "｜这不公平的命指使我来的｜人生理想是干一休二十｜现在的理想是捡到一条十万的项链然后卖掉｜",
+        "id": "1787086493636521984",
+        "location": "under ur skin",
+        "name": "文静7803",
+        "pinned_tweet_id": "1961471159628951752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941563908235395072/yxW678I__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 173,
+          "like_count": 3721,
+          "listed_count": 6,
+          "media_count": 97,
+          "tweet_count": 1531
+        },
+        "username": "Lucifers6x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1907687263158546473",
+    "created_at": "2025-04-03T09:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T10:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907730806132339016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1661419755864211456",
+          "start": 0,
+          "username": "xueli333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907730806132339016",
+    "in_reply_to_user_id": "1661419755864211456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907687263158546473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xueli333 你怎么变s4i了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1907687263158546473",
+        "created_at": "2025-04-03T09:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T10:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907730806132339016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1661419755864211456",
+              "start": 0,
+              "username": "xueli333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907730806132339016",
+        "in_reply_to_user_id": "1661419755864211456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907687263158546473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xueli333 你怎么变s4i了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661419755864211456",
+        "conversation_id": "1907687263158546473",
+        "created_at": "2025-04-03T06:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T07:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907687263158546473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907687263158546473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要点陪聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902896494052773890/hrQl_6Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7140,
+          "following_count": 41,
+          "like_count": 630,
+          "listed_count": 17,
+          "media_count": 168,
+          "tweet_count": 966
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T17:11:53.000Z",
+        "description": "s/4i🚪188/288/520/1314",
+        "id": "1661419755864211456",
+        "location": "江浙沪猫窝",
+        "name": "我见过很多天才 他们都叫我门槛",
+        "pinned_tweet_id": "1897651284167307619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906966918524989440/EIaT-qOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20960,
+          "following_count": 195,
+          "like_count": 386,
+          "listed_count": 22,
+          "media_count": 51,
+          "tweet_count": 725
+        },
+        "username": "xueli333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2064921718708387840"
+      ],
+      "media_source_tweet_id": [
+        "2064921747196162342"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065113666446614540",
+    "created_at": "2026-06-11T16:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065113666446614540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "910859294794440705",
+          "start": 3,
+          "username": "N_haruyoshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R450qblQMT",
+          "end": 40,
+          "expanded_url": "https://x.com/N_haruyoshi/status/2064921747196162342/photo/1",
+          "media_key": "16_2064921718708387840",
+          "start": 17,
+          "url": "https://t.co/R450qblQMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065113666446614540",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064921747196162342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @N_haruyoshi: https://t.co/R450qblQMT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "16_2064921718708387840",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKgTXNyaQAAqdMs.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKgTXNyaQAAqdMs.mp4"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2064921718708387840"
+          ],
+          "media_source_tweet_id": [
+            "2064921747196162342"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065113666446614540",
+        "created_at": "2026-06-11T16:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065113666446614540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "910859294794440705",
+              "start": 3,
+              "username": "N_haruyoshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R450qblQMT",
+              "end": 40,
+              "expanded_url": "https://x.com/N_haruyoshi/status/2064921747196162342/photo/1",
+              "media_key": "16_2064921718708387840",
+              "start": 17,
+              "url": "https://t.co/R450qblQMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065113666446614540",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064921747196162342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @N_haruyoshi: https://t.co/R450qblQMT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2064921718708387840"
+          ]
+        },
+        "author_id": "910859294794440705",
+        "conversation_id": "2064921747196162342",
+        "created_at": "2026-06-11T04:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064921747196162342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R450qblQMT",
+              "end": 23,
+              "expanded_url": "https://x.com/N_haruyoshi/status/2064921747196162342/photo/1",
+              "media_key": "16_2064921718708387840",
+              "start": 0,
+              "url": "https://t.co/R450qblQMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064921747196162342",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 279,
+          "impression_count": 23403,
+          "like_count": 1624,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/R450qblQMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9518,
+          "following_count": 97,
+          "like_count": 2598,
+          "listed_count": 21,
+          "media_count": 491,
+          "tweet_count": 2345
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-21T13:32:33.000Z",
+        "description": "依頼受付停止中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haruyoshi-nagae.com/gallery",
+                "end": 23,
+                "expanded_url": "https://haruyoshi-nagae.com/gallery",
+                "start": 0,
+                "url": "https://t.co/oJFl20iVoh"
+              }
+            ]
+          }
+        },
+        "id": "910859294794440705",
+        "name": "長江 春芳",
+        "pinned_tweet_id": "1997895751180136508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039291216203010049/q5iL7Mw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32839,
+          "following_count": 2123,
+          "like_count": 185077,
+          "listed_count": 317,
+          "media_count": 3576,
+          "tweet_count": 10877
+        },
+        "url": "https://t.co/oJFl20iVoh",
+        "username": "N_haruyoshi",
+        "verified": false
+      }
+    ]
+  }
+}

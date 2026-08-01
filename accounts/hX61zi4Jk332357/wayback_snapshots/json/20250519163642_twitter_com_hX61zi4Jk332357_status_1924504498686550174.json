@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1924501471208579577",
+    "created_at": "2025-05-19T16:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T17:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924504498686550174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787086493636521984",
+          "start": 0,
+          "username": "Lucifers6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924504498686550174",
+    "in_reply_to_user_id": "1787086493636521984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924501471208579577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucifers6x 老爷 又画画上了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924501461553311744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrUz4gGa8AAQ5JR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1924501471208579577",
+        "created_at": "2025-05-19T16:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924504498686550174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787086493636521984",
+              "start": 0,
+              "username": "Lucifers6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924504498686550174",
+        "in_reply_to_user_id": "1787086493636521984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924501471208579577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucifers6x 老爷 又画画上了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924501461553311744"
+          ]
+        },
+        "author_id": "1787086493636521984",
+        "conversation_id": "1924501471208579577",
+        "created_at": "2025-05-19T16:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924501471208579577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tdk27NM6b6",
+              "end": 35,
+              "expanded_url": "https://x.com/Lucifers6x/status/1924501471208579577/photo/1",
+              "media_key": "3_1924501461553311744",
+              "start": 12,
+              "url": "https://t.co/tdk27NM6b6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924501471208579577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是小乔穿妲己衣服吗 https://t.co/tdk27NM6b6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8321,
+          "following_count": 49,
+          "like_count": 939,
+          "listed_count": 20,
+          "media_count": 214,
+          "tweet_count": 1276
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T11:46:45.000Z",
+        "description": "｜这不公平的命指使我来的｜人生理想是干一休二十｜现在的理想是捡到一条十万的梵克雅宝项链然后卖掉｜请拥抱@illumimnhAg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "illumimnhAg"
+              }
+            ]
+          }
+        },
+        "id": "1787086493636521984",
+        "location": "你的皮肤下",
+        "name": "在你的脉搏中起舞",
+        "pinned_tweet_id": "1912477053049319587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859107489100558338/doBDb22E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 171,
+          "like_count": 3265,
+          "listed_count": 5,
+          "media_count": 245,
+          "tweet_count": 3372
+        },
+        "username": "Lucifers6x",
+        "verified": false
+      }
+    ]
+  }
+}

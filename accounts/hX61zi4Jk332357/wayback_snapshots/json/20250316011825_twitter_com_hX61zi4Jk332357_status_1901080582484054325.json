@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1901080582484054325",
+    "created_at": "2025-03-16T01:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T02:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901080582484054325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vampirebatk/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/vampirebatk/status/1900853810949423568",
+          "start": 9,
+          "url": "https://t.co/ZLFxDLJOPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901080582484054325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900853810949423568",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "vamp我要转学 https://t.co/ZLFxDLJOPC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1548,
+        "media_key": "3_1900853803848790018",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmEwdqRbcAIGsY2.jpg",
+        "width": 2185
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1901080582484054325",
+        "created_at": "2025-03-16T01:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T02:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901080582484054325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vampirebatk/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/vampirebatk/status/1900853810949423568",
+              "start": 9,
+              "url": "https://t.co/ZLFxDLJOPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901080582484054325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900853810949423568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "vamp我要转学 https://t.co/ZLFxDLJOPC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900853803848790018"
+          ]
+        },
+        "author_id": "1386005995667685376",
+        "conversation_id": "1900853810949423568",
+        "created_at": "2025-03-15T10:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T11:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900853810949423568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KG3YbD5pUE",
+              "end": 32,
+              "expanded_url": "https://x.com/VAMPIREBATK/status/1900853810949423568/photo/1",
+              "media_key": "3_1900853803848790018",
+              "start": 9,
+              "url": "https://t.co/KG3YbD5pUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900853810949423568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 696,
+          "impression_count": 596836,
+          "like_count": 20614,
+          "quote_count": 134,
+          "reply_count": 0,
+          "retweet_count": 459
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "3年間ありがとう https://t.co/KG3YbD5pUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897543158390837248/A6uvGnhl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7145,
+          "following_count": 37,
+          "like_count": 530,
+          "listed_count": 17,
+          "media_count": 150,
+          "tweet_count": 832
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T17:16:10.000Z",
+        "description": "†コス垢@vamp_kurosu __†【お仕事のご依頼】DM orメール✧︎kurosu44v@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "vamp_kurosu"
+              }
+            ]
+          }
+        },
+        "id": "1386005995667685376",
+        "name": "VAMP",
+        "pinned_tweet_id": "1765415943877054831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850933534351142912/d8Fc81nI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109762,
+          "following_count": 15,
+          "like_count": 3030,
+          "listed_count": 139,
+          "media_count": 128,
+          "tweet_count": 361
+        },
+        "username": "VAMPIREBATK",
+        "verified": false
+      }
+    ]
+  }
+}

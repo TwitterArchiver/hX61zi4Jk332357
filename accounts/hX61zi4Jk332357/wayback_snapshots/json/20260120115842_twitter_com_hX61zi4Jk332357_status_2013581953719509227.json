@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2013534523175125426",
+    "created_at": "2026-01-20T11:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T12:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013581953719509227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558547901164318728",
+          "start": 0,
+          "username": "saiyadayoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013581953719509227",
+    "in_reply_to_user_id": "1558547901164318728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013534523175125426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saiyadayoo 我会告诉你妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2013534523175125426",
+        "created_at": "2026-01-20T11:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T12:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013581953719509227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558547901164318728",
+              "start": 0,
+              "username": "saiyadayoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013581953719509227",
+        "in_reply_to_user_id": "1558547901164318728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013534523175125426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saiyadayoo 我会告诉你妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558547901164318728",
+        "conversation_id": "2013534523175125426",
+        "created_at": "2026-01-20T08:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T09:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013534523175125426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013534523175125426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伏硫西汀能O嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9550,
+          "following_count": 91,
+          "like_count": 2204,
+          "listed_count": 20,
+          "media_count": 437,
+          "tweet_count": 2122
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T20:16:01.000Z",
+        "description": "結果是我又出現在這裡",
+        "id": "1558547901164318728",
+        "location": "天堂",
+        "name": "ʚ✞ɞ",
+        "pinned_tweet_id": "2000234744479678542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 375,
+          "like_count": 20960,
+          "listed_count": 0,
+          "media_count": 440,
+          "tweet_count": 10300
+        },
+        "username": "saiyadayoo",
+        "verified": false
+      }
+    ]
+  }
+}

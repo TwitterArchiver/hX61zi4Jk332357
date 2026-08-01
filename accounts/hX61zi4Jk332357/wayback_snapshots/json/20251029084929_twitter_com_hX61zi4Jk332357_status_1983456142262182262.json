@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1983421218868060433",
+    "created_at": "2025-10-29T08:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T09:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983456142262182262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976964067459002368",
+          "start": 0,
+          "username": "trenihelix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983456142262182262",
+    "in_reply_to_user_id": "1976964067459002368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983421218868060433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trenihelix 被surprise到、、、"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 190923,
+        "height": 360,
+        "media_key": "13_1983421047526567938",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983421047526567938/img/ENj35PK0gscMjRSV.jpg",
+        "public_metrics": {
+          "view_count": 50
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983421047526567938/vid/avc1/480x270/S3vvzFpBQoqu18MF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983421047526567938/vid/avc1/642x360/QSGPAZhxz81xnIRM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983421047526567938/pl/pCm_EDG_CRZv2XXr.m3u8"
+          }
+        ],
+        "width": 642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1983421218868060433",
+        "created_at": "2025-10-29T08:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T09:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983456142262182262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976964067459002368",
+              "start": 0,
+              "username": "trenihelix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983456142262182262",
+        "in_reply_to_user_id": "1976964067459002368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983421218868060433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trenihelix 被surprise到、、、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983421047526567938"
+          ]
+        },
+        "author_id": "1976964067459002368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Radiohead",
+              "id": "821793300172505088",
+              "name": "Radiohead"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Radiohead",
+              "id": "821793300172505088",
+              "name": "Radiohead"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Radiohead",
+              "id": "821793300172505088",
+              "name": "Radiohead"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          }
+        ],
+        "conversation_id": "1983421218868060433",
+        "created_at": "2025-10-29T06:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T07:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983421218868060433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXjvXhzsgV",
+              "end": 172,
+              "expanded_url": "https://x.com/trenihelix/status/1983421218868060433/video/1",
+              "media_key": "13_1983421047526567938",
+              "start": 149,
+              "url": "https://t.co/OXjvXhzsgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983421218868060433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素未谋面的同学邀请内向的我一起吃饭、听她弹钢琴。\n她问我听什么，我很紧张，随便说我听queen和radiohead，于是她找了一首radiohead的歌视奏，我跟着唱。\n她提议我拍个视频。我有些跟不上的地方，但是整体还挺不错。\n她第二遍弹就这么流畅，好厉害；我和素未谋面的同学社交并唱歌，好厉害) https://t.co/OXjvXhzsgV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10095,
+          "following_count": 79,
+          "like_count": 1822,
+          "listed_count": 23,
+          "media_count": 370,
+          "tweet_count": 1912
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T10:52:27.000Z",
+        "description": "",
+        "id": "1976964067459002368",
+        "name": "treni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976965274478993408/XccuI8py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 51,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 84
+        },
+        "username": "trenihelix",
+        "verified": false
+      }
+    ]
+  }
+}

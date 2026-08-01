@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028153803531276288"
+      ],
+      "media_source_tweet_id": [
+        "2028153813408817406"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2028333465889042866",
+    "created_at": "2026-03-02T04:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T05:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028333465889042866"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "Laios",
+          "probability": 0.6782,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 74,
+          "normalized_text": "farcille",
+          "probability": 0.5399,
+          "start": 67,
+          "type": "Other"
+        },
+        {
+          "end": 88,
+          "normalized_text": "dungeonmeshi",
+          "probability": 0.5858,
+          "start": 77,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 66,
+          "tag": "farcille"
+        },
+        {
+          "end": 89,
+          "start": 76,
+          "tag": "dungeonmeshi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1157659396727595008",
+          "start": 3,
+          "username": "AngryMiloras"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FtfdgvE13R",
+          "end": 113,
+          "expanded_url": "https://x.com/AngryMiloras/status/2028153813408817406/photo/1",
+          "media_key": "3_2028153803531276288",
+          "start": 90,
+          "url": "https://t.co/FtfdgvE13R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028333465889042866",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4317
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028153813408817406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngryMiloras: Laios, let the girls play their (video) games 😞\n#farcille #dungeonmeshi https://t.co/FtfdgvE13R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028153803531276288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVzI4FW0AAGmcz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028153803531276288"
+          ],
+          "media_source_tweet_id": [
+            "2028153813408817406"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2028333465889042866",
+        "created_at": "2026-03-02T04:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028333465889042866"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Laios",
+              "probability": 0.6782,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "farcille",
+              "probability": 0.5399,
+              "start": 67,
+              "type": "Other"
+            },
+            {
+              "end": 88,
+              "normalized_text": "dungeonmeshi",
+              "probability": 0.5858,
+              "start": 77,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 66,
+              "tag": "farcille"
+            },
+            {
+              "end": 89,
+              "start": 76,
+              "tag": "dungeonmeshi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1157659396727595008",
+              "start": 3,
+              "username": "AngryMiloras"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtfdgvE13R",
+              "end": 113,
+              "expanded_url": "https://x.com/AngryMiloras/status/2028153813408817406/photo/1",
+              "media_key": "3_2028153803531276288",
+              "start": 90,
+              "url": "https://t.co/FtfdgvE13R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028333465889042866",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4317
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028153813408817406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngryMiloras: Laios, let the girls play their (video) games 😞\n#farcille #dungeonmeshi https://t.co/FtfdgvE13R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028153803531276288"
+          ]
+        },
+        "author_id": "1157659396727595008",
+        "conversation_id": "2028153813408817406",
+        "created_at": "2026-03-01T17:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T18:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028153813408817406"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Laios",
+              "probability": 0.5774,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "farcille",
+              "probability": 0.5729,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "dungeonmeshi",
+              "probability": 0.6358,
+              "start": 59,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 48,
+              "tag": "farcille"
+            },
+            {
+              "end": 71,
+              "start": 58,
+              "tag": "dungeonmeshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtfdgvE13R",
+              "end": 95,
+              "expanded_url": "https://x.com/AngryMiloras/status/2028153813408817406/photo/1",
+              "media_key": "3_2028153803531276288",
+              "start": 72,
+              "url": "https://t.co/FtfdgvE13R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028153813408817406",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6108,
+          "impression_count": 394415,
+          "like_count": 50121,
+          "quote_count": 25,
+          "reply_count": 31,
+          "retweet_count": 4317
+        },
+        "reply_settings": "everyone",
+        "text": "Laios, let the girls play their (video) games 😞\n#farcille #dungeonmeshi https://t.co/FtfdgvE13R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719783198765056/N4QO0a12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9379,
+          "following_count": 97,
+          "like_count": 2299,
+          "listed_count": 20,
+          "media_count": 454,
+          "tweet_count": 2190
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-03T14:28:03.000Z",
+        "description": "🇰🇬/ 🚫18+/ draw for fun!/ comms are closed / thank you sm for ur support!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/AngryMiloras?u…",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/AngryMiloras?utm_campaign=creatorshare_creator",
+                "start": 0,
+                "url": "https://t.co/Wfcggrg5jf"
+              }
+            ]
+          }
+        },
+        "id": "1157659396727595008",
+        "name": "miloras🇰🇬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974152087438307329/n-YymoLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200879,
+          "following_count": 260,
+          "like_count": 19881,
+          "listed_count": 361,
+          "media_count": 511,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/Wfcggrg5jf",
+        "username": "AngryMiloras",
+        "verified": false
+      }
+    ]
+  }
+}

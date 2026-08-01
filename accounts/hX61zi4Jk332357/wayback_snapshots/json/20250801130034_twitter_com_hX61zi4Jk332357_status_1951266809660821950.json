@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1951266809660821950",
+    "created_at": "2025-08-01T13:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T14:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951266809660821950"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1951266809660821950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前和松鼠说恢复创伤的过程像断奶期，就算只有奶嘴也会想吮咬来安心…。现在感觉譬喻还是太温和了，现在我只觉得像在戒毒…。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1951266809660821950",
+        "created_at": "2025-08-01T13:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T14:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951266809660821950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951266809660821950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前和松鼠说恢复创伤的过程像断奶期，就算只有奶嘴也会想吮咬来安心…。现在感觉譬喻还是太温和了，现在我只觉得像在戒毒…。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8217,
+          "following_count": 62,
+          "like_count": 1281,
+          "listed_count": 20,
+          "media_count": 284,
+          "tweet_count": 1532
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

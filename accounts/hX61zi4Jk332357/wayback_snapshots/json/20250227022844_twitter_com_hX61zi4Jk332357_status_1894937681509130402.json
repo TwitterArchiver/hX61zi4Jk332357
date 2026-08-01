@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894578234831872000"
+      ],
+      "media_source_tweet_id": [
+        "1894578237797200352"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1894937681509130402",
+    "created_at": "2025-02-27T02:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T03:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894937681509130402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1748478702906646529",
+          "start": 3,
+          "username": "yuyuslivestream"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S7PX8gtCpd",
+          "end": 64,
+          "expanded_url": "https://x.com/yuyuslivestream/status/1894578237797200352/photo/1",
+          "media_key": "3_1894578234831872000",
+          "start": 41,
+          "url": "https://t.co/S7PX8gtCpd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894937681509130402",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2047
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894578237797200352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyuslivestream: is it all worth it… https://t.co/S7PX8gtCpd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_1894578234831872000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkrk3d5XIAAdn_l.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894578234831872000"
+          ],
+          "media_source_tweet_id": [
+            "1894578237797200352"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1894937681509130402",
+        "created_at": "2025-02-27T02:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T03:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894937681509130402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1748478702906646529",
+              "start": 3,
+              "username": "yuyuslivestream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7PX8gtCpd",
+              "end": 64,
+              "expanded_url": "https://x.com/yuyuslivestream/status/1894578237797200352/photo/1",
+              "media_key": "3_1894578234831872000",
+              "start": 41,
+              "url": "https://t.co/S7PX8gtCpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894937681509130402",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2047
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894578237797200352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyuslivestream: is it all worth it… https://t.co/S7PX8gtCpd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894578234831872000"
+          ]
+        },
+        "author_id": "1748478702906646529",
+        "conversation_id": "1894578237797200352",
+        "created_at": "2025-02-26T02:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T03:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894578237797200352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7PX8gtCpd",
+              "end": 43,
+              "expanded_url": "https://x.com/yuyuslivestream/status/1894578237797200352/photo/1",
+              "media_key": "3_1894578234831872000",
+              "start": 20,
+              "url": "https://t.co/S7PX8gtCpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894578237797200352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 843,
+          "impression_count": 143243,
+          "like_count": 15683,
+          "quote_count": 64,
+          "reply_count": 40,
+          "retweet_count": 2047
+        },
+        "reply_settings": "everyone",
+        "text": "is it all worth it… https://t.co/S7PX8gtCpd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "口欲期",
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884264684708319232/8RGhi5ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7183,
+          "following_count": 37,
+          "like_count": 462,
+          "listed_count": 17,
+          "media_count": 146,
+          "tweet_count": 762
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T22:53:10.000Z",
+        "description": "youtuber",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yudoufu.carrd.co",
+                "end": 23,
+                "expanded_url": "https://yudoufu.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/udicdkbMYj"
+              }
+            ]
+          }
+        },
+        "id": "1748478702906646529",
+        "location": "ny",
+        "name": "yuyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852443042965245952/XVWo5y4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22411,
+          "following_count": 196,
+          "like_count": 1514,
+          "listed_count": 8,
+          "media_count": 220,
+          "tweet_count": 1152
+        },
+        "url": "https://t.co/udicdkbMYj",
+        "username": "yuyuslivestream",
+        "verified": false
+      }
+    ]
+  }
+}

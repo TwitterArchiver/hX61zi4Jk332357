@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898314235559792641"
+      ],
+      "media_source_tweet_id": [
+        "1898314244895977712"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1898560028824740307",
+    "created_at": "2025-03-09T02:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T03:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898560028824740307"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 55,
+          "normalized_text": "Arlefuri",
+          "probability": 0.5225,
+          "start": 48,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 47,
+          "tag": "Arlefuri"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1354035874762166272",
+          "start": 3,
+          "username": "CesarZebrah"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DcKGU192OK",
+          "end": 80,
+          "expanded_url": "https://x.com/CesarZebrah/status/1898314244895977712/photo/1",
+          "media_key": "3_1898314235559792641",
+          "start": 57,
+          "url": "https://t.co/DcKGU192OK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898560028824740307",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10414
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898314244895977712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CesarZebrah: Mission failed successfully \n\n#Arlefuri https://t.co/DcKGU192OK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898314235559792641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlgqvVKb0AEOU1V.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898314235559792641"
+          ],
+          "media_source_tweet_id": [
+            "1898314244895977712"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1898560028824740307",
+        "created_at": "2025-03-09T02:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T03:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898560028824740307"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "Arlefuri",
+              "probability": 0.5225,
+              "start": 48,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 47,
+              "tag": "Arlefuri"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1354035874762166272",
+              "start": 3,
+              "username": "CesarZebrah"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcKGU192OK",
+              "end": 80,
+              "expanded_url": "https://x.com/CesarZebrah/status/1898314244895977712/photo/1",
+              "media_key": "3_1898314235559792641",
+              "start": 57,
+              "url": "https://t.co/DcKGU192OK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898560028824740307",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10414
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898314244895977712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CesarZebrah: Mission failed successfully \n\n#Arlefuri https://t.co/DcKGU192OK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898314235559792641"
+          ]
+        },
+        "author_id": "1354035874762166272",
+        "conversation_id": "1898314244895977712",
+        "created_at": "2025-03-08T10:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T11:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898314244895977712"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Arlefuri",
+              "probability": 0.4956,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "Arlefuri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcKGU192OK",
+              "end": 63,
+              "expanded_url": "https://x.com/CesarZebrah/status/1898314244895977712/photo/1",
+              "media_key": "3_1898314235559792641",
+              "start": 40,
+              "url": "https://t.co/DcKGU192OK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898314244895977712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11136,
+          "impression_count": 1111059,
+          "like_count": 114056,
+          "quote_count": 290,
+          "reply_count": 76,
+          "retweet_count": 10414
+        },
+        "reply_settings": "everyone",
+        "text": "Mission failed successfully \n\n#Arlefuri https://t.co/DcKGU192OK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897543158390837248/A6uvGnhl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7144,
+          "following_count": 35,
+          "like_count": 503,
+          "listed_count": 17,
+          "media_count": 147,
+          "tweet_count": 799
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T11:58:29.000Z",
+        "description": "Call me Cesar |She/her| Caldy’s 💞 Love drawing GL l 🗝️🧬 ❌💧| Repost with Credit is OK | DM for Commission(Closed atm): https://t.co/ziU95V7VLS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/cesarzebrah",
+                "end": 141,
+                "expanded_url": "https://ko-fi.com/cesarzebrah",
+                "start": 118,
+                "url": "https://t.co/ziU95V7VLS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/CesarZebrah",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/CesarZebrah",
+                "start": 0,
+                "url": "https://t.co/eRn40ltc39"
+              }
+            ]
+          }
+        },
+        "id": "1354035874762166272",
+        "location": "Your mom",
+        "name": "CesarZebrah",
+        "pinned_tweet_id": "1879530887290991094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820551236971851776/YFKhwmuX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140308,
+          "following_count": 279,
+          "like_count": 31646,
+          "listed_count": 273,
+          "media_count": 977,
+          "tweet_count": 2122
+        },
+        "url": "https://t.co/eRn40ltc39",
+        "username": "CesarZebrah",
+        "verified": false
+      }
+    ]
+  }
+}

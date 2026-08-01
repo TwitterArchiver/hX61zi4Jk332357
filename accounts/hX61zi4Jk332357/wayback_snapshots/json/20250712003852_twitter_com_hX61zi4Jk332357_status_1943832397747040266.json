@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943733774686003200"
+      ],
+      "media_source_tweet_id": [
+        "1943733802871705685"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "1943832397747040266",
+    "created_at": "2025-07-12T00:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T01:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943832397747040266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1762221962255126528",
+          "start": 3,
+          "username": "NaMiDa_kawaii_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D9mFEfIYqK",
+          "end": 45,
+          "expanded_url": "https://x.com/NaMiDa_kawaii_/status/1943733802871705685/photo/1",
+          "media_key": "3_1943733774686003200",
+          "start": 22,
+          "url": "https://t.co/D9mFEfIYqK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943832397747040266",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1288
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943733802871705685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NaMiDa_kawaii_: … https://t.co/D9mFEfIYqK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1852,
+        "media_key": "3_1943733774686003200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvmHkdoWoAAlLuI.jpg",
+        "width": 1361
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943733774686003200"
+          ],
+          "media_source_tweet_id": [
+            "1943733802871705685"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1943832397747040266",
+        "created_at": "2025-07-12T00:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T01:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943832397747040266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1762221962255126528",
+              "start": 3,
+              "username": "NaMiDa_kawaii_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9mFEfIYqK",
+              "end": 45,
+              "expanded_url": "https://x.com/NaMiDa_kawaii_/status/1943733802871705685/photo/1",
+              "media_key": "3_1943733774686003200",
+              "start": 22,
+              "url": "https://t.co/D9mFEfIYqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943832397747040266",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1288
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943733802871705685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NaMiDa_kawaii_: … https://t.co/D9mFEfIYqK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943733774686003200"
+          ]
+        },
+        "author_id": "1762221962255126528",
+        "conversation_id": "1943733802871705685",
+        "created_at": "2025-07-11T18:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943733802871705685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9mFEfIYqK",
+              "end": 25,
+              "expanded_url": "https://x.com/NaMiDa_kawaii_/status/1943733802871705685/photo/1",
+              "media_key": "3_1943733774686003200",
+              "start": 2,
+              "url": "https://t.co/D9mFEfIYqK"
+            },
+            {
+              "display_url": "x.com/shiryohost/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/shiryohost/status/1943369630615245219",
+              "start": 26,
+              "url": "https://t.co/lzOmfHJW4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943733802871705685",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7935,
+          "impression_count": 1264839,
+          "like_count": 34143,
+          "quote_count": 219,
+          "reply_count": 279,
+          "retweet_count": 1288
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943369630615245219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "… https://t.co/D9mFEfIYqK https://t.co/lzOmfHJW4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8225,
+          "following_count": 58,
+          "like_count": 1187,
+          "listed_count": 19,
+          "media_count": 266,
+          "tweet_count": 1479
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T21:03:57.000Z",
+        "description": "안뇽 나는 a쟝이야",
+        "id": "1762221962255126528",
+        "location": "패나곤니",
+        "name": "A쟝",
+        "pinned_tweet_id": "1903765333628133534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906971073851338752/6cXPFTM4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15647,
+          "following_count": 277,
+          "like_count": 12634,
+          "listed_count": 90,
+          "media_count": 471,
+          "tweet_count": 2302
+        },
+        "username": "NaMiDa_kawaii_",
+        "verified": false
+      }
+    ]
+  }
+}

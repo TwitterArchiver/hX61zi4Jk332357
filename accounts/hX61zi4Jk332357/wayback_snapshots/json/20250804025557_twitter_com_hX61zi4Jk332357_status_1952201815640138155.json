@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1951944562311626752"
+      ],
+      "media_source_tweet_id": [
+        "1951944603420008625"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1952201815640138155",
+    "created_at": "2025-08-04T02:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T03:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952201815640138155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1650200977553620992",
+          "start": 3,
+          "username": "DustSan94736302"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r8XEDWkumk",
+          "end": 44,
+          "expanded_url": "https://x.com/DustSan94736302/status/1951944603420008625/video/1",
+          "media_key": "7_1951944562311626752",
+          "start": 21,
+          "url": "https://t.co/r8XEDWkumk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952201815640138155",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2336
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951944603420008625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DustSan94736302: https://t.co/r8XEDWkumk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22614,
+        "height": 1280,
+        "media_key": "7_1951944562311626752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1951944562311626752/pu/img/50ghRTwTFWtOvCzw.jpg",
+        "public_metrics": {
+          "view_count": 194800
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951944562311626752/pu/vid/avc1/320x568/yFjSwUaRkIo5jD4I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951944562311626752/pu/vid/avc1/480x852/kkhqaCcljf-lQv2J.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951944562311626752/pu/vid/avc1/720x1280/5Qhp-KnArJFYWZ_j.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1951944562311626752/pu/pl/LTJv6kDWOBdYB_IL.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1951944562311626752"
+          ],
+          "media_source_tweet_id": [
+            "1951944603420008625"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1952201815640138155",
+        "created_at": "2025-08-04T02:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T03:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952201815640138155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1650200977553620992",
+              "start": 3,
+              "username": "DustSan94736302"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8XEDWkumk",
+              "end": 44,
+              "expanded_url": "https://x.com/DustSan94736302/status/1951944603420008625/video/1",
+              "media_key": "7_1951944562311626752",
+              "start": 21,
+              "url": "https://t.co/r8XEDWkumk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952201815640138155",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2336
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951944603420008625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DustSan94736302: https://t.co/r8XEDWkumk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1951944562311626752"
+          ]
+        },
+        "author_id": "1650200977553620992",
+        "conversation_id": "1951944603420008625",
+        "created_at": "2025-08-03T09:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T10:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951944603420008625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8XEDWkumk",
+              "end": 23,
+              "expanded_url": "https://x.com/DustSan94736302/status/1951944603420008625/video/1",
+              "media_key": "7_1951944562311626752",
+              "start": 0,
+              "url": "https://t.co/r8XEDWkumk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951944603420008625",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3209,
+          "impression_count": 436991,
+          "like_count": 18734,
+          "quote_count": 51,
+          "reply_count": 24,
+          "retweet_count": 2336
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/r8XEDWkumk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8209,
+          "following_count": 62,
+          "like_count": 1290,
+          "listed_count": 20,
+          "media_count": 283,
+          "tweet_count": 1535
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T18:12:47.000Z",
+        "description": "My fav autistic character is AYUMU KASUGA",
+        "id": "1650200977553620992",
+        "name": "AyumuKasuga",
+        "pinned_tweet_id": "1936346448586559856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917289563560591360/h2Wa5Hsk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 14,
+          "like_count": 719,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 219
+        },
+        "username": "DustSan94736302",
+        "verified": false
+      }
+    ]
+  }
+}

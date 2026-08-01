@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1918902325663399943",
+    "created_at": "2025-05-04T05:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T06:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918902325663399943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chloefetti/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/chloefetti/status/1918694170463449331",
+          "start": 16,
+          "url": "https://t.co/eq290ZusXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918902325663399943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918694170463449331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么大家瘦了和我瘦了差那么多 https://t.co/eq290ZusXZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1118,
+        "media_key": "3_1918693955262156800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqCR_JQXEAAqFqw.jpg",
+        "width": 840
+      },
+      {
+        "height": 1122,
+        "media_key": "3_1918693994080464896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqCSBZ3XcAAW7jI.jpg",
+        "width": 842
+      },
+      {
+        "height": 1116,
+        "media_key": "3_1918694056084848640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqCSFA2XQAAzcTr.jpg",
+        "width": 842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1918902325663399943",
+        "created_at": "2025-05-04T05:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T06:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918902325663399943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chloefetti/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/chloefetti/status/1918694170463449331",
+              "start": 16,
+              "url": "https://t.co/eq290ZusXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918902325663399943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918694170463449331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么大家瘦了和我瘦了差那么多 https://t.co/eq290ZusXZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918693955262156800",
+            "3_1918693994080464896",
+            "3_1918694056084848640"
+          ]
+        },
+        "author_id": "1864847197231005696",
+        "conversation_id": "1918694170463449331",
+        "created_at": "2025-05-03T15:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T16:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918694170463449331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NW7Sd8K9wW",
+              "end": 88,
+              "expanded_url": "https://x.com/chloefetti/status/1918694170463449331/photo/1",
+              "media_key": "3_1918693955262156800",
+              "start": 65,
+              "url": "https://t.co/NW7Sd8K9wW"
+            },
+            {
+              "display_url": "pic.x.com/NW7Sd8K9wW",
+              "end": 88,
+              "expanded_url": "https://x.com/chloefetti/status/1918694170463449331/photo/1",
+              "media_key": "3_1918693994080464896",
+              "start": 65,
+              "url": "https://t.co/NW7Sd8K9wW"
+            },
+            {
+              "display_url": "pic.x.com/NW7Sd8K9wW",
+              "end": 88,
+              "expanded_url": "https://x.com/chloefetti/status/1918694170463449331/photo/1",
+              "media_key": "3_1918694056084848640",
+              "start": 65,
+              "url": "https://t.co/NW7Sd8K9wW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918694170463449331",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 631,
+          "impression_count": 62302,
+          "like_count": 3120,
+          "quote_count": 15,
+          "reply_count": 47,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "kinda feeling myself 2day like okkkk ribs and hipbones i see u 👀 https://t.co/NW7Sd8K9wW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8254,
+          "following_count": 49,
+          "like_count": 819,
+          "listed_count": 19,
+          "media_count": 198,
+          "tweet_count": 1186
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T01:40:04.000Z",
+        "description": "૮ ˙Ⱉ˙ ა based and girlpilled ᯤ꩜🧁 ⋆˙ᝰ18 .ᐟ 🎹🍡 5'3 n 88.3 lbs",
+        "id": "1864847197231005696",
+        "location": "🧩 shedtwt !!",
+        "name": "chloe ‧₊˚𖦹 bmi 15.6 🫧 nsfw dni!!",
+        "pinned_tweet_id": "1911503294494548281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901701324925796353/k9BH-ZQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2017,
+          "following_count": 115,
+          "like_count": 370,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 392
+        },
+        "username": "chloefetti",
+        "verified": false
+      }
+    ]
+  }
+}

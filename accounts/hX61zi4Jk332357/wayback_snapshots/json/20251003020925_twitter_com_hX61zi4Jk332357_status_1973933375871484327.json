@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1971806000874508499",
+    "created_at": "2025-10-03T02:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T03:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973933375871484327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558547901164318728",
+          "start": 0,
+          "username": "saiyadayoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973933375871484327",
+    "in_reply_to_user_id": "1558547901164318728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971806000874508499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saiyadayoo 我肚子饿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1971806000874508499",
+        "created_at": "2025-10-03T02:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T03:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973933375871484327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558547901164318728",
+              "start": 0,
+              "username": "saiyadayoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973933375871484327",
+        "in_reply_to_user_id": "1558547901164318728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971806000874508499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saiyadayoo 我肚子饿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558547901164318728",
+        "conversation_id": "1971806000874508499",
+        "created_at": "2025-09-27T05:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T06:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971806000874508499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971806000874508499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我害怕這裡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1968252048396419216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8010,
+          "following_count": 70,
+          "like_count": 1633,
+          "listed_count": 20,
+          "media_count": 351,
+          "tweet_count": 1816
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T20:16:01.000Z",
+        "description": "我害怕這裡",
+        "id": "1558547901164318728",
+        "location": "天堂",
+        "name": "ʚ✞ɞ",
+        "pinned_tweet_id": "1971806085515563443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 372,
+          "like_count": 21228,
+          "listed_count": 1,
+          "media_count": 436,
+          "tweet_count": 10270
+        },
+        "username": "saiyadayoo",
+        "verified": false
+      }
+    ]
+  }
+}

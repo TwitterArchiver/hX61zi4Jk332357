@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1863523087142338726",
+    "created_at": "2025-04-02T11:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T12:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907388952270840230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829609141649952768",
+          "start": 0,
+          "username": "wbuchishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907388952270840230",
+    "in_reply_to_user_id": "1829609141649952768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863523087142338726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@wbuchishi 你删完了我看啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1351,
+        "media_key": "3_1863523078921433088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdyQXe3asAAHb9e.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1863523087142338726",
+        "created_at": "2025-04-02T11:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907388952270840230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829609141649952768",
+              "start": 0,
+              "username": "wbuchishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907388952270840230",
+        "in_reply_to_user_id": "1829609141649952768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863523087142338726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@wbuchishi 你删完了我看啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863523078921433088"
+          ]
+        },
+        "author_id": "1829609141649952768",
+        "conversation_id": "1863523087142338726",
+        "created_at": "2024-12-02T09:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T10:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863523087142338726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k040DqxrJG",
+              "end": 23,
+              "expanded_url": "https://x.com/wbuchishi/status/1863523087142338726/photo/1",
+              "media_key": "3_1863523078921433088",
+              "start": 0,
+              "url": "https://t.co/k040DqxrJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863523087142338726",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 141639,
+          "like_count": 2044,
+          "quote_count": 1,
+          "reply_count": 56,
+          "retweet_count": 34
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/k040DqxrJG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902896494052773890/hrQl_6Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7140,
+          "following_count": 41,
+          "like_count": 625,
+          "listed_count": 17,
+          "media_count": 165,
+          "tweet_count": 954
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "？=",
+        "id": "1829609141649952768",
+        "location": "🚪520",
+        "name": "幸福",
+        "pinned_tweet_id": "1876495132578709838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907367738009624576/oH1i2ZHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4772,
+          "following_count": 89,
+          "like_count": 4777,
+          "listed_count": 13,
+          "media_count": 30,
+          "tweet_count": 2225
+        },
+        "username": "wbuchishi",
+        "verified": false
+      }
+    ]
+  }
+}

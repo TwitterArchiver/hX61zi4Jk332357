@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "1939929714879025298",
+    "created_at": "2025-07-01T06:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T07:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939935034527387886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1839753673489944577",
+          "start": 0,
+          "username": "q0316574587223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939935034527387886",
+    "in_reply_to_user_id": "1839753673489944577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939929714879025298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@q0316574587223 为什么旧照片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939929704313577472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwDybLW4AAR12N.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1939929714879025298",
+        "created_at": "2025-07-01T06:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T07:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939935034527387886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1839753673489944577",
+              "start": 0,
+              "username": "q0316574587223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939935034527387886",
+        "in_reply_to_user_id": "1839753673489944577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939929714879025298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@q0316574587223 为什么旧照片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939929704313577472"
+          ]
+        },
+        "author_id": "1839753673489944577",
+        "conversation_id": "1939929714879025298",
+        "created_at": "2025-07-01T06:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T07:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939929714879025298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DACOqigJqH",
+              "end": 23,
+              "expanded_url": "https://x.com/q0316574587223/status/1939929714879025298/photo/1",
+              "media_key": "3_1939929704313577472",
+              "start": 0,
+              "url": "https://t.co/DACOqigJqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939929714879025298",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 406,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/DACOqigJqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1922178793432576298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932822837414539265/rrOK_SWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8272,
+          "following_count": 59,
+          "like_count": 1151,
+          "listed_count": 19,
+          "media_count": 252,
+          "tweet_count": 1428
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T19:47:26.000Z",
+        "description": "希望大家友好沟通 就这一个账号💕门槛166 266 520 1314喜欢请支持我吧！",
+        "id": "1839753673489944577",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "moka_akashiys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849643343682338817/3PpQm-cw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16325,
+          "following_count": 84,
+          "like_count": 413,
+          "listed_count": 50,
+          "media_count": 39,
+          "tweet_count": 145
+        },
+        "username": "q0316574587223",
+        "verified": false
+      }
+    ]
+  }
+}
