@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2084640275709005968",
+    "created_at": "2026-08-04T13:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084640275709005968"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084640275709005968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "我从之前的自言自语变成现在我会臆想出一个猫王或者一整个魔鬼深夜秀在听我对白我进步太大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2084640275709005968",
+        "created_at": "2026-08-04T13:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084640275709005968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084640275709005968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我从之前的自言自语变成现在我会臆想出一个猫王或者一整个魔鬼深夜秀在听我对白我进步太大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9940,
+          "following_count": 99,
+          "like_count": 2791,
+          "listed_count": 20,
+          "media_count": 510,
+          "tweet_count": 2411
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2085778381615009985",
+    "created_at": "2026-08-07T17:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085778381615009985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/%E5%96%84%E8%8…",
+          "end": 23,
+          "expanded_url": "https://ngl.link/%E5%96%84%E8%89%AF%E8%84%9A",
+          "start": 0,
+          "status": 200,
+          "title": "@善良脚: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/%E5%96%84%E8%89%AF%E8%84%9A",
+          "url": "https://t.co/WaRUkuEjXU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085778381615009985",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "https://t.co/WaRUkuEjXU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2085778381615009985",
+        "created_at": "2026-08-07T17:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085778381615009985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/%E5%96%84%E8%8…",
+              "end": 23,
+              "expanded_url": "https://ngl.link/%E5%96%84%E8%89%AF%E8%84%9A",
+              "start": 0,
+              "status": 200,
+              "title": "@善良脚: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/%E5%96%84%E8%89%AF%E8%84%9A",
+              "url": "https://t.co/WaRUkuEjXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085778381615009985",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/WaRUkuEjXU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9943,
+          "following_count": 100,
+          "like_count": 2802,
+          "listed_count": 18,
+          "media_count": 510,
+          "tweet_count": 2418
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

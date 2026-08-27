@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2083400520811864158",
+    "created_at": "2026-08-01T03:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083400520811864158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1742436008711602176",
+          "start": 3,
+          "username": "shyao_zzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083400520811864158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083269724834848885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shyao_zzZ: 把男的画成萝莉会很舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2083400520811864158",
+        "created_at": "2026-08-01T03:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083400520811864158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1742436008711602176",
+              "start": 3,
+              "username": "shyao_zzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083400520811864158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083269724834848885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shyao_zzZ: 把男的画成萝莉会很舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742436008711602176",
+        "conversation_id": "2083269724834848885",
+        "created_at": "2026-07-31T19:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083269724834848885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083269724834848885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "把男的画成萝莉会很舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9852,
+          "following_count": 98,
+          "like_count": 2768,
+          "listed_count": 19,
+          "media_count": 508,
+          "tweet_count": 2402
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T06:42:40.000Z",
+        "description": "视药/shyao\n🚫ai\n我需要光合作用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/118315049",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/118315049",
+                "start": 0,
+                "url": "https://t.co/112obhZ1sc"
+              }
+            ]
+          }
+        },
+        "id": "1742436008711602176",
+        "name": "視藥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068687671350706177/mMhLzNeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 114,
+          "like_count": 2257,
+          "listed_count": 5,
+          "media_count": 105,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/112obhZ1sc",
+        "username": "shyao_zzZ",
+        "verified": false
+      }
+    ]
+  }
+}

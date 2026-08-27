@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2084287146169606463",
+    "created_at": "2026-08-04T11:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084597498925158644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787086493636521984",
+          "start": 0,
+          "username": "Lucifers6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084597498925158644",
+    "in_reply_to_user_id": "1787086493636521984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084287146169606463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucifers6x 善良脚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2084287139509125120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzgHEBbQAASSop.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2084287146169606463",
+        "created_at": "2026-08-04T11:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084597498925158644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787086493636521984",
+              "start": 0,
+              "username": "Lucifers6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084597498925158644",
+        "in_reply_to_user_id": "1787086493636521984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084287146169606463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucifers6x 善良脚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084287139509125120"
+          ]
+        },
+        "author_id": "1787086493636521984",
+        "conversation_id": "2084287146169606463",
+        "created_at": "2026-08-03T14:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084287146169606463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DAgSsSnF8f",
+              "end": 23,
+              "expanded_url": "https://x.com/Lucifers6x/status/2084287146169606463/photo/1",
+              "media_key": "3_2084287139509125120",
+              "start": 0,
+              "url": "https://t.co/DAgSsSnF8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084287146169606463",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 429,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DAgSsSnF8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9935,
+          "following_count": 99,
+          "like_count": 2789,
+          "listed_count": 19,
+          "media_count": 510,
+          "tweet_count": 2409
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T11:46:45.000Z",
+        "description": "｜这不公平的命指使我来的｜人生理想是干一休二十｜现在的理想是捡到一条十万的项链然后卖掉｜想哭就对了你生来就是流眼泪的｜别让我充满恨｜做好随时准备自杀的状态才能轻松地活着｜单机玩推，投射社交期待在我身上我会有压力",
+        "id": "1787086493636521984",
+        "location": "under ur skin",
+        "name": "在你的脉搏中起舞",
+        "pinned_tweet_id": "2069707187488989359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941563908235395072/yxW678I__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2958,
+          "following_count": 113,
+          "like_count": 4982,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 2441
+        },
+        "url": "",
+        "username": "Lucifers6x",
+        "verified": false
+      }
+    ]
+  }
+}

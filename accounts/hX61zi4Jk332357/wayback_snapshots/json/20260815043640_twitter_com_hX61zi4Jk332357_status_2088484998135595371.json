@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088305796379709440"
+      ],
+      "media_source_tweet_id": [
+        "2088305827052745069"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088484998135595371",
+    "created_at": "2026-08-15T04:36:40.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088484998135595371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1253073130295226368",
+          "start": 3,
+          "username": "barkbarkgames"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/69C6kU4ASh",
+          "end": 79,
+          "expanded_url": "https://x.com/barkbarkgames/status/2088305827052745069/video/1",
+          "media_key": "13_2088305796379709440",
+          "start": 56,
+          "url": "https://t.co/69C6kU4ASh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088484998135595371",
+    "lang": "et",
+    "media_metadata": [
+      {
+        "media_key": "13_2088305796379709440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088305827052745069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @barkbarkgames: House 2 🏚️ launches on PC August 28! https://t.co/69C6kU4ASh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16550,
+        "height": 720,
+        "media_key": "13_2088305796379709440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088305796379709440/img/vZRNaO4TE8YaekEX.jpg",
+        "public_metrics": {
+          "view_count": 256301
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088305796379709440/vid/avc1/480x270/gaMARAg7Z7AbSdct.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088305796379709440/vid/avc1/640x360/8qpJNMQYNqE7NIUb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088305796379709440/vid/avc1/1280x720/T6eSXqPnq-h73H0W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088305796379709440/pl/hijBho2Uf15tFg4C.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088305796379709440"
+          ],
+          "media_source_tweet_id": [
+            "2088305827052745069"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088484998135595371",
+        "created_at": "2026-08-15T04:36:40.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088484998135595371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1253073130295226368",
+              "start": 3,
+              "username": "barkbarkgames"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/69C6kU4ASh",
+              "end": 79,
+              "expanded_url": "https://x.com/barkbarkgames/status/2088305827052745069/video/1",
+              "media_key": "13_2088305796379709440",
+              "start": 56,
+              "url": "https://t.co/69C6kU4ASh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088484998135595371",
+        "lang": "et",
+        "media_metadata": [
+          {
+            "media_key": "13_2088305796379709440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088305827052745069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @barkbarkgames: House 2 🏚️ launches on PC August 28! https://t.co/69C6kU4ASh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088305796379709440"
+          ]
+        },
+        "author_id": "1253073130295226368",
+        "conversation_id": "2088305827052745069",
+        "created_at": "2026-08-14T16:44:42.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088305827052745069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/69C6kU4ASh",
+              "end": 60,
+              "expanded_url": "https://x.com/barkbarkgames/status/2088305827052745069/video/1",
+              "media_key": "13_2088305796379709440",
+              "start": 37,
+              "url": "https://t.co/69C6kU4ASh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088305827052745069",
+        "lang": "et",
+        "media_metadata": [
+          {
+            "media_key": "13_2088305796379709440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3708,
+          "impression_count": 439575,
+          "like_count": 13871,
+          "quote_count": 119,
+          "reply_count": 68,
+          "retweet_count": 1110
+        },
+        "reply_settings": "everyone",
+        "text": "House 2 🏚️ launches on PC August 28! https://t.co/69C6kU4ASh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "is_identity_verified": false,
+        "location": "游乐园",
+        "most_recent_tweet_id": "2088484998135595371",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817120099528265728/1766390853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9931,
+          "following_count": 100,
+          "like_count": 2826,
+          "listed_count": 16,
+          "media_count": 513,
+          "tweet_count": 2430
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-22T21:28:16.000Z",
+        "description": "creator of 🏠 HOUSE 📺HOUSE 2 🐀 RATMORPHS 🔦KIMIKO’S CURSE 2\n\nno ❌ AI never ❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/app/2586440/Ho…",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/app/2586440/House_2/",
+                "start": 0,
+                "url": "https://t.co/9SH8Q6lwpd"
+              }
+            ]
+          }
+        },
+        "id": "1253073130295226368",
+        "is_identity_verified": false,
+        "location": "in a HOUSE",
+        "most_recent_tweet_id": "2088305827052745069",
+        "name": "Bark Bark 🏚️ HOUSE 2 coming aug 28!",
+        "pinned_tweet_id": "2088305827052745069",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253073130295226368/1782455346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070404539543642112/8aEj5L5-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 56,
+          "like_count": 398,
+          "listed_count": 8,
+          "media_count": 98,
+          "tweet_count": 202
+        },
+        "url": "https://t.co/9SH8Q6lwpd",
+        "username": "barkbarkgames",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

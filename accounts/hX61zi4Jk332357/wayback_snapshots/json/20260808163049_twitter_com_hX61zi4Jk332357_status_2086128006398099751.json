@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1817120099528265728",
+    "conversation_id": "2086099825368723581",
+    "created_at": "2026-08-08T16:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T17:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086128006398099751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581943089442091008",
+          "start": 0,
+          "username": "tanglaoban1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086128006398099751",
+    "in_reply_to_user_id": "1581943089442091008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086099825368723581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanglaoban1225 食用掉疼痛部"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "2086099825368723581",
+        "created_at": "2026-08-08T16:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086128006398099751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581943089442091008",
+              "start": 0,
+              "username": "tanglaoban1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086128006398099751",
+        "in_reply_to_user_id": "1581943089442091008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086099825368723581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanglaoban1225 食用掉疼痛部"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581943089442091008",
+        "conversation_id": "2086099825368723581",
+        "created_at": "2026-08-08T14:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T15:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086099825368723581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086099825368723581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 518,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "腿好疼哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9942,
+          "following_count": 100,
+          "like_count": 2806,
+          "listed_count": 18,
+          "media_count": 511,
+          "tweet_count": 2420
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:40:08.000Z",
+        "description": "AI🚫 19↑ 🇨🇳",
+        "id": "1581943089442091008",
+        "location": "(。-ω-)zzz",
+        "name": "棠老板",
+        "pinned_tweet_id": "1844034574982209877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070902861068640256/-Z1MtfKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26984,
+          "following_count": 1026,
+          "like_count": 13378,
+          "listed_count": 130,
+          "media_count": 1463,
+          "tweet_count": 4216
+        },
+        "url": "",
+        "username": "tanglaoban1225",
+        "verified": false
+      }
+    ]
+  }
+}

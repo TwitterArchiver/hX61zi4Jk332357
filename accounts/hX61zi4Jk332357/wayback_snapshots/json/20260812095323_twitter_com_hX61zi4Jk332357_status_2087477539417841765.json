@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1845383019898732548"
+      ],
+      "media_source_tweet_id": [
+        "1845383025225560366"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2087477539417841765",
+    "created_at": "2026-08-12T09:53:23.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T10:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087477539417841765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1748945067732328448",
+          "start": 3,
+          "username": "dohwa110"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eu6nGxcDue",
+          "end": 37,
+          "expanded_url": "https://x.com/dohwa110/status/1845383025225560366/photo/1",
+          "media_key": "3_1845383019898732548",
+          "start": 14,
+          "url": "https://t.co/Eu6nGxcDue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087477539417841765",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_1845383019898732548"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3649
+    },
+    "referenced_tweets": [
+      {
+        "id": "1845383025225560366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dohwa110: https://t.co/Eu6nGxcDue"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1719,
+        "media_key": "3_1845383019898732548",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZweFE-aAAQcXR0.jpg",
+        "width": 2181
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1845383019898732548"
+          ]
+        },
+        "author_id": "1748945067732328448",
+        "conversation_id": "1845383025225560366",
+        "created_at": "2024-10-13T08:36:13.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2024-10-13T09:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1845383025225560366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eu6nGxcDue",
+              "end": 23,
+              "expanded_url": "https://x.com/dohwa110/status/1845383025225560366/photo/1",
+              "media_key": "3_1845383019898732548",
+              "start": 0,
+              "url": "https://t.co/Eu6nGxcDue"
+            },
+            {
+              "display_url": "x.com/oobbbear/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/oobbbear/status/1844990120811704626",
+              "start": 24,
+              "url": "https://t.co/NEKt4JsLTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1845383025225560366",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_1845383019898732548"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2151,
+          "impression_count": 507693,
+          "like_count": 44714,
+          "quote_count": 23,
+          "reply_count": 17,
+          "retweet_count": 3649
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844990120811704626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Eu6nGxcDue https://t.co/NEKt4JsLTh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1845383019898732548"
+          ],
+          "media_source_tweet_id": [
+            "1845383025225560366"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2087477539417841765",
+        "created_at": "2026-08-12T09:53:23.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087477539417841765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1748945067732328448",
+              "start": 3,
+              "username": "dohwa110"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eu6nGxcDue",
+              "end": 37,
+              "expanded_url": "https://x.com/dohwa110/status/1845383025225560366/photo/1",
+              "media_key": "3_1845383019898732548",
+              "start": 14,
+              "url": "https://t.co/Eu6nGxcDue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087477539417841765",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_1845383019898732548"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3649
+        },
+        "referenced_tweets": [
+          {
+            "id": "1845383025225560366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dohwa110: https://t.co/Eu6nGxcDue"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "is_identity_verified": false,
+        "location": "游乐园",
+        "most_recent_tweet_id": "2087477539417841765",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817120099528265728/1766390853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9927,
+          "following_count": 100,
+          "like_count": 2819,
+          "listed_count": 17,
+          "media_count": 511,
+          "tweet_count": 2422
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-21T05:46:19.000Z",
+        "description": "20⬆️/(백합이면 다 먹음)farcille/ https://t.co/ICaHNHyKoW /🔕 repost🚫 ©/ https://t.co/nAp2iB6jC5 / 크레페 :  https://t.co/bXwrc39gHM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "postype.com/@mymuse-gl",
+                "end": 49,
+                "expanded_url": "https://www.postype.com/@mymuse-gl",
+                "start": 26,
+                "url": "https://t.co/ICaHNHyKoW"
+              },
+              {
+                "display_url": "spinspin.net/dohwa110",
+                "end": 87,
+                "expanded_url": "https://spinspin.net/dohwa110",
+                "start": 64,
+                "url": "https://t.co/nAp2iB6jC5"
+              },
+              {
+                "display_url": "kre.pe/BjCV",
+                "end": 120,
+                "expanded_url": "https://kre.pe/BjCV",
+                "start": 97,
+                "url": "https://t.co/bXwrc39gHM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dohwa110.straw.page",
+                "end": 23,
+                "expanded_url": "https://dohwa110.straw.page",
+                "start": 0,
+                "url": "https://t.co/zqaSSEYJPR"
+              }
+            ]
+          }
+        },
+        "id": "1748945067732328448",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086953223781593385",
+        "name": "도poq花",
+        "pinned_tweet_id": "1916744647231300052",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977827248305819648/VJekV-fX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32480,
+          "following_count": 98,
+          "like_count": 3522,
+          "listed_count": 78,
+          "media_count": 192,
+          "tweet_count": 1540
+        },
+        "url": "https://t.co/zqaSSEYJPR",
+        "username": "dohwa110",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
