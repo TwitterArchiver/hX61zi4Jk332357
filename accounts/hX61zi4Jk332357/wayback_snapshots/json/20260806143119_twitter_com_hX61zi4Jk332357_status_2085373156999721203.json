@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085074853522964480"
+      ],
+      "media_source_tweet_id": [
+        "2085074860099743907"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2085373156999721203",
+    "created_at": "2026-08-06T14:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085373156999721203"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 12,
+          "tag": "魔法少女まどかマギカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777091166250450944",
+          "start": 3,
+          "username": "kemujs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FtVLDuRrsz",
+          "end": 47,
+          "expanded_url": "https://x.com/kemujs/status/2085074860099743907/photo/1",
+          "media_key": "3_2085074853522964480",
+          "start": 24,
+          "url": "https://t.co/FtVLDuRrsz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085373156999721203",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1397
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085074860099743907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kemujs: #魔法少女まどかマギカ https://t.co/FtVLDuRrsz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1841,
+        "media_key": "3_2085074853522964480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-siDZWAAAn_jv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085074853522964480"
+          ]
+        },
+        "author_id": "1777091166250450944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2085074860099743907",
+        "created_at": "2026-08-05T18:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085074860099743907"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "魔法少女まどかマギカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtVLDuRrsz",
+              "end": 35,
+              "expanded_url": "https://x.com/kemujs/status/2085074860099743907/photo/1",
+              "media_key": "3_2085074853522964480",
+              "start": 12,
+              "url": "https://t.co/FtVLDuRrsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085074860099743907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1350,
+          "impression_count": 89031,
+          "like_count": 14057,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1397
+        },
+        "reply_settings": "everyone",
+        "text": "#魔法少女まどかマギカ https://t.co/FtVLDuRrsz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085074853522964480"
+          ],
+          "media_source_tweet_id": [
+            "2085074860099743907"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2085373156999721203",
+        "created_at": "2026-08-06T14:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085373156999721203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 12,
+              "tag": "魔法少女まどかマギカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1777091166250450944",
+              "start": 3,
+              "username": "kemujs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtVLDuRrsz",
+              "end": 47,
+              "expanded_url": "https://x.com/kemujs/status/2085074860099743907/photo/1",
+              "media_key": "3_2085074853522964480",
+              "start": 24,
+              "url": "https://t.co/FtVLDuRrsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085373156999721203",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1397
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085074860099743907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kemujs: #魔法少女まどかマギカ https://t.co/FtVLDuRrsz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9946,
+          "following_count": 100,
+          "like_count": 2807,
+          "listed_count": 19,
+          "media_count": 510,
+          "tweet_count": 2416
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T21:49:01.000Z",
+        "description": "⋆.˚ \n⋆.˚ digital artist\n⋆.˚ no AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kemujs",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kemujs",
+                "start": 0,
+                "url": "https://t.co/TO3QdMVs4v"
+              }
+            ]
+          }
+        },
+        "id": "1777091166250450944",
+        "location": "🇺🇦",
+        "name": "kek",
+        "pinned_tweet_id": "2073486271624733039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070881547805216768/dgNatF5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 66,
+          "like_count": 2287,
+          "listed_count": 7,
+          "media_count": 63,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/TO3QdMVs4v",
+        "username": "kemujs",
+        "verified": false
+      }
+    ]
+  }
+}

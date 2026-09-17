@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095860239262466048"
+      ],
+      "media_source_tweet_id": [
+        "2095860249504907620"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2096198164097466877",
+    "created_at": "2026-09-05T11:26:02.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096198164097466877"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 22,
+          "tag": "ArknightsEndfield"
+        },
+        {
+          "end": 55,
+          "start": 41,
+          "tag": "WindSnowDream"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1325971071766441984",
+          "start": 3,
+          "username": "PDOzip"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9KyWtrHlDY",
+          "end": 79,
+          "expanded_url": "https://x.com/PDOzip/status/2095860249504907620/photo/1",
+          "media_key": "3_2095860239262466048",
+          "start": 56,
+          "url": "https://t.co/9KyWtrHlDY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096198164097466877",
+    "lang": "fr",
+    "media_metadata": [
+      {
+        "media_key": "3_2095860239262466048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 522
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095860249504907620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PDOzip: ✨Typhoeus\n#ArknightsEndfield #WindSnowDream https://t.co/9KyWtrHlDY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1838,
+        "media_key": "3_2095860239262466048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRX9yIQawAAPvn6.jpg",
+        "width": 2450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095860239262466048"
+          ],
+          "media_source_tweet_id": [
+            "2095860249504907620"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2096198164097466877",
+        "created_at": "2026-09-05T11:26:02.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096198164097466877"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 22,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 55,
+              "start": 41,
+              "tag": "WindSnowDream"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1325971071766441984",
+              "start": 3,
+              "username": "PDOzip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9KyWtrHlDY",
+              "end": 79,
+              "expanded_url": "https://x.com/PDOzip/status/2095860249504907620/photo/1",
+              "media_key": "3_2095860239262466048",
+              "start": 56,
+              "url": "https://t.co/9KyWtrHlDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096198164097466877",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2095860239262466048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 522
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095860249504907620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PDOzip: ✨Typhoeus\n#ArknightsEndfield #WindSnowDream https://t.co/9KyWtrHlDY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095860239262466048"
+          ]
+        },
+        "author_id": "1325971071766441984",
+        "conversation_id": "2095860249504907620",
+        "created_at": "2026-09-04T13:03:17.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095860249504907620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 10,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 43,
+              "start": 29,
+              "tag": "WindSnowDream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9KyWtrHlDY",
+              "end": 67,
+              "expanded_url": "https://x.com/PDOzip/status/2095860249504907620/photo/1",
+              "media_key": "3_2095860239262466048",
+              "start": 44,
+              "url": "https://t.co/9KyWtrHlDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095860249504907620",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2095860239262466048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 831,
+          "impression_count": 61315,
+          "like_count": 6668,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 522
+        },
+        "reply_settings": "everyone",
+        "text": "✨Typhoeus\n#ArknightsEndfield #WindSnowDream https://t.co/9KyWtrHlDY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "is_identity_verified": false,
+        "location": "游乐园",
+        "most_recent_tweet_id": "2096198164097466877",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817120099528265728/1766390853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10150,
+          "following_count": 101,
+          "like_count": 2903,
+          "listed_count": 16,
+          "media_count": 520,
+          "tweet_count": 2463
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-10T01:18:52.000Z",
+        "description": "Freelance illustrator・Character Designer BloomStudio ■Contact : zozjze@gmail.com or DM ■LINK(https://t.co/BYQzpvfhBE) ■Skeb(https://t.co/7pHUs8PDEb).NO AI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pdozip.carrd.co",
+                "end": 116,
+                "expanded_url": "http://pdozip.carrd.co",
+                "start": 93,
+                "url": "https://t.co/BYQzpvfhBE"
+              },
+              {
+                "display_url": "skeb.jp/@PDOzip",
+                "end": 147,
+                "expanded_url": "http://skeb.jp/@PDOzip",
+                "start": 124,
+                "url": "https://t.co/7pHUs8PDEb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pdozip.carrd.co",
+                "end": 23,
+                "expanded_url": "https://pdozip.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/0Kf3imGSRd"
+              }
+            ]
+          }
+        },
+        "id": "1325971071766441984",
+        "is_identity_verified": true,
+        "location": "Japan Fukuoka",
+        "most_recent_tweet_id": "2095868201435639936",
+        "name": "PODO珀镀",
+        "pinned_tweet_id": "1652210791574310912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1325971071766441984/1688266593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676296120593690624/FcmJDTb8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48094,
+          "following_count": 859,
+          "like_count": 4088,
+          "listed_count": 396,
+          "media_count": 289,
+          "tweet_count": 987
+        },
+        "url": "https://t.co/0Kf3imGSRd",
+        "username": "PDOzip",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

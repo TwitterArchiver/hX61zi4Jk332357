@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095107247793983488"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2095107297077023131",
+    "created_at": "2026-09-02T11:11:19.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T12:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095107297077023131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j6vnqPktj8",
+          "end": 23,
+          "expanded_url": "https://x.com/hX61zi4Jk332357/status/2095107297077023131/video/1",
+          "media_key": "13_2095107247793983488",
+          "start": 0,
+          "url": "https://t.co/j6vnqPktj8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095107297077023131",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2095107247793983488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "https://t.co/j6vnqPktj8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4233,
+        "height": 1280,
+        "media_key": "13_2095107247793983488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095107247793983488/img/p1xNZhsmPGAUPnjn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095107247793983488/vid/avc1/320x568/1NPKIEiwxr4W-krc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095107247793983488/vid/avc1/480x852/9zF5st-iRU6YWwcx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095107247793983488/vid/avc1/720x1280/JCh4tishwC-juGbL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095107247793983488/pl/i8H6WgS0TaD-bzcC.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095107247793983488"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2095107297077023131",
+        "created_at": "2026-09-02T11:11:19.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095107297077023131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6vnqPktj8",
+              "end": 23,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/2095107297077023131/video/1",
+              "media_key": "13_2095107247793983488",
+              "start": 0,
+              "url": "https://t.co/j6vnqPktj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095107297077023131",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095107247793983488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/j6vnqPktj8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "is_identity_verified": false,
+        "location": "游乐园",
+        "most_recent_tweet_id": "2095107297077023131",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817120099528265728/1766390853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10146,
+          "following_count": 101,
+          "like_count": 2887,
+          "listed_count": 16,
+          "media_count": 520,
+          "tweet_count": 2455
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

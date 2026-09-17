@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092802452009701376"
+      ],
+      "media_source_tweet_id": [
+        "2092802656331030567"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2092941085379309819",
+    "created_at": "2026-08-27T11:43:34.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092941085379309819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612284896248221696",
+          "start": 3,
+          "username": "wolrero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O4NgPbfB5U",
+          "end": 36,
+          "expanded_url": "https://x.com/wolrero/status/2092802656331030567/photo/1",
+          "media_key": "3_2092802452009701376",
+          "start": 13,
+          "url": "https://t.co/O4NgPbfB5U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092941085379309819",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2092802452009701376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1030
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092802656331030567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @wolrero: https://t.co/O4NgPbfB5U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2092802452009701376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsgvfEa0AARnI0.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092802452009701376"
+          ],
+          "media_source_tweet_id": [
+            "2092802656331030567"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2092941085379309819",
+        "created_at": "2026-08-27T11:43:34.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092941085379309819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612284896248221696",
+              "start": 3,
+              "username": "wolrero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4NgPbfB5U",
+              "end": 36,
+              "expanded_url": "https://x.com/wolrero/status/2092802656331030567/photo/1",
+              "media_key": "3_2092802452009701376",
+              "start": 13,
+              "url": "https://t.co/O4NgPbfB5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092941085379309819",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092802452009701376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1030
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092802656331030567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @wolrero: https://t.co/O4NgPbfB5U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092802452009701376"
+          ]
+        },
+        "author_id": "1612284896248221696",
+        "conversation_id": "2092802656331030567",
+        "created_at": "2026-08-27T02:33:30.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092802656331030567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4NgPbfB5U",
+              "end": 23,
+              "expanded_url": "https://x.com/wolrero/status/2092802656331030567/photo/1",
+              "media_key": "3_2092802452009701376",
+              "start": 0,
+              "url": "https://t.co/O4NgPbfB5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092802656331030567",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092802452009701376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1202,
+          "impression_count": 135246,
+          "like_count": 13387,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 1030
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/O4NgPbfB5U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "is_identity_verified": false,
+        "location": "游乐园",
+        "most_recent_tweet_id": "2092941085379309819",
+        "name": "邪恶脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817120099528265728/1766390853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9970,
+          "following_count": 101,
+          "like_count": 2866,
+          "listed_count": 16,
+          "media_count": 516,
+          "tweet_count": 2442
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-09T03:07:43.000Z",
+        "description": "pixivで「日常かもしれない」という漫画を描いてます。\npixiv : https://t.co/ab46HHUsmZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/90377442",
+                "end": 60,
+                "expanded_url": "https://www.pixiv.net/users/90377442",
+                "start": 37,
+                "url": "https://t.co/ab46HHUsmZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wolrero.com",
+                "end": 23,
+                "expanded_url": "https://wolrero.com/",
+                "start": 0,
+                "url": "https://t.co/JhKsEzk3j1"
+              }
+            ]
+          }
+        },
+        "id": "1612284896248221696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092802656331030567",
+        "name": "ヲル･レ･ロ",
+        "pinned_tweet_id": "2073251408812650557",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815082621812232192/Tqg2zWHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171675,
+          "following_count": 0,
+          "like_count": 2288,
+          "listed_count": 1161,
+          "media_count": 97,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/JhKsEzk3j1",
+        "username": "wolrero",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

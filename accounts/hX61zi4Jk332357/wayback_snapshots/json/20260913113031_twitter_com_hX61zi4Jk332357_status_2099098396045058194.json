@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2099073810343575553"
+      ],
+      "media_source_tweet_id": [
+        "2099073907974369761"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2099098396045058194",
+    "created_at": "2026-09-13T11:30:31.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T12:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099098396045058194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778700125944381440",
+          "start": 3,
+          "username": "_adip0cere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ykKGcbcNb6",
+          "end": 39,
+          "expanded_url": "https://x.com/_adip0cere/status/2099073907974369761/photo/1",
+          "media_key": "16_2099073810343575553",
+          "start": 16,
+          "url": "https://t.co/ykKGcbcNb6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099098396045058194",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "16_2099073810343575553"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099073907974369761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_adip0cere: https://t.co/ykKGcbcNb6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2099073810343575553",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HSFoglbawAEYQNM.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HSFoglbawAEYQNM.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2099073810343575553"
+          ],
+          "media_source_tweet_id": [
+            "2099073907974369761"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2099098396045058194",
+        "created_at": "2026-09-13T11:30:31.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T12:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099098396045058194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778700125944381440",
+              "start": 3,
+              "username": "_adip0cere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykKGcbcNb6",
+              "end": 39,
+              "expanded_url": "https://x.com/_adip0cere/status/2099073907974369761/photo/1",
+              "media_key": "16_2099073810343575553",
+              "start": 16,
+              "url": "https://t.co/ykKGcbcNb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099098396045058194",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2099073810343575553"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099073907974369761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_adip0cere: https://t.co/ykKGcbcNb6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2099073810343575553"
+          ]
+        },
+        "author_id": "1778700125944381440",
+        "conversation_id": "2099073907974369761",
+        "created_at": "2026-09-13T09:53:13.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099073907974369761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykKGcbcNb6",
+              "end": 23,
+              "expanded_url": "https://x.com/_adip0cere/status/2099073907974369761/photo/1",
+              "media_key": "16_2099073810343575553",
+              "start": 0,
+              "url": "https://t.co/ykKGcbcNb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099073907974369761",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2099073810343575553"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 2010,
+          "like_count": 350,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ykKGcbcNb6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "is_identity_verified": false,
+        "location": "游乐园",
+        "most_recent_tweet_id": "2099098396045058194",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817120099528265728/1766390853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10120,
+          "following_count": 103,
+          "like_count": 2950,
+          "listed_count": 16,
+          "media_count": 521,
+          "tweet_count": 2468
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T08:22:49.000Z",
+        "description": "FA▶︎ #リジ絵クト\n無断転載🚫AI学習🚫\n新規ご依頼受付停止中\nサブ@subetewo_kyohi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 5,
+                "tag": "リジ絵クト"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 36,
+                "username": "subetewo_kyohi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/_adip0cere",
+                "end": 23,
+                "expanded_url": "https://lit.link/_adip0cere",
+                "start": 0,
+                "url": "https://t.co/Q0Wi4tfHGj"
+              }
+            ]
+          }
+        },
+        "id": "1778700125944381440",
+        "is_identity_verified": false,
+        "location": "ヘッダーはかわるいのちちゃん作",
+        "most_recent_tweet_id": "2099073907974369761",
+        "name": "拒否ଳ",
+        "pinned_tweet_id": "2072952595178835974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778700125944381440/1755595327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820261973239754752/7rxYTk0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20596,
+          "following_count": 212,
+          "like_count": 13356,
+          "listed_count": 63,
+          "media_count": 272,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/Q0Wi4tfHGj",
+        "username": "_adip0cere",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
