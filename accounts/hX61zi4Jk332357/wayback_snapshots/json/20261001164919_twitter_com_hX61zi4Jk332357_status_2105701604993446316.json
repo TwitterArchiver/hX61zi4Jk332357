@@ -1,0 +1,694 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105360558606196737"
+      ],
+      "media_source_tweet_id": [
+        "2105360589325279275"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2105701604993446316",
+    "created_at": "2026-10-01T16:49:19.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T17:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105701604993446316"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 15,
+          "tag": "MadokaMagica"
+        },
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "Anime"
+        },
+        {
+          "end": 50,
+          "start": 36,
+          "tag": "Madoka_magica"
+        },
+        {
+          "end": 74,
+          "start": 51,
+          "tag": "PuellaMagiMadokaMagica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1329039821000617987",
+          "start": 3,
+          "username": "Madokism0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PPBBZ5jLM9",
+          "end": 98,
+          "expanded_url": "https://x.com/Madokism0/status/2105360589325279275/video/1",
+          "media_key": "13_2105360558606196737",
+          "start": 75,
+          "url": "https://t.co/PPBBZ5jLM9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105701604993446316",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2105360558606196737"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105360589325279275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Madokism0: #MadokaMagica #Anime #Madoka_magica #PuellaMagiMadokaMagica https://t.co/PPBBZ5jLM9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31300,
+        "height": 720,
+        "media_key": "13_2105360558606196737",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105360558606196737/img/YpyHQW4GRsLdsFKb.jpg",
+        "public_metrics": {
+          "view_count": 8887
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105360558606196737/vid/avc1/320x320/-Ccx-ggjNIPPWU3r.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105360558606196737/vid/avc1/540x540/482V_7dcELrPy6PW.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105360558606196737/vid/avc1/720x720/oS16PPeBJG8TJS6A.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105360558606196737/pl/0IvjeTvr4wx0Zuei.m3u8?v=032"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105360558606196737"
+          ],
+          "media_source_tweet_id": [
+            "2105360589325279275"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2105701604993446316",
+        "created_at": "2026-10-01T16:49:19.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105701604993446316"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 15,
+              "tag": "MadokaMagica"
+            },
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "Anime"
+            },
+            {
+              "end": 50,
+              "start": 36,
+              "tag": "Madoka_magica"
+            },
+            {
+              "end": 74,
+              "start": 51,
+              "tag": "PuellaMagiMadokaMagica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1329039821000617987",
+              "start": 3,
+              "username": "Madokism0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PPBBZ5jLM9",
+              "end": 98,
+              "expanded_url": "https://x.com/Madokism0/status/2105360589325279275/video/1",
+              "media_key": "13_2105360558606196737",
+              "start": 75,
+              "url": "https://t.co/PPBBZ5jLM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105701604993446316",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2105360558606196737"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105360589325279275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Madokism0: #MadokaMagica #Anime #Madoka_magica #PuellaMagiMadokaMagica https://t.co/PPBBZ5jLM9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105360558606196737"
+          ]
+        },
+        "author_id": "1329039821000617987",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2105360589325279275",
+        "created_at": "2026-09-30T18:14:14.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T19:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105360589325279275"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "MadokaMagica"
+            },
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "Anime"
+            },
+            {
+              "end": 35,
+              "start": 21,
+              "tag": "Madoka_magica"
+            },
+            {
+              "end": 59,
+              "start": 36,
+              "tag": "PuellaMagiMadokaMagica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PPBBZ5jLM9",
+              "end": 83,
+              "expanded_url": "https://x.com/Madokism0/status/2105360589325279275/video/1",
+              "media_key": "13_2105360558606196737",
+              "start": 60,
+              "url": "https://t.co/PPBBZ5jLM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105360589325279275",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2105360558606196737"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 329,
+          "impression_count": 16909,
+          "like_count": 1589,
+          "quote_count": 9,
+          "reply_count": 21,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "#MadokaMagica #Anime #Madoka_magica #PuellaMagiMadokaMagica https://t.co/PPBBZ5jLM9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "is_identity_verified": false,
+        "location": "游乐园",
+        "most_recent_tweet_id": "2105701604993446316",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817120099528265728/1766390853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10189,
+          "following_count": 107,
+          "like_count": 3023,
+          "listed_count": 16,
+          "media_count": 524,
+          "tweet_count": 2489
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-18T12:32:55.000Z",
+        "description": "🚹 🇺🇾 \nig: https://t.co/jkdrKU2YVL\ntiktok: https://t.co/k4HuXP3Nub",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/homurismo",
+                "end": 33,
+                "expanded_url": "https://www.instagram.com/homurismo",
+                "start": 10,
+                "url": "https://t.co/jkdrKU2YVL"
+              },
+              {
+                "display_url": "tiktok.com/@homurismo",
+                "end": 65,
+                "expanded_url": "http://tiktok.com/@homurismo",
+                "start": 42,
+                "url": "https://t.co/k4HuXP3Nub"
+              }
+            ]
+          }
+        },
+        "id": "1329039821000617987",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105429520148783445",
+        "name": "Madokismo 🇺🇾 🚹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1329039821000617987/1714627512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928715683166101504/1Qgy9YLw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 1208,
+          "like_count": 99684,
+          "listed_count": 8,
+          "media_count": 2978,
+          "tweet_count": 6723
+        },
+        "url": "",
+        "username": "Madokism0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

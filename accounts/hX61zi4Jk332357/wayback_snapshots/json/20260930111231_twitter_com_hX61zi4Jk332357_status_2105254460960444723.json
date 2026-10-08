@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105154415711895553",
+        "3_2105154415741313024"
+      ],
+      "media_source_tweet_id": [
+        "2105154512495534364",
+        "2105154512495534364"
+      ]
+    },
+    "author_id": "1817120099528265728",
+    "conversation_id": "2105254460960444723",
+    "created_at": "2026-09-30T11:12:31.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T12:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105254460960444723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1462703648337653760",
+          "start": 3,
+          "username": "Fenegar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/566tfxmDed",
+          "end": 49,
+          "expanded_url": "https://x.com/Fenegar/status/2105154512495534364/photo/1",
+          "media_key": "3_2105154415711895553",
+          "start": 26,
+          "url": "https://t.co/566tfxmDed"
+        },
+        {
+          "display_url": "pic.x.com/566tfxmDed",
+          "end": 49,
+          "expanded_url": "https://x.com/Fenegar/status/2105154512495534364/photo/1",
+          "media_key": "3_2105154415741313024",
+          "start": 26,
+          "url": "https://t.co/566tfxmDed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105254460960444723",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105154415711895553"
+      },
+      {
+        "media_key": "3_2105154415741313024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 398
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105154512495534364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fenegar: NYLON描き下ろしより https://t.co/566tfxmDed"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2105154415711895553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcCyZnaQAEq74w.jpg",
+        "width": 2480
+      },
+      {
+        "height": 3054,
+        "media_key": "3_2105154415741313024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcCyZubIAA4K3S.png",
+        "width": 2251
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105154415711895553",
+            "3_2105154415741313024"
+          ],
+          "media_source_tweet_id": [
+            "2105154512495534364",
+            "2105154512495534364"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "2105254460960444723",
+        "created_at": "2026-09-30T11:12:31.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105254460960444723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1462703648337653760",
+              "start": 3,
+              "username": "Fenegar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/566tfxmDed",
+              "end": 49,
+              "expanded_url": "https://x.com/Fenegar/status/2105154512495534364/photo/1",
+              "media_key": "3_2105154415711895553",
+              "start": 26,
+              "url": "https://t.co/566tfxmDed"
+            },
+            {
+              "display_url": "pic.x.com/566tfxmDed",
+              "end": 49,
+              "expanded_url": "https://x.com/Fenegar/status/2105154512495534364/photo/1",
+              "media_key": "3_2105154415741313024",
+              "start": 26,
+              "url": "https://t.co/566tfxmDed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105254460960444723",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105154415711895553"
+          },
+          {
+            "media_key": "3_2105154415741313024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 398
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105154512495534364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fenegar: NYLON描き下ろしより https://t.co/566tfxmDed"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105154415711895553",
+            "3_2105154415741313024"
+          ]
+        },
+        "author_id": "1462703648337653760",
+        "conversation_id": "2105154512495534364",
+        "created_at": "2026-09-30T04:35:22.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105154512495534364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/566tfxmDed",
+              "end": 36,
+              "expanded_url": "https://x.com/Fenegar/status/2105154512495534364/photo/1",
+              "media_key": "3_2105154415711895553",
+              "start": 13,
+              "url": "https://t.co/566tfxmDed"
+            },
+            {
+              "display_url": "pic.x.com/566tfxmDed",
+              "end": 36,
+              "expanded_url": "https://x.com/Fenegar/status/2105154512495534364/photo/1",
+              "media_key": "3_2105154415741313024",
+              "start": 13,
+              "url": "https://t.co/566tfxmDed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105154512495534364",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105154415711895553"
+          },
+          {
+            "media_key": "3_2105154415741313024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 489,
+          "impression_count": 51289,
+          "like_count": 3443,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 398
+        },
+        "reply_settings": "everyone",
+        "text": "NYLON描き下ろしより https://t.co/566tfxmDed"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "一次怪誕，跳脫，偶爾帶著童趣的體驗\n@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "is_identity_verified": false,
+        "location": "游乐园",
+        "most_recent_tweet_id": "2105254460960444723",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817120099528265728/1766390853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052679959010029568/Xb4ryfAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10191,
+          "following_count": 107,
+          "like_count": 3018,
+          "listed_count": 16,
+          "media_count": 524,
+          "tweet_count": 2487
+        },
+        "url": "",
+        "username": "hX61zi4Jk332357",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-22T08:50:36.000Z",
+        "description": "漫画描いてまーす。今年連載取るのが目標。\nnon-binary/ace。中/日/ENG\nhttps://t.co/KECyW24KGx\nbskyに生息してる(絵、呟きなど)。こっちは告知や好きなものを応援するのがメイン、かな⁈",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/fenegar",
+                "end": 67,
+                "expanded_url": "https://linktr.ee/fenegar",
+                "start": 44,
+                "url": "https://t.co/KECyW24KGx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@fenegar",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@fenegar",
+                "start": 0,
+                "url": "https://t.co/2G9QqX6Qlu"
+              }
+            ]
+          }
+        },
+        "id": "1462703648337653760",
+        "is_identity_verified": false,
+        "location": "通知off",
+        "most_recent_tweet_id": "2105186217679819179",
+        "name": "酢田",
+        "pinned_tweet_id": "2019512465818808798",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462703648337653760/1762488833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059691501786181632/GuoKy2gO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3225,
+          "following_count": 466,
+          "like_count": 7761,
+          "listed_count": 17,
+          "media_count": 160,
+          "tweet_count": 3309
+        },
+        "url": "https://t.co/2G9QqX6Qlu",
+        "username": "Fenegar",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
